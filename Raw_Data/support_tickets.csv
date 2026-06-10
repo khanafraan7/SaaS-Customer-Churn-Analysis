@@ -1,0 +1,3001 @@
+ticket_id,customer_id,issue_type,priority,resolution_time_hours,ticket_status,support_channel
+TKT-1808,CUS-84332264,Bug Report,Medium,39,Open,Web Portal
+TKT-4456,CUS-83598437,Refund Request,Low,36,Closed,Chat
+TKT-1479,CUS-71055915,Login Issue,Medium,24,Closed,Chat
+TKT-2402,CUS-36075472,Login Issue,High,68,Open,Phone
+TKT-8543,CUS-66706844,Login Issue,Low,8,Closed,Chat
+TKT-8628,CUS-19030556,Payment Failure,Medium,31,Closed,Email
+TKT-8907,CUS-43172101,Bug Report,Low,67,Closed,Chat
+TKT-8305,CUS-51184932,Login Issue,Medium,46,Closed,Email
+TKT-6827,CUS-49909786,Bug Report,Medium,44,Closed,Email
+TKT-6493,CUS-20623729,Login Issue,Medium,20,Closed,Phone
+TKT-7991,CUS-52074118,Payment Failure,Low,29,Open,Chat
+TKT-2296,CUS-68511308,Subscription Problem,Medium,26,Closed,Phone
+TKT-3219,CUS-24825604,Login Issue,Low,41,Pending,Email
+TKT-2736,CUS-95040082,Bug Report,Low,50,Closed,Phone
+TKT-9138,CUS-42804210,Login Issue,Low,26,Closed,Phone
+TKT-1031,CUS-81539008,Subscription Problem,Low,20,Closed,Chat
+TKT-5955,CUS-16246131,Bug Report,High,50,Closed,Chat
+TKT-9965,CUS-88179336,Bug Report,Critical,49,Closed,Email
+TKT-1330,CUS-81079269,Subscription Problem,Low,72,Closed,Email
+TKT-1491,CUS-64011619,Bug Report,Low,52,Open,Email
+TKT-6726,CUS-80918489,Refund Request,Low,27,Open,Chat
+TKT-7173,CUS-32904547,Payment Failure,Medium,8,Open,Phone
+TKT-5734,CUS-94243248,Subscription Problem,Medium,7,Pending,Phone
+TKT-9155,CUS-15558502,Feature Request,Low,69,Closed,Phone
+TKT-7183,CUS-83507528,Payment Failure,Critical,39,Open,Chat
+TKT-8369,CUS-83735537,Payment Failure,Low,61,Closed,Email
+TKT-1984,CUS-33494494,Subscription Problem,Low,52,Closed,Web Portal
+TKT-8273,CUS-16288916,Bug Report,Low,22,Closed,Web Portal
+TKT-9734,CUS-89564398,Payment Failure,Low,14,Closed,Chat
+TKT-7201,CUS-92989315,Payment Failure,Critical,67,Closed,Chat
+TKT-9592,CUS-10295611,Subscription Problem,Low,34,Open,Email
+TKT-4051,CUS-25894501,Payment Failure,Critical,40,Closed,Email
+TKT-7944,CUS-42084977,Refund Request,Medium,65,Closed,Chat
+TKT-3756,CUS-82165601,Login Issue,Medium,25,Closed,Phone
+TKT-9975,CUS-80640398,Payment Failure,Medium,55,Closed,Phone
+TKT-9650,CUS-72860850,Login Issue,Medium,2,Closed,Email
+TKT-3213,CUS-64245369,Login Issue,Low,50,Closed,Chat
+TKT-1069,CUS-22399399,Bug Report,Medium,2,Closed,Web Portal
+TKT-4690,CUS-74947997,Bug Report,Medium,27,Closed,Phone
+TKT-2505,CUS-49341306,Payment Failure,Low,12,Closed,Phone
+TKT-6623,CUS-34912997,Login Issue,Medium,33,Closed,Chat
+TKT-2219,CUS-90625891,Login Issue,Low,42,Closed,Chat
+TKT-3351,CUS-27561642,Payment Failure,Medium,49,Open,Chat
+TKT-7824,CUS-17069657,Payment Failure,Low,61,Pending,Email
+TKT-1675,CUS-27642115,Payment Failure,Low,38,Closed,Email
+TKT-8986,CUS-61807354,Bug Report,Low,38,Open,Chat
+TKT-1646,CUS-20360344,Payment Failure,Low,35,Closed,Phone
+TKT-5270,CUS-98870199,Bug Report,Low,27,Closed,Chat
+TKT-1720,CUS-64774291,Login Issue,High,14,Closed,Web Portal
+TKT-3164,CUS-32792025,Bug Report,Medium,15,Open,Email
+TKT-1247,CUS-66155424,Bug Report,Low,37,Closed,Email
+TKT-7322,CUS-28946068,Refund Request,Low,23,Closed,Email
+TKT-9463,CUS-76603019,Bug Report,Low,66,Closed,Email
+TKT-9492,CUS-65534855,Payment Failure,High,62,Closed,Email
+TKT-3154,CUS-29954748,Login Issue,Medium,45,Open,Chat
+TKT-1162,CUS-46110966,Refund Request,Low,58,Closed,Chat
+TKT-6931,CUS-62005831,Login Issue,High,61,Open,Email
+TKT-6809,CUS-44126991,Payment Failure,High,12,Closed,Chat
+TKT-4801,CUS-14553204,Subscription Problem,Medium,12,Pending,Phone
+TKT-5424,CUS-67780193,Payment Failure,Critical,70,Closed,Email
+TKT-8827,CUS-73040682,Bug Report,Low,10,Closed,Email
+TKT-2557,CUS-18614321,Login Issue,Low,43,Closed,Chat
+TKT-5262,CUS-26135239,Payment Failure,Low,50,Open,Web Portal
+TKT-7356,CUS-22567117,Bug Report,High,28,Closed,Chat
+TKT-8373,CUS-96593714,Login Issue,Low,19,Closed,Chat
+TKT-7800,CUS-36404700,Login Issue,Low,68,Closed,Chat
+TKT-4448,CUS-60872927,Subscription Problem,Medium,27,Open,Email
+TKT-8516,CUS-68811668,Refund Request,Low,70,Closed,Chat
+TKT-4181,CUS-51531906,Login Issue,Low,1,Open,Chat
+TKT-7431,CUS-89869099,Subscription Problem,Medium,30,Open,Email
+TKT-7947,CUS-10354539,Login Issue,Medium,42,Closed,Email
+TKT-6898,CUS-18921125,Subscription Problem,Medium,50,Closed,Chat
+TKT-8629,CUS-17421725,Payment Failure,Low,60,Closed,Chat
+TKT-8806,CUS-14484736,Payment Failure,Medium,56,Closed,Chat
+TKT-1567,CUS-55981896,Bug Report,Medium,44,Closed,Phone
+TKT-1476,CUS-52139061,Subscription Problem,Low,67,Closed,Email
+TKT-3809,CUS-56017544,Payment Failure,High,67,Closed,Email
+TKT-8326,CUS-71999602,Bug Report,Low,19,Closed,Chat
+TKT-3333,CUS-17567562,Login Issue,High,26,Closed,Chat
+TKT-1883,CUS-51323089,Payment Failure,Medium,58,Closed,Email
+TKT-5891,CUS-79092759,Login Issue,Low,24,Closed,Phone
+TKT-7880,CUS-80134401,Bug Report,High,59,Open,Chat
+TKT-6641,CUS-11508889,Login Issue,Medium,71,Open,Email
+TKT-2818,CUS-98060758,Login Issue,Low,49,Open,Email
+TKT-9221,CUS-34910398,Subscription Problem,High,54,Closed,Email
+TKT-6466,CUS-31994863,Payment Failure,Low,20,Closed,Chat
+TKT-2758,CUS-60768651,Payment Failure,Critical,61,Closed,Phone
+TKT-8057,CUS-87632315,Subscription Problem,Low,30,Closed,Phone
+TKT-1736,CUS-94823206,Login Issue,Low,51,Pending,Phone
+TKT-3485,CUS-77231245,Subscription Problem,Critical,53,Closed,Phone
+TKT-7128,CUS-68527055,Login Issue,Medium,4,Pending,Chat
+TKT-9203,CUS-37424595,Subscription Problem,High,58,Closed,Email
+TKT-6712,CUS-55225331,Refund Request,Medium,12,Pending,Email
+TKT-8216,CUS-51202971,Login Issue,Medium,49,Closed,Email
+TKT-7920,CUS-21454810,Bug Report,Low,30,Closed,Chat
+TKT-5919,CUS-26970953,Subscription Problem,Low,30,Closed,Chat
+TKT-5824,CUS-71037606,Login Issue,Medium,45,Closed,Email
+TKT-1319,CUS-88439537,Payment Failure,Low,13,Closed,Phone
+TKT-9396,CUS-90285896,Subscription Problem,High,31,Closed,Chat
+TKT-7914,CUS-59424122,Refund Request,Medium,13,Pending,Email
+TKT-4452,CUS-76807142,Subscription Problem,Medium,48,Closed,Email
+TKT-1460,CUS-73065042,Refund Request,Low,44,Closed,Chat
+TKT-4886,CUS-37097414,Refund Request,Medium,20,Closed,Chat
+TKT-9014,CUS-73663907,Login Issue,Low,6,Closed,Phone
+TKT-5715,CUS-69586619,Payment Failure,Critical,72,Open,Email
+TKT-5918,CUS-37560036,Bug Report,Low,53,Closed,Email
+TKT-8130,CUS-42676532,Payment Failure,Medium,60,Closed,Email
+TKT-8947,CUS-80820774,Subscription Problem,Low,62,Closed,Email
+TKT-3933,CUS-87712948,Bug Report,Low,41,Closed,Email
+TKT-7973,CUS-31950532,Login Issue,Low,1,Closed,Email
+TKT-1603,CUS-37821449,Login Issue,Medium,55,Open,Chat
+TKT-4026,CUS-76630810,Bug Report,Low,26,Closed,Phone
+TKT-2648,CUS-86383059,Bug Report,Low,14,Closed,Email
+TKT-2963,CUS-97244783,Subscription Problem,Low,44,Closed,Web Portal
+TKT-1150,CUS-82633783,Login Issue,Medium,65,Open,Email
+TKT-5234,CUS-83074113,Login Issue,Medium,22,Closed,Email
+TKT-8626,CUS-86126075,Bug Report,High,18,Open,Chat
+TKT-3010,CUS-13025376,Login Issue,Low,23,Pending,Web Portal
+TKT-7305,CUS-39962957,Subscription Problem,Medium,22,Closed,Chat
+TKT-2542,CUS-90754528,Bug Report,Low,59,Pending,Email
+TKT-5995,CUS-57355704,Payment Failure,Low,37,Pending,Web Portal
+TKT-9996,CUS-72617026,Refund Request,Low,70,Closed,Phone
+TKT-3172,CUS-28885517,Feature Request,Medium,27,Open,Phone
+TKT-8813,CUS-67539660,Payment Failure,Medium,72,Closed,Email
+TKT-1425,CUS-24952782,Payment Failure,Low,44,Closed,Email
+TKT-5222,CUS-90754823,Login Issue,Medium,52,Pending,Email
+TKT-6778,CUS-80374636,Login Issue,Medium,8,Closed,Email
+TKT-8965,CUS-62053560,Subscription Problem,Medium,6,Open,Chat
+TKT-6935,CUS-62043339,Bug Report,Medium,46,Closed,Email
+TKT-2273,CUS-48891815,Bug Report,Medium,37,Closed,Email
+TKT-3613,CUS-43050795,Feature Request,Medium,71,Closed,Email
+TKT-1536,CUS-96964404,Payment Failure,Low,35,Closed,Email
+TKT-2307,CUS-13159453,Feature Request,High,70,Closed,Email
+TKT-8760,CUS-41673228,Bug Report,High,37,Open,Chat
+TKT-9885,CUS-94657635,Refund Request,Low,56,Closed,Web Portal
+TKT-2746,CUS-54256880,Login Issue,Medium,3,Closed,Email
+TKT-5588,CUS-78779484,Bug Report,Low,69,Pending,Email
+TKT-6308,CUS-70757120,Subscription Problem,Low,21,Closed,Email
+TKT-3102,CUS-90873769,Login Issue,Low,37,Open,Email
+TKT-2703,CUS-60815411,Bug Report,High,50,Open,Email
+TKT-1144,CUS-68782430,Payment Failure,Low,47,Closed,Chat
+TKT-2964,CUS-64456327,Subscription Problem,Medium,68,Closed,Phone
+TKT-6353,CUS-79778247,Refund Request,Medium,37,Closed,Chat
+TKT-4343,CUS-77484741,Subscription Problem,Low,21,Closed,Email
+TKT-2247,CUS-47319333,Refund Request,Low,67,Closed,Web Portal
+TKT-5171,CUS-65178882,Payment Failure,Medium,29,Pending,Email
+TKT-5769,CUS-42517462,Payment Failure,Low,17,Closed,Chat
+TKT-8653,CUS-24874308,Refund Request,Low,23,Closed,Phone
+TKT-1915,CUS-66017200,Bug Report,Critical,14,Closed,Email
+TKT-8369,CUS-21381112,Payment Failure,High,28,Closed,Email
+TKT-3080,CUS-96554776,Login Issue,Medium,42,Closed,Phone
+TKT-8022,CUS-55955690,Refund Request,Medium,13,Closed,Email
+TKT-6876,CUS-27418213,Subscription Problem,Medium,56,Closed,Chat
+TKT-2718,CUS-86022702,Bug Report,Medium,36,Closed,Chat
+TKT-6069,CUS-64568722,Payment Failure,Medium,66,Closed,Phone
+TKT-9247,CUS-80233762,Login Issue,Medium,14,Closed,Email
+TKT-6724,CUS-26307653,Bug Report,Low,32,Open,Email
+TKT-8089,CUS-20808413,Subscription Problem,Low,33,Closed,Email
+TKT-3527,CUS-54271644,Feature Request,Low,37,Closed,Chat
+TKT-5914,CUS-35623779,Refund Request,Low,35,Open,Chat
+TKT-9149,CUS-12166974,Payment Failure,Low,57,Closed,Chat
+TKT-5923,CUS-96288039,Payment Failure,Low,23,Open,Email
+TKT-1929,CUS-10234759,Login Issue,Medium,25,Closed,Phone
+TKT-3372,CUS-34756125,Login Issue,Medium,57,Closed,Chat
+TKT-2044,CUS-23840396,Payment Failure,Low,23,Closed,Chat
+TKT-1454,CUS-53082964,Payment Failure,Low,59,Open,Chat
+TKT-7636,CUS-54815027,Payment Failure,Medium,29,Pending,Chat
+TKT-5736,CUS-24195294,Refund Request,Medium,6,Closed,Email
+TKT-8704,CUS-62615377,Subscription Problem,Medium,7,Closed,Chat
+TKT-1009,CUS-82925741,Login Issue,Low,9,Open,Chat
+TKT-9943,CUS-31437660,Login Issue,Low,15,Closed,Email
+TKT-4038,CUS-19210484,Payment Failure,Medium,45,Closed,Chat
+TKT-7462,CUS-58337368,Bug Report,Medium,15,Closed,Email
+TKT-5110,CUS-30702923,Feature Request,Medium,29,Open,Web Portal
+TKT-8004,CUS-74296965,Subscription Problem,Medium,30,Closed,Email
+TKT-3956,CUS-41183680,Payment Failure,Low,39,Closed,Chat
+TKT-6307,CUS-37367323,Feature Request,Medium,43,Closed,Chat
+TKT-9583,CUS-53519119,Bug Report,Low,60,Closed,Email
+TKT-6312,CUS-20968128,Bug Report,Medium,19,Closed,Phone
+TKT-1543,CUS-55644829,Refund Request,Medium,35,Closed,Chat
+TKT-2169,CUS-57028374,Subscription Problem,Medium,31,Open,Email
+TKT-7487,CUS-41698862,Refund Request,Medium,70,Closed,Email
+TKT-5104,CUS-16301148,Login Issue,Low,4,Closed,Chat
+TKT-4425,CUS-70472291,Payment Failure,Low,50,Closed,Phone
+TKT-7490,CUS-62713204,Bug Report,High,12,Closed,Email
+TKT-5914,CUS-39412741,Refund Request,High,15,Open,Email
+TKT-9957,CUS-45772041,Login Issue,Critical,61,Pending,Chat
+TKT-3465,CUS-31434773,Feature Request,Medium,17,Closed,Email
+TKT-5504,CUS-73864290,Login Issue,Medium,39,Closed,Email
+TKT-7134,CUS-44099374,Bug Report,Medium,21,Closed,Web Portal
+TKT-2188,CUS-15088946,Payment Failure,Low,11,Open,Email
+TKT-1590,CUS-80104582,Refund Request,Low,28,Closed,Phone
+TKT-2841,CUS-28486691,Subscription Problem,Low,53,Closed,Chat
+TKT-6910,CUS-92524726,Feature Request,Low,24,Closed,Web Portal
+TKT-7814,CUS-79047712,Refund Request,High,65,Closed,Email
+TKT-7090,CUS-54389572,Bug Report,Medium,4,Pending,Chat
+TKT-8484,CUS-42889878,Bug Report,Low,47,Open,Email
+TKT-4024,CUS-22023222,Refund Request,Medium,72,Open,Phone
+TKT-7993,CUS-97555747,Bug Report,Low,31,Closed,Chat
+TKT-8206,CUS-81286955,Login Issue,Medium,41,Closed,Email
+TKT-3939,CUS-14383833,Subscription Problem,Low,30,Closed,Web Portal
+TKT-2288,CUS-49382970,Feature Request,Medium,6,Open,Email
+TKT-1064,CUS-33089421,Login Issue,Low,22,Closed,Chat
+TKT-2233,CUS-54706872,Feature Request,High,49,Open,Email
+TKT-3493,CUS-63992791,Bug Report,Medium,6,Closed,Chat
+TKT-9640,CUS-67860785,Login Issue,Low,20,Closed,Phone
+TKT-9647,CUS-49160831,Login Issue,Low,55,Open,Email
+TKT-1955,CUS-53517565,Login Issue,Low,21,Closed,Chat
+TKT-5977,CUS-76594060,Subscription Problem,High,66,Closed,Email
+TKT-3067,CUS-97886088,Login Issue,Medium,56,Pending,Chat
+TKT-1509,CUS-44712178,Refund Request,Low,46,Closed,Chat
+TKT-8234,CUS-92448465,Login Issue,Medium,31,Closed,Chat
+TKT-2323,CUS-23896645,Login Issue,Critical,53,Closed,Phone
+TKT-2481,CUS-33440424,Subscription Problem,Medium,56,Closed,Email
+TKT-3240,CUS-70134454,Bug Report,Low,15,Closed,Chat
+TKT-3207,CUS-57884792,Payment Failure,Low,63,Open,Chat
+TKT-2923,CUS-44096666,Login Issue,High,40,Open,Email
+TKT-8042,CUS-67730972,Bug Report,Low,49,Closed,Chat
+TKT-6690,CUS-25961611,Subscription Problem,Medium,22,Closed,Web Portal
+TKT-2407,CUS-80347925,Login Issue,Medium,17,Closed,Phone
+TKT-1708,CUS-13876895,Subscription Problem,Medium,37,Open,Email
+TKT-6100,CUS-78146888,Payment Failure,Low,49,Closed,Email
+TKT-3014,CUS-74551205,Payment Failure,Low,61,Closed,Email
+TKT-3379,CUS-81444823,Payment Failure,Low,57,Closed,Email
+TKT-2737,CUS-15599269,Login Issue,Low,18,Closed,Chat
+TKT-2416,CUS-82907753,Subscription Problem,Low,39,Closed,Email
+TKT-4818,CUS-18399123,Feature Request,Critical,31,Closed,Email
+TKT-7355,CUS-35522512,Login Issue,Medium,12,Closed,Phone
+TKT-4272,CUS-28697879,Login Issue,Medium,26,Pending,Chat
+TKT-3975,CUS-66296250,Payment Failure,High,13,Open,Chat
+TKT-5410,CUS-84302202,Payment Failure,High,71,Closed,Phone
+TKT-5673,CUS-73773487,Login Issue,Low,38,Open,Email
+TKT-7286,CUS-14545052,Bug Report,Medium,47,Closed,Phone
+TKT-7002,CUS-82726512,Refund Request,High,16,Closed,Chat
+TKT-6212,CUS-92386593,Subscription Problem,Low,52,Closed,Chat
+TKT-4375,CUS-27423738,Payment Failure,High,53,Open,Phone
+TKT-2332,CUS-28296183,Login Issue,High,34,Open,Web Portal
+TKT-9912,CUS-95320213,Payment Failure,Low,63,Closed,Chat
+TKT-8127,CUS-83859201,Bug Report,Low,23,Closed,Chat
+TKT-3373,CUS-93053676,Bug Report,Low,68,Closed,Phone
+TKT-5340,CUS-45461132,Feature Request,Low,24,Open,Web Portal
+TKT-7871,CUS-17224362,Subscription Problem,Low,46,Closed,Email
+TKT-4442,CUS-90351677,Subscription Problem,Low,39,Closed,Chat
+TKT-5997,CUS-59368712,Bug Report,Low,48,Closed,Phone
+TKT-8584,CUS-95850111,Subscription Problem,Low,68,Closed,Email
+TKT-6018,CUS-81812336,Refund Request,Low,64,Closed,Email
+TKT-3715,CUS-88080662,Payment Failure,Low,23,Closed,Email
+TKT-5402,CUS-57279491,Payment Failure,Medium,61,Open,Email
+TKT-9015,CUS-57714936,Bug Report,Medium,37,Closed,Chat
+TKT-4458,CUS-33063969,Login Issue,High,21,Closed,Email
+TKT-5434,CUS-56495315,Bug Report,Critical,54,Closed,Email
+TKT-3303,CUS-49802683,Subscription Problem,Low,26,Open,Email
+TKT-1458,CUS-61562830,Payment Failure,Medium,8,Closed,Web Portal
+TKT-6507,CUS-24007436,Login Issue,Low,61,Closed,Chat
+TKT-3454,CUS-95184274,Bug Report,Low,38,Closed,Email
+TKT-6642,CUS-63837086,Login Issue,Medium,41,Closed,Email
+TKT-6766,CUS-70232308,Payment Failure,High,8,Open,Chat
+TKT-3057,CUS-39186618,Subscription Problem,Low,65,Closed,Phone
+TKT-5003,CUS-19518624,Payment Failure,Low,12,Pending,Email
+TKT-2707,CUS-46787819,Payment Failure,High,64,Closed,Email
+TKT-2349,CUS-92785174,Feature Request,High,12,Open,Web Portal
+TKT-2458,CUS-64879316,Subscription Problem,Low,33,Closed,Chat
+TKT-3482,CUS-97079515,Bug Report,Low,12,Closed,Email
+TKT-8336,CUS-76236718,Login Issue,Low,8,Closed,Email
+TKT-3450,CUS-61882101,Refund Request,Critical,68,Closed,Phone
+TKT-6420,CUS-47425406,Login Issue,Low,30,Closed,Email
+TKT-3352,CUS-14575371,Feature Request,Low,38,Closed,Email
+TKT-5700,CUS-34343598,Bug Report,Low,25,Closed,Web Portal
+TKT-3512,CUS-84648698,Refund Request,Critical,13,Open,Chat
+TKT-9347,CUS-66100949,Login Issue,Low,29,Closed,Phone
+TKT-5063,CUS-80791080,Refund Request,High,53,Closed,Phone
+TKT-6873,CUS-61994058,Feature Request,Low,13,Closed,Email
+TKT-4286,CUS-57247595,Payment Failure,High,3,Open,Email
+TKT-5323,CUS-49535174,Bug Report,Low,40,Closed,Web Portal
+TKT-4619,CUS-68960422,Refund Request,Medium,29,Closed,Email
+TKT-5914,CUS-69510404,Bug Report,Critical,71,Pending,Email
+TKT-8491,CUS-99095229,Login Issue,Medium,38,Closed,Phone
+TKT-7626,CUS-24135234,Login Issue,High,64,Closed,Chat
+TKT-7014,CUS-56636566,Payment Failure,Low,26,Open,Chat
+TKT-6022,CUS-46048313,Login Issue,Medium,23,Open,Chat
+TKT-7049,CUS-93978381,Bug Report,Low,2,Closed,Chat
+TKT-3560,CUS-69504309,Subscription Problem,Medium,58,Closed,Chat
+TKT-6006,CUS-92239668,Payment Failure,Medium,3,Closed,Chat
+TKT-8696,CUS-15208470,Bug Report,Medium,58,Pending,Phone
+TKT-5572,CUS-31910272,Payment Failure,Low,65,Closed,Email
+TKT-2356,CUS-91224459,Login Issue,Low,51,Open,Web Portal
+TKT-9933,CUS-63830135,Login Issue,Medium,31,Closed,Chat
+TKT-8215,CUS-71474735,Refund Request,Low,63,Closed,Email
+TKT-3374,CUS-94534518,Login Issue,Low,51,Closed,Email
+TKT-1562,CUS-27881563,Login Issue,Critical,20,Closed,Chat
+TKT-2296,CUS-69213422,Login Issue,Low,13,Closed,Chat
+TKT-7972,CUS-96312143,Bug Report,Medium,52,Closed,Chat
+TKT-4472,CUS-48500651,Subscription Problem,Low,62,Open,Phone
+TKT-6383,CUS-75922230,Login Issue,Medium,54,Open,Web Portal
+TKT-5424,CUS-48565042,Refund Request,Medium,29,Pending,Chat
+TKT-7608,CUS-39881167,Refund Request,Low,27,Closed,Web Portal
+TKT-4700,CUS-43541968,Login Issue,Low,47,Closed,Phone
+TKT-3252,CUS-17654644,Login Issue,Medium,62,Closed,Email
+TKT-9595,CUS-27214196,Refund Request,Critical,54,Closed,Chat
+TKT-5703,CUS-93971130,Payment Failure,Medium,62,Pending,Chat
+TKT-6893,CUS-45706139,Login Issue,High,64,Closed,Web Portal
+TKT-6256,CUS-10078115,Login Issue,Low,5,Open,Email
+TKT-5153,CUS-19235059,Refund Request,Low,65,Closed,Chat
+TKT-1851,CUS-65908774,Refund Request,High,65,Closed,Chat
+TKT-8455,CUS-11104574,Payment Failure,Medium,13,Pending,Email
+TKT-1889,CUS-35615705,Bug Report,High,35,Pending,Chat
+TKT-1810,CUS-10377462,Bug Report,Medium,24,Open,Chat
+TKT-5604,CUS-72769401,Refund Request,Low,19,Closed,Email
+TKT-6757,CUS-85254291,Bug Report,Medium,70,Closed,Email
+TKT-5744,CUS-20208563,Payment Failure,Low,70,Closed,Email
+TKT-7388,CUS-43027696,Refund Request,Critical,14,Open,Email
+TKT-8289,CUS-14219236,Login Issue,Medium,29,Closed,Web Portal
+TKT-3113,CUS-50464165,Refund Request,Medium,58,Pending,Chat
+TKT-4020,CUS-72339644,Payment Failure,Low,9,Closed,Chat
+TKT-6709,CUS-57790837,Bug Report,Medium,65,Pending,Email
+TKT-2295,CUS-57607836,Login Issue,Medium,47,Pending,Chat
+TKT-1320,CUS-28824416,Login Issue,Medium,14,Closed,Chat
+TKT-1008,CUS-71092499,Feature Request,High,37,Pending,Phone
+TKT-5729,CUS-12254895,Payment Failure,Medium,33,Closed,Chat
+TKT-7419,CUS-25321139,Payment Failure,Medium,54,Closed,Chat
+TKT-2773,CUS-84584342,Feature Request,Low,26,Closed,Chat
+TKT-1467,CUS-15183894,Login Issue,Low,64,Closed,Chat
+TKT-4691,CUS-35053387,Login Issue,Low,53,Open,Chat
+TKT-2826,CUS-22229376,Login Issue,High,15,Closed,Phone
+TKT-3086,CUS-11354814,Bug Report,Critical,69,Closed,Chat
+TKT-5672,CUS-50893984,Login Issue,Low,20,Pending,Chat
+TKT-7559,CUS-49336060,Payment Failure,Low,42,Open,Chat
+TKT-4726,CUS-16284771,Bug Report,Medium,10,Closed,Email
+TKT-3503,CUS-57753748,Bug Report,Low,69,Closed,Email
+TKT-7619,CUS-42462379,Refund Request,Medium,15,Closed,Email
+TKT-9822,CUS-85290144,Refund Request,Medium,23,Pending,Email
+TKT-9749,CUS-21320138,Payment Failure,Critical,38,Closed,Email
+TKT-7859,CUS-48620121,Login Issue,Low,33,Closed,Chat
+TKT-9881,CUS-54615875,Login Issue,Low,51,Closed,Phone
+TKT-4063,CUS-94906420,Payment Failure,High,54,Closed,Chat
+TKT-4184,CUS-79757519,Login Issue,Low,57,Closed,Chat
+TKT-3508,CUS-66998488,Subscription Problem,Medium,7,Closed,Email
+TKT-1282,CUS-85996992,Feature Request,High,31,Closed,Chat
+TKT-9364,CUS-15974335,Bug Report,Low,62,Closed,Chat
+TKT-6226,CUS-96816848,Feature Request,Medium,48,Open,Email
+TKT-5568,CUS-15233143,Payment Failure,Critical,42,Closed,Chat
+TKT-3033,CUS-46000799,Payment Failure,High,29,Open,Email
+TKT-9473,CUS-74865373,Login Issue,Low,71,Closed,Email
+TKT-2002,CUS-24135736,Bug Report,Low,48,Closed,Email
+TKT-7873,CUS-96940266,Login Issue,Low,51,Closed,Chat
+TKT-6496,CUS-40169432,Refund Request,Medium,20,Closed,Chat
+TKT-7475,CUS-24881293,Login Issue,Low,58,Closed,Phone
+TKT-9106,CUS-29816486,Payment Failure,Low,48,Closed,Chat
+TKT-6128,CUS-86271066,Login Issue,Medium,68,Open,Phone
+TKT-7428,CUS-65259447,Login Issue,Medium,5,Open,Phone
+TKT-9488,CUS-46907363,Bug Report,Low,7,Closed,Web Portal
+TKT-3962,CUS-11182420,Payment Failure,Low,1,Open,Email
+TKT-7548,CUS-24206368,Payment Failure,Medium,33,Open,Email
+TKT-1669,CUS-26049773,Payment Failure,Low,57,Closed,Email
+TKT-1866,CUS-60817879,Subscription Problem,Medium,36,Pending,Chat
+TKT-6782,CUS-22168140,Bug Report,Medium,24,Closed,Chat
+TKT-3630,CUS-24533472,Refund Request,Medium,33,Pending,Web Portal
+TKT-3719,CUS-34526590,Login Issue,Low,18,Closed,Email
+TKT-4664,CUS-61740244,Subscription Problem,Low,61,Closed,Chat
+TKT-2081,CUS-54844521,Subscription Problem,Medium,67,Closed,Email
+TKT-2949,CUS-65660032,Refund Request,Low,38,Closed,Email
+TKT-4267,CUS-61901065,Bug Report,Low,25,Closed,Phone
+TKT-2610,CUS-95936408,Login Issue,Medium,35,Closed,Email
+TKT-4896,CUS-23808168,Payment Failure,High,41,Pending,Email
+TKT-2617,CUS-41172527,Login Issue,Low,61,Closed,Chat
+TKT-3630,CUS-80406011,Payment Failure,High,42,Closed,Chat
+TKT-6102,CUS-94142654,Login Issue,Low,68,Open,Email
+TKT-7756,CUS-74837208,Subscription Problem,Low,50,Open,Email
+TKT-1741,CUS-57183261,Bug Report,High,28,Pending,Chat
+TKT-8490,CUS-45385208,Refund Request,Low,9,Closed,Chat
+TKT-1056,CUS-62334428,Subscription Problem,Low,6,Closed,Chat
+TKT-6083,CUS-43986636,Payment Failure,Low,22,Open,Phone
+TKT-6433,CUS-32642918,Subscription Problem,High,23,Open,Chat
+TKT-1827,CUS-14769621,Subscription Problem,Medium,2,Closed,Email
+TKT-3830,CUS-23796527,Subscription Problem,Medium,24,Closed,Chat
+TKT-5685,CUS-70834235,Login Issue,Low,40,Closed,Web Portal
+TKT-4557,CUS-80608002,Payment Failure,Medium,68,Closed,Web Portal
+TKT-6505,CUS-67190011,Login Issue,Low,69,Closed,Email
+TKT-3782,CUS-82769998,Bug Report,High,17,Pending,Phone
+TKT-1271,CUS-73525530,Bug Report,Low,9,Closed,Email
+TKT-5406,CUS-23981436,Login Issue,Medium,49,Closed,Chat
+TKT-5582,CUS-33762076,Bug Report,Medium,13,Closed,Email
+TKT-2956,CUS-11922236,Subscription Problem,Low,70,Closed,Chat
+TKT-3354,CUS-26905817,Bug Report,Low,22,Closed,Phone
+TKT-2156,CUS-44946268,Bug Report,Low,43,Closed,Email
+TKT-3265,CUS-68372952,Login Issue,Low,32,Open,Chat
+TKT-6228,CUS-55741805,Login Issue,High,61,Open,Chat
+TKT-1987,CUS-55104336,Payment Failure,Critical,4,Pending,Email
+TKT-6793,CUS-70023519,Login Issue,Medium,57,Closed,Phone
+TKT-7488,CUS-37445576,Subscription Problem,High,49,Closed,Phone
+TKT-9247,CUS-16196351,Login Issue,Medium,32,Closed,Email
+TKT-5771,CUS-95316454,Bug Report,Low,41,Closed,Email
+TKT-3888,CUS-86133927,Subscription Problem,High,45,Pending,Email
+TKT-7482,CUS-16038931,Payment Failure,Medium,2,Closed,Chat
+TKT-2831,CUS-23904966,Subscription Problem,Low,40,Closed,Email
+TKT-2060,CUS-50010418,Login Issue,High,12,Open,Chat
+TKT-2197,CUS-11742966,Payment Failure,Low,8,Open,Email
+TKT-4598,CUS-37381799,Payment Failure,Low,52,Closed,Email
+TKT-5970,CUS-65296754,Login Issue,Medium,9,Open,Email
+TKT-2512,CUS-34925333,Bug Report,Medium,62,Closed,Email
+TKT-6580,CUS-10046979,Bug Report,Critical,26,Closed,Email
+TKT-9139,CUS-77908440,Login Issue,Critical,70,Closed,Chat
+TKT-4684,CUS-10910164,Login Issue,Medium,63,Closed,Phone
+TKT-4758,CUS-45949981,Bug Report,High,37,Pending,Email
+TKT-1440,CUS-29203261,Feature Request,Low,55,Closed,Email
+TKT-2919,CUS-61042492,Bug Report,Low,23,Open,Phone
+TKT-3898,CUS-77063937,Subscription Problem,Low,26,Closed,Chat
+TKT-1503,CUS-87613010,Bug Report,Low,6,Closed,Phone
+TKT-8056,CUS-10761911,Payment Failure,Low,23,Open,Chat
+TKT-5348,CUS-60345331,Subscription Problem,Low,9,Closed,Phone
+TKT-5136,CUS-77272973,Refund Request,Low,52,Closed,Phone
+TKT-5388,CUS-80604034,Login Issue,Low,54,Closed,Chat
+TKT-7300,CUS-56350713,Login Issue,Critical,26,Closed,Email
+TKT-1437,CUS-28662434,Bug Report,Critical,63,Closed,Email
+TKT-6832,CUS-76953515,Bug Report,Critical,7,Open,Phone
+TKT-8019,CUS-11199192,Payment Failure,Low,43,Closed,Phone
+TKT-6548,CUS-97305989,Payment Failure,Low,57,Pending,Email
+TKT-8824,CUS-21256431,Subscription Problem,High,60,Closed,Phone
+TKT-5725,CUS-27611891,Subscription Problem,Low,32,Closed,Email
+TKT-3128,CUS-18119785,Subscription Problem,High,49,Open,Web Portal
+TKT-7640,CUS-23751834,Login Issue,High,68,Closed,Phone
+TKT-2808,CUS-67997776,Login Issue,High,56,Closed,Chat
+TKT-6875,CUS-14030979,Payment Failure,Low,39,Closed,Phone
+TKT-4617,CUS-37952744,Login Issue,Low,57,Open,Phone
+TKT-6735,CUS-48388196,Payment Failure,Medium,7,Closed,Email
+TKT-8211,CUS-80099175,Bug Report,Medium,72,Closed,Phone
+TKT-3161,CUS-97372410,Payment Failure,Low,17,Pending,Phone
+TKT-1398,CUS-79176627,Bug Report,Low,44,Closed,Email
+TKT-9242,CUS-64841952,Subscription Problem,Low,24,Open,Phone
+TKT-6818,CUS-31426165,Subscription Problem,Medium,10,Closed,Web Portal
+TKT-3538,CUS-39850859,Subscription Problem,Medium,41,Closed,Phone
+TKT-4074,CUS-15212514,Feature Request,Critical,56,Pending,Chat
+TKT-6219,CUS-44441041,Login Issue,Medium,37,Closed,Email
+TKT-3284,CUS-89634765,Bug Report,High,45,Closed,Email
+TKT-4961,CUS-29238426,Payment Failure,High,1,Open,Email
+TKT-7089,CUS-30456680,Subscription Problem,Medium,16,Closed,Phone
+TKT-1892,CUS-51490590,Refund Request,High,45,Closed,Web Portal
+TKT-8539,CUS-60730280,Login Issue,Critical,65,Closed,Chat
+TKT-3694,CUS-95314682,Payment Failure,Medium,22,Open,Email
+TKT-2923,CUS-51211588,Subscription Problem,Low,36,Closed,Chat
+TKT-7571,CUS-95380940,Feature Request,Medium,5,Closed,Email
+TKT-3461,CUS-74494622,Subscription Problem,Medium,30,Closed,Email
+TKT-4786,CUS-62406114,Login Issue,High,31,Closed,Email
+TKT-4040,CUS-42882328,Refund Request,High,67,Closed,Web Portal
+TKT-7292,CUS-51763717,Bug Report,Medium,46,Closed,Web Portal
+TKT-2122,CUS-62198012,Refund Request,Low,2,Closed,Chat
+TKT-3388,CUS-70820591,Subscription Problem,Medium,13,Closed,Chat
+TKT-3931,CUS-26719415,Login Issue,High,21,Closed,Email
+TKT-5755,CUS-38421708,Payment Failure,High,43,Closed,Chat
+TKT-7690,CUS-94345446,Subscription Problem,Low,33,Closed,Chat
+TKT-4039,CUS-12292821,Payment Failure,Low,5,Closed,Chat
+TKT-9374,CUS-95585585,Bug Report,Medium,34,Open,Email
+TKT-4014,CUS-47143836,Subscription Problem,Medium,8,Open,Phone
+TKT-6969,CUS-13561209,Login Issue,Medium,24,Open,Chat
+TKT-7647,CUS-55196634,Payment Failure,Low,64,Pending,Chat
+TKT-9203,CUS-55243297,Login Issue,Medium,69,Pending,Email
+TKT-5045,CUS-94745491,Bug Report,Low,54,Closed,Email
+TKT-1509,CUS-12096818,Subscription Problem,High,43,Open,Chat
+TKT-9277,CUS-77806013,Bug Report,Medium,43,Closed,Email
+TKT-8125,CUS-80040052,Feature Request,High,64,Open,Chat
+TKT-2156,CUS-12013910,Payment Failure,Low,35,Closed,Chat
+TKT-8167,CUS-11759156,Payment Failure,Low,21,Closed,Email
+TKT-2158,CUS-83795847,Bug Report,High,22,Closed,Chat
+TKT-3935,CUS-28903899,Payment Failure,Medium,55,Closed,Chat
+TKT-6086,CUS-71621032,Bug Report,High,54,Closed,Chat
+TKT-9645,CUS-15021922,Login Issue,High,8,Open,Chat
+TKT-4999,CUS-23527566,Feature Request,Medium,13,Closed,Email
+TKT-1645,CUS-76224013,Subscription Problem,Medium,16,Closed,Email
+TKT-4830,CUS-75989174,Login Issue,Low,53,Open,Email
+TKT-1126,CUS-68530430,Login Issue,Medium,18,Closed,Email
+TKT-9606,CUS-75058474,Payment Failure,High,8,Closed,Chat
+TKT-7528,CUS-23686266,Payment Failure,High,60,Closed,Email
+TKT-8801,CUS-28254851,Login Issue,Low,60,Open,Web Portal
+TKT-1431,CUS-97005055,Subscription Problem,Low,26,Open,Chat
+TKT-2034,CUS-17061383,Payment Failure,Low,61,Pending,Chat
+TKT-2635,CUS-47366192,Bug Report,Low,50,Pending,Email
+TKT-6997,CUS-83573060,Subscription Problem,High,58,Closed,Email
+TKT-5635,CUS-77664759,Login Issue,Low,33,Closed,Chat
+TKT-7439,CUS-33027268,Payment Failure,Medium,62,Closed,Email
+TKT-4860,CUS-34303813,Login Issue,Low,46,Closed,Chat
+TKT-6413,CUS-12715890,Login Issue,Low,44,Closed,Phone
+TKT-5106,CUS-57771267,Bug Report,High,60,Closed,Email
+TKT-8024,CUS-91649230,Payment Failure,Low,31,Closed,Chat
+TKT-7131,CUS-50343887,Payment Failure,Low,58,Closed,Phone
+TKT-5886,CUS-83684935,Payment Failure,Medium,33,Open,Chat
+TKT-3027,CUS-99039291,Bug Report,Low,39,Closed,Chat
+TKT-1319,CUS-58927548,Refund Request,High,18,Closed,Phone
+TKT-7813,CUS-88048702,Login Issue,Low,8,Closed,Chat
+TKT-5725,CUS-34281959,Subscription Problem,Low,23,Closed,Email
+TKT-4502,CUS-19421005,Payment Failure,High,12,Pending,Phone
+TKT-5245,CUS-79184259,Refund Request,High,37,Closed,Chat
+TKT-6314,CUS-30183474,Subscription Problem,Medium,45,Closed,Phone
+TKT-9423,CUS-72522337,Subscription Problem,Medium,60,Closed,Chat
+TKT-1405,CUS-87921845,Bug Report,Low,54,Closed,Chat
+TKT-8412,CUS-30393807,Feature Request,Medium,39,Closed,Web Portal
+TKT-4294,CUS-27341090,Payment Failure,High,24,Closed,Chat
+TKT-5650,CUS-16053803,Login Issue,High,61,Closed,Email
+TKT-8154,CUS-91022064,Bug Report,Low,66,Closed,Chat
+TKT-1886,CUS-25401446,Refund Request,High,50,Closed,Chat
+TKT-1317,CUS-27021871,Login Issue,Medium,72,Open,Chat
+TKT-4296,CUS-82719922,Login Issue,High,28,Closed,Chat
+TKT-1075,CUS-64970644,Bug Report,High,67,Closed,Chat
+TKT-6798,CUS-22141051,Subscription Problem,Medium,61,Open,Chat
+TKT-9170,CUS-35203579,Login Issue,Low,39,Open,Email
+TKT-4501,CUS-33347306,Login Issue,Medium,38,Closed,Chat
+TKT-7382,CUS-70882339,Bug Report,Medium,65,Closed,Email
+TKT-3705,CUS-94052374,Bug Report,Medium,10,Closed,Chat
+TKT-6308,CUS-41481762,Bug Report,High,53,Open,Chat
+TKT-8030,CUS-97531992,Login Issue,Medium,42,Closed,Chat
+TKT-8185,CUS-63295835,Payment Failure,High,44,Closed,Email
+TKT-6519,CUS-18954026,Payment Failure,Low,25,Open,Phone
+TKT-5910,CUS-15558933,Bug Report,Critical,39,Open,Chat
+TKT-7772,CUS-22344034,Payment Failure,Critical,65,Closed,Phone
+TKT-2636,CUS-53809004,Feature Request,Critical,13,Closed,Web Portal
+TKT-1316,CUS-84086872,Login Issue,Low,44,Open,Web Portal
+TKT-3960,CUS-16761669,Subscription Problem,High,43,Closed,Email
+TKT-6806,CUS-17742837,Bug Report,High,51,Pending,Chat
+TKT-8092,CUS-11454479,Subscription Problem,Low,30,Closed,Chat
+TKT-4432,CUS-26433727,Payment Failure,Medium,53,Closed,Email
+TKT-7844,CUS-72485812,Login Issue,Low,46,Closed,Email
+TKT-5365,CUS-98814898,Bug Report,Critical,7,Closed,Email
+TKT-5343,CUS-15952605,Refund Request,Low,39,Closed,Email
+TKT-6143,CUS-58763833,Login Issue,High,64,Closed,Phone
+TKT-8416,CUS-22584521,Refund Request,Critical,44,Closed,Phone
+TKT-8404,CUS-52354372,Bug Report,High,52,Open,Chat
+TKT-9338,CUS-57749801,Bug Report,Medium,34,Open,Email
+TKT-1990,CUS-92898197,Refund Request,Low,7,Closed,Email
+TKT-5580,CUS-96318842,Bug Report,Critical,52,Closed,Email
+TKT-2200,CUS-70585470,Bug Report,Medium,22,Closed,Chat
+TKT-7685,CUS-62679877,Payment Failure,Medium,35,Closed,Email
+TKT-3062,CUS-39626564,Payment Failure,Medium,53,Open,Chat
+TKT-7300,CUS-44555081,Bug Report,High,17,Closed,Chat
+TKT-8795,CUS-17080971,Payment Failure,High,18,Closed,Chat
+TKT-2985,CUS-53980020,Bug Report,Low,31,Closed,Email
+TKT-3731,CUS-20360903,Login Issue,High,46,Pending,Email
+TKT-1767,CUS-53500331,Refund Request,High,11,Closed,Web Portal
+TKT-4100,CUS-64093654,Subscription Problem,High,35,Closed,Phone
+TKT-3254,CUS-63321973,Login Issue,High,20,Closed,Web Portal
+TKT-4774,CUS-32539175,Login Issue,High,2,Closed,Chat
+TKT-9155,CUS-69960397,Payment Failure,Medium,36,Closed,Chat
+TKT-5865,CUS-65024008,Subscription Problem,Low,37,Open,Email
+TKT-4370,CUS-75144174,Payment Failure,Medium,68,Closed,Chat
+TKT-4760,CUS-10804874,Refund Request,Low,34,Closed,Phone
+TKT-3803,CUS-15187165,Subscription Problem,Low,9,Open,Web Portal
+TKT-9238,CUS-33648307,Subscription Problem,Low,24,Closed,Email
+TKT-5462,CUS-56668767,Bug Report,Low,23,Closed,Phone
+TKT-5729,CUS-97628138,Refund Request,Medium,13,Open,Chat
+TKT-1911,CUS-99724266,Feature Request,Low,69,Closed,Chat
+TKT-4840,CUS-88541754,Login Issue,Medium,11,Open,Web Portal
+TKT-1495,CUS-93434861,Login Issue,High,20,Open,Email
+TKT-8656,CUS-88121709,Subscription Problem,Low,33,Closed,Chat
+TKT-6425,CUS-16636089,Login Issue,Low,10,Closed,Email
+TKT-6996,CUS-41388788,Login Issue,Low,41,Closed,Email
+TKT-2675,CUS-51476165,Login Issue,Low,65,Open,Phone
+TKT-1818,CUS-41730776,Refund Request,High,32,Pending,Chat
+TKT-3204,CUS-76301220,Payment Failure,Low,16,Closed,Email
+TKT-3724,CUS-78574348,Payment Failure,Critical,37,Open,Email
+TKT-3609,CUS-98130999,Payment Failure,Critical,28,Pending,Email
+TKT-4693,CUS-54247004,Payment Failure,Low,53,Closed,Web Portal
+TKT-7405,CUS-54453305,Bug Report,High,8,Closed,Chat
+TKT-4157,CUS-68540001,Subscription Problem,Low,26,Closed,Email
+TKT-7772,CUS-54748350,Feature Request,High,2,Closed,Chat
+TKT-4250,CUS-79928641,Login Issue,Medium,1,Closed,Chat
+TKT-9461,CUS-71617324,Payment Failure,Medium,67,Closed,Chat
+TKT-3893,CUS-32210198,Login Issue,Medium,39,Open,Email
+TKT-2590,CUS-30280966,Refund Request,Low,62,Closed,Email
+TKT-8927,CUS-64646827,Subscription Problem,Medium,60,Open,Chat
+TKT-5222,CUS-58847877,Bug Report,Critical,71,Closed,Email
+TKT-5791,CUS-44365988,Bug Report,High,25,Closed,Chat
+TKT-8237,CUS-31817289,Bug Report,Low,28,Closed,Web Portal
+TKT-2805,CUS-19035254,Payment Failure,Low,42,Open,Phone
+TKT-9030,CUS-27295744,Payment Failure,Low,63,Closed,Chat
+TKT-3348,CUS-28571455,Payment Failure,High,68,Closed,Email
+TKT-8846,CUS-52020124,Bug Report,Medium,44,Closed,Email
+TKT-8827,CUS-90035144,Payment Failure,Medium,1,Closed,Web Portal
+TKT-5386,CUS-48447741,Bug Report,Low,28,Closed,Email
+TKT-8061,CUS-58685571,Subscription Problem,Low,8,Open,Email
+TKT-4887,CUS-33216871,Login Issue,High,5,Closed,Email
+TKT-6195,CUS-19053022,Feature Request,Critical,47,Closed,Email
+TKT-1944,CUS-20565179,Login Issue,Medium,70,Open,Email
+TKT-5714,CUS-54994532,Feature Request,Medium,34,Closed,Web Portal
+TKT-2097,CUS-80718107,Login Issue,Medium,54,Open,Web Portal
+TKT-3207,CUS-91110974,Subscription Problem,Low,18,Pending,Email
+TKT-8958,CUS-15210308,Payment Failure,Low,23,Closed,Chat
+TKT-1798,CUS-41063650,Bug Report,Medium,63,Closed,Phone
+TKT-9038,CUS-52461574,Login Issue,Low,16,Closed,Phone
+TKT-9430,CUS-16954539,Payment Failure,High,42,Closed,Phone
+TKT-6305,CUS-49396790,Subscription Problem,Low,18,Open,Email
+TKT-5323,CUS-42240748,Login Issue,Low,9,Closed,Web Portal
+TKT-5178,CUS-28078636,Refund Request,Medium,14,Closed,Chat
+TKT-3296,CUS-32456967,Payment Failure,Low,9,Pending,Chat
+TKT-1838,CUS-69864302,Refund Request,Medium,8,Closed,Email
+TKT-1582,CUS-98472893,Subscription Problem,Low,32,Closed,Phone
+TKT-1395,CUS-36008251,Login Issue,Low,18,Pending,Email
+TKT-6102,CUS-33562478,Refund Request,Medium,69,Pending,Email
+TKT-2335,CUS-35475575,Login Issue,Medium,40,Pending,Email
+TKT-6922,CUS-23160953,Login Issue,Medium,41,Closed,Phone
+TKT-5933,CUS-88722825,Payment Failure,Medium,60,Closed,Email
+TKT-6218,CUS-84917577,Payment Failure,Medium,18,Pending,Chat
+TKT-4961,CUS-80838837,Subscription Problem,Medium,54,Open,Email
+TKT-6009,CUS-18036727,Login Issue,Medium,9,Pending,Email
+TKT-1528,CUS-65107091,Subscription Problem,Medium,48,Closed,Chat
+TKT-5888,CUS-69488082,Payment Failure,Low,65,Open,Email
+TKT-5239,CUS-55415089,Login Issue,Medium,26,Closed,Web Portal
+TKT-2634,CUS-61029693,Refund Request,Low,57,Closed,Email
+TKT-8252,CUS-29366955,Feature Request,Low,9,Closed,Chat
+TKT-3574,CUS-19872435,Bug Report,Low,56,Closed,Chat
+TKT-7634,CUS-99781272,Bug Report,High,49,Closed,Email
+TKT-6827,CUS-10679436,Login Issue,Medium,29,Closed,Chat
+TKT-5958,CUS-26018733,Login Issue,Low,71,Closed,Email
+TKT-2624,CUS-85183381,Payment Failure,Low,20,Closed,Email
+TKT-7746,CUS-63862849,Bug Report,Medium,33,Closed,Chat
+TKT-4578,CUS-64574433,Refund Request,Low,68,Closed,Email
+TKT-7376,CUS-63586607,Bug Report,Low,67,Closed,Email
+TKT-1342,CUS-66446688,Bug Report,Medium,53,Closed,Email
+TKT-2429,CUS-97429841,Login Issue,High,47,Closed,Email
+TKT-4519,CUS-33597457,Subscription Problem,Medium,67,Open,Chat
+TKT-7103,CUS-98164583,Subscription Problem,Medium,37,Closed,Chat
+TKT-9105,CUS-25620969,Login Issue,Low,39,Pending,Email
+TKT-2267,CUS-62159130,Subscription Problem,Medium,62,Closed,Web Portal
+TKT-5996,CUS-77257067,Bug Report,Medium,71,Closed,Chat
+TKT-2013,CUS-26619171,Bug Report,High,2,Closed,Email
+TKT-6167,CUS-51069414,Subscription Problem,Low,23,Open,Email
+TKT-2550,CUS-41360696,Login Issue,Medium,34,Closed,Email
+TKT-6155,CUS-30558586,Payment Failure,Medium,26,Pending,Chat
+TKT-5598,CUS-52006659,Bug Report,High,5,Open,Chat
+TKT-2254,CUS-32944090,Subscription Problem,High,34,Closed,Email
+TKT-6890,CUS-44213427,Login Issue,Low,16,Closed,Chat
+TKT-7489,CUS-76262325,Payment Failure,Critical,53,Closed,Email
+TKT-6457,CUS-57429949,Refund Request,Medium,48,Open,Email
+TKT-9466,CUS-77527309,Subscription Problem,Low,50,Open,Email
+TKT-7071,CUS-66635323,Bug Report,Low,43,Closed,Email
+TKT-8075,CUS-11369777,Bug Report,Medium,3,Open,Chat
+TKT-9803,CUS-18816695,Feature Request,High,42,Open,Phone
+TKT-1782,CUS-14910966,Login Issue,Medium,2,Open,Phone
+TKT-2974,CUS-13565374,Payment Failure,Medium,51,Closed,Email
+TKT-7721,CUS-91835181,Bug Report,Low,45,Closed,Phone
+TKT-1814,CUS-50084113,Subscription Problem,Medium,15,Closed,Email
+TKT-1453,CUS-55338197,Subscription Problem,Medium,41,Closed,Phone
+TKT-9835,CUS-79769923,Bug Report,Low,12,Open,Email
+TKT-4008,CUS-42178499,Payment Failure,Medium,30,Open,Chat
+TKT-6919,CUS-76779543,Login Issue,Low,68,Open,Email
+TKT-3397,CUS-82988568,Subscription Problem,Low,70,Closed,Email
+TKT-7920,CUS-85151427,Bug Report,High,12,Closed,Email
+TKT-2189,CUS-70366180,Login Issue,Low,71,Closed,Email
+TKT-6815,CUS-33073053,Login Issue,Medium,8,Open,Chat
+TKT-8289,CUS-25340916,Login Issue,Low,59,Closed,Chat
+TKT-5659,CUS-86125217,Payment Failure,High,60,Closed,Chat
+TKT-6929,CUS-23102101,Bug Report,High,32,Closed,Email
+TKT-4603,CUS-36125639,Payment Failure,Low,44,Closed,Chat
+TKT-7466,CUS-73866173,Feature Request,Medium,37,Open,Email
+TKT-5553,CUS-28719683,Subscription Problem,Low,42,Closed,Chat
+TKT-3517,CUS-68561315,Login Issue,High,39,Closed,Email
+TKT-5762,CUS-28977092,Subscription Problem,Medium,42,Closed,Chat
+TKT-8587,CUS-93669350,Login Issue,Low,26,Closed,Chat
+TKT-3996,CUS-29404524,Payment Failure,Medium,6,Closed,Phone
+TKT-6305,CUS-94744935,Bug Report,Low,8,Pending,Email
+TKT-2451,CUS-33697996,Login Issue,Low,28,Closed,Chat
+TKT-4367,CUS-88723285,Payment Failure,Medium,29,Closed,Email
+TKT-2622,CUS-87405890,Bug Report,Medium,41,Closed,Chat
+TKT-7130,CUS-68571076,Bug Report,Low,39,Open,Email
+TKT-9562,CUS-64903503,Refund Request,High,11,Closed,Chat
+TKT-3909,CUS-17800794,Refund Request,High,41,Closed,Email
+TKT-5461,CUS-67548555,Subscription Problem,High,33,Open,Chat
+TKT-8864,CUS-68812029,Subscription Problem,Low,41,Closed,Chat
+TKT-7201,CUS-88234650,Refund Request,Medium,51,Pending,Chat
+TKT-5029,CUS-54930790,Payment Failure,Medium,5,Pending,Chat
+TKT-8346,CUS-89089346,Login Issue,High,6,Closed,Chat
+TKT-5466,CUS-82623646,Subscription Problem,Low,22,Closed,Email
+TKT-3401,CUS-50312794,Login Issue,Medium,68,Closed,Phone
+TKT-7679,CUS-78789899,Login Issue,Low,25,Closed,Phone
+TKT-1734,CUS-20502459,Subscription Problem,Medium,14,Closed,Web Portal
+TKT-2380,CUS-52003731,Subscription Problem,Medium,50,Closed,Email
+TKT-7294,CUS-22430357,Login Issue,Low,4,Open,Phone
+TKT-1997,CUS-36335708,Login Issue,Low,38,Pending,Chat
+TKT-7724,CUS-92792973,Login Issue,Medium,16,Open,Email
+TKT-3941,CUS-87834355,Bug Report,Medium,62,Closed,Email
+TKT-5638,CUS-48223721,Payment Failure,Low,52,Open,Web Portal
+TKT-3833,CUS-22980548,Payment Failure,Medium,36,Closed,Email
+TKT-7998,CUS-28178095,Bug Report,Medium,59,Pending,Chat
+TKT-4734,CUS-75286155,Payment Failure,Low,63,Closed,Chat
+TKT-5237,CUS-71308733,Bug Report,Medium,60,Closed,Chat
+TKT-2730,CUS-42840489,Subscription Problem,Low,59,Closed,Email
+TKT-8757,CUS-30320063,Payment Failure,Low,11,Closed,Email
+TKT-9284,CUS-11408782,Bug Report,Medium,57,Open,Web Portal
+TKT-1467,CUS-71466278,Refund Request,High,23,Open,Web Portal
+TKT-3316,CUS-56011188,Subscription Problem,Medium,50,Open,Chat
+TKT-9282,CUS-75618241,Payment Failure,Medium,41,Closed,Email
+TKT-7239,CUS-46620333,Subscription Problem,Low,51,Open,Chat
+TKT-7454,CUS-98268037,Subscription Problem,Critical,19,Closed,Chat
+TKT-6602,CUS-31195554,Login Issue,High,64,Closed,Chat
+TKT-6684,CUS-19874323,Refund Request,High,60,Closed,Email
+TKT-2414,CUS-33783316,Bug Report,Low,56,Pending,Email
+TKT-3071,CUS-63110316,Payment Failure,Low,53,Open,Email
+TKT-1283,CUS-74416396,Login Issue,High,60,Closed,Phone
+TKT-9856,CUS-70032045,Subscription Problem,Medium,11,Closed,Chat
+TKT-1798,CUS-82613576,Payment Failure,Medium,25,Closed,Phone
+TKT-2737,CUS-10000106,Login Issue,Medium,2,Closed,Chat
+TKT-4288,CUS-44572761,Login Issue,High,29,Closed,Chat
+TKT-1109,CUS-97120711,Payment Failure,Low,72,Open,Email
+TKT-5142,CUS-32750202,Refund Request,Medium,40,Closed,Chat
+TKT-1332,CUS-91183038,Login Issue,High,3,Closed,Email
+TKT-3822,CUS-70356652,Payment Failure,Medium,68,Closed,Email
+TKT-7146,CUS-55894979,Payment Failure,Medium,66,Closed,Chat
+TKT-2198,CUS-85456678,Login Issue,High,30,Open,Email
+TKT-2165,CUS-67737201,Login Issue,Medium,48,Closed,Email
+TKT-1442,CUS-18570961,Refund Request,Low,61,Closed,Web Portal
+TKT-5850,CUS-99914305,Refund Request,Medium,17,Closed,Phone
+TKT-8051,CUS-13411588,Refund Request,Low,66,Closed,Chat
+TKT-8058,CUS-55434689,Refund Request,Medium,56,Closed,Web Portal
+TKT-5517,CUS-90575009,Login Issue,High,9,Closed,Email
+TKT-6975,CUS-69140206,Refund Request,High,26,Closed,Web Portal
+TKT-4356,CUS-35971582,Subscription Problem,Low,14,Closed,Chat
+TKT-9698,CUS-87212253,Refund Request,Medium,5,Closed,Phone
+TKT-3120,CUS-51905816,Bug Report,Low,32,Closed,Email
+TKT-8088,CUS-69059187,Bug Report,Medium,38,Open,Email
+TKT-4850,CUS-68623479,Payment Failure,Low,64,Closed,Email
+TKT-7389,CUS-18979338,Feature Request,Low,29,Closed,Email
+TKT-6177,CUS-29020718,Payment Failure,Low,2,Closed,Chat
+TKT-1773,CUS-13049893,Subscription Problem,Low,66,Pending,Chat
+TKT-8765,CUS-69649639,Login Issue,Low,12,Closed,Phone
+TKT-3021,CUS-25278997,Bug Report,High,25,Open,Email
+TKT-3057,CUS-79748136,Bug Report,Low,67,Open,Email
+TKT-3193,CUS-12847129,Login Issue,Medium,57,Closed,Phone
+TKT-6499,CUS-96063633,Payment Failure,Medium,52,Closed,Chat
+TKT-8710,CUS-97005018,Refund Request,Low,60,Closed,Chat
+TKT-1042,CUS-11869293,Payment Failure,High,29,Closed,Phone
+TKT-6386,CUS-95423278,Subscription Problem,Low,48,Closed,Chat
+TKT-8240,CUS-47051934,Refund Request,Medium,11,Closed,Web Portal
+TKT-6399,CUS-15091759,Refund Request,High,1,Closed,Chat
+TKT-7154,CUS-82064373,Subscription Problem,Low,10,Open,Chat
+TKT-1920,CUS-19150123,Login Issue,Medium,24,Closed,Chat
+TKT-2352,CUS-15466099,Login Issue,High,46,Closed,Chat
+TKT-6209,CUS-99639935,Payment Failure,High,55,Open,Email
+TKT-8087,CUS-23770525,Login Issue,Medium,28,Closed,Email
+TKT-6595,CUS-98332242,Subscription Problem,Critical,59,Pending,Chat
+TKT-8025,CUS-79130693,Payment Failure,Medium,59,Closed,Email
+TKT-6125,CUS-97752617,Bug Report,Low,42,Closed,Chat
+TKT-3445,CUS-55382934,Payment Failure,Medium,50,Closed,Phone
+TKT-2851,CUS-14222993,Payment Failure,Medium,58,Closed,Phone
+TKT-9524,CUS-23130929,Refund Request,High,36,Closed,Email
+TKT-8330,CUS-76467539,Bug Report,Medium,19,Closed,Email
+TKT-3262,CUS-62274594,Subscription Problem,High,68,Closed,Email
+TKT-7851,CUS-18551509,Bug Report,Low,28,Pending,Email
+TKT-5141,CUS-13158373,Refund Request,Medium,12,Closed,Email
+TKT-3423,CUS-93198656,Login Issue,Medium,43,Closed,Email
+TKT-4536,CUS-61380598,Login Issue,Low,10,Closed,Email
+TKT-8536,CUS-89555937,Payment Failure,Low,18,Closed,Email
+TKT-2326,CUS-74344682,Payment Failure,Low,28,Closed,Email
+TKT-6220,CUS-15642636,Payment Failure,Low,9,Closed,Email
+TKT-5029,CUS-45793439,Payment Failure,Low,54,Closed,Chat
+TKT-4460,CUS-43449351,Refund Request,Low,28,Open,Chat
+TKT-2159,CUS-43754258,Subscription Problem,High,4,Closed,Phone
+TKT-4145,CUS-14631154,Subscription Problem,Medium,8,Closed,Web Portal
+TKT-5057,CUS-53173441,Subscription Problem,Medium,14,Open,Web Portal
+TKT-1043,CUS-56686099,Login Issue,Low,22,Closed,Chat
+TKT-6172,CUS-61746285,Refund Request,High,68,Closed,Email
+TKT-2841,CUS-96035813,Refund Request,High,39,Closed,Chat
+TKT-4981,CUS-64781085,Payment Failure,Medium,23,Pending,Email
+TKT-7152,CUS-37665932,Payment Failure,Medium,58,Open,Chat
+TKT-4901,CUS-19798826,Bug Report,Medium,12,Closed,Chat
+TKT-3386,CUS-56646391,Payment Failure,High,72,Closed,Email
+TKT-7064,CUS-41305236,Login Issue,High,19,Open,Chat
+TKT-1379,CUS-92420185,Payment Failure,Low,53,Closed,Email
+TKT-9513,CUS-24877820,Payment Failure,Low,1,Pending,Chat
+TKT-7297,CUS-41751755,Bug Report,Low,5,Closed,Phone
+TKT-5547,CUS-75667016,Payment Failure,Medium,44,Closed,Chat
+TKT-6872,CUS-69266019,Payment Failure,Low,37,Open,Email
+TKT-5497,CUS-59751554,Payment Failure,High,35,Open,Phone
+TKT-9699,CUS-15116531,Bug Report,Medium,31,Closed,Chat
+TKT-5232,CUS-92395891,Bug Report,Medium,36,Open,Chat
+TKT-5240,CUS-55664422,Subscription Problem,High,53,Closed,Web Portal
+TKT-6071,CUS-42038643,Bug Report,Medium,30,Closed,Email
+TKT-9122,CUS-47498537,Payment Failure,Medium,1,Closed,Phone
+TKT-5265,CUS-67243632,Subscription Problem,Medium,49,Closed,Chat
+TKT-1175,CUS-74548624,Refund Request,Low,20,Open,Email
+TKT-1093,CUS-76603019,Payment Failure,Medium,55,Closed,Chat
+TKT-5614,CUS-44126991,Payment Failure,Low,14,Closed,Email
+TKT-3090,CUS-63830135,Bug Report,Medium,23,Closed,Email
+TKT-6374,CUS-71474735,Login Issue,Medium,8,Open,Email
+TKT-5917,CUS-43986636,Bug Report,Low,10,Closed,Chat
+TKT-4450,CUS-13561209,Payment Failure,Medium,67,Pending,Chat
+TKT-6391,CUS-56281214,Payment Failure,Medium,16,Pending,Email
+TKT-2927,CUS-77402777,Payment Failure,Medium,62,Closed,Chat
+TKT-7541,CUS-53059390,Payment Failure,Low,42,Closed,Web Portal
+TKT-5220,CUS-39153759,Payment Failure,Medium,17,Pending,Email
+TKT-1989,CUS-48569568,Subscription Problem,Low,48,Open,Email
+TKT-6002,CUS-41543046,Bug Report,Medium,65,Pending,Email
+TKT-1791,CUS-49909786,Login Issue,Medium,31,Open,Phone
+TKT-2868,CUS-82165601,Refund Request,Low,39,Closed,Phone
+TKT-3055,CUS-64774291,Payment Failure,Critical,23,Closed,Email
+TKT-2991,CUS-73663907,Login Issue,Medium,11,Open,Chat
+TKT-2064,CUS-83074113,Bug Report,High,65,Pending,Chat
+TKT-7953,CUS-47319333,Subscription Problem,High,51,Closed,Chat
+TKT-3826,CUS-66017200,Subscription Problem,Low,28,Closed,Email
+TKT-2680,CUS-30702923,Bug Report,High,4,Open,Email
+TKT-1100,CUS-55644829,Bug Report,Medium,23,Closed,Phone
+TKT-6456,CUS-16301148,Login Issue,Low,23,Pending,Email
+TKT-8737,CUS-70472291,Login Issue,Medium,18,Closed,Phone
+TKT-4691,CUS-92524726,Subscription Problem,Medium,72,Closed,Web Portal
+TKT-3902,CUS-80347925,Login Issue,Medium,29,Closed,Email
+TKT-7742,CUS-10377462,Refund Request,Medium,39,Open,Phone
+TKT-3380,CUS-48620121,Login Issue,High,17,Closed,Chat
+TKT-9637,CUS-54615875,Feature Request,Medium,7,Closed,Chat
+TKT-3270,CUS-79757519,Login Issue,Medium,15,Closed,Phone
+TKT-4002,CUS-65259447,Login Issue,Low,22,Closed,Chat
+TKT-1837,CUS-82769998,Login Issue,High,44,Closed,Email
+TKT-6686,CUS-23981436,Bug Report,Medium,52,Closed,Chat
+TKT-9439,CUS-95316454,Bug Report,Medium,52,Closed,Chat
+TKT-2314,CUS-74494622,Subscription Problem,Low,70,Closed,Email
+TKT-2633,CUS-62406114,Subscription Problem,Low,54,Closed,Email
+TKT-7979,CUS-94745491,Payment Failure,Low,36,Closed,Chat
+TKT-7902,CUS-77806013,Refund Request,Medium,25,Open,Email
+TKT-9186,CUS-30183474,Subscription Problem,High,36,Pending,Phone
+TKT-2912,CUS-63295835,Login Issue,Medium,33,Open,Email
+TKT-4172,CUS-22344034,Subscription Problem,Low,63,Pending,Email
+TKT-1152,CUS-56668767,Feature Request,Medium,41,Closed,Chat
+TKT-9358,CUS-97628138,Payment Failure,Low,13,Closed,Chat
+TKT-4957,CUS-98130999,Refund Request,Low,46,Closed,Email
+TKT-5476,CUS-52461574,Bug Report,High,49,Open,Chat
+TKT-7167,CUS-16954539,Refund Request,Low,19,Closed,Chat
+TKT-9307,CUS-69864302,Payment Failure,Medium,60,Pending,Email
+TKT-4330,CUS-94744935,Refund Request,Medium,7,Pending,Chat
+TKT-5966,CUS-87405890,Subscription Problem,Medium,10,Closed,Phone
+TKT-8356,CUS-10000106,Login Issue,High,1,Pending,Email
+TKT-8622,CUS-71274740,Payment Failure,Medium,50,Closed,Email
+TKT-4397,CUS-23588091,Login Issue,Medium,25,Closed,Chat
+TKT-6676,CUS-78465830,Subscription Problem,Low,6,Pending,Email
+TKT-8678,CUS-92079851,Feature Request,Medium,10,Open,Web Portal
+TKT-6457,CUS-87484097,Bug Report,High,19,Closed,Chat
+TKT-4245,CUS-94143725,Bug Report,High,70,Closed,Chat
+TKT-8921,CUS-88203547,Bug Report,Medium,66,Open,Chat
+TKT-9433,CUS-62646038,Login Issue,Medium,63,Closed,Chat
+TKT-1233,CUS-24480644,Login Issue,Low,8,Closed,Chat
+TKT-4992,CUS-23295134,Login Issue,Low,33,Closed,Email
+TKT-9523,CUS-65195524,Login Issue,Medium,46,Closed,Phone
+TKT-8481,CUS-59738480,Feature Request,Medium,14,Closed,Chat
+TKT-5573,CUS-56933621,Subscription Problem,Critical,44,Pending,Web Portal
+TKT-6424,CUS-16964874,Refund Request,High,8,Closed,Email
+TKT-6986,CUS-98924157,Subscription Problem,Critical,49,Closed,Email
+TKT-7657,CUS-63267122,Payment Failure,High,65,Closed,Chat
+TKT-6605,CUS-25454211,Bug Report,Medium,60,Closed,Email
+TKT-4469,CUS-12215216,Login Issue,Low,62,Pending,Chat
+TKT-6379,CUS-81295420,Refund Request,Medium,62,Closed,Chat
+TKT-2266,CUS-27100004,Subscription Problem,High,11,Closed,Phone
+TKT-6357,CUS-17845110,Subscription Problem,Medium,21,Open,Chat
+TKT-6529,CUS-34846048,Bug Report,Low,60,Pending,Email
+TKT-7370,CUS-49848974,Login Issue,Low,48,Closed,Email
+TKT-9706,CUS-44384033,Feature Request,Medium,1,Closed,Chat
+TKT-6281,CUS-56092973,Payment Failure,Medium,71,Open,Chat
+TKT-2399,CUS-90524616,Login Issue,High,53,Closed,Chat
+TKT-3748,CUS-87665612,Payment Failure,Medium,8,Closed,Email
+TKT-3675,CUS-96455740,Payment Failure,High,6,Closed,Chat
+TKT-9005,CUS-60258275,Subscription Problem,Medium,10,Open,Chat
+TKT-8000,CUS-39586113,Feature Request,Low,70,Closed,Web Portal
+TKT-2186,CUS-16637835,Bug Report,Medium,58,Open,Email
+TKT-9627,CUS-49640745,Payment Failure,Medium,28,Closed,Phone
+TKT-7452,CUS-46370038,Refund Request,High,63,Closed,Email
+TKT-1526,CUS-52343698,Login Issue,Low,23,Closed,Chat
+TKT-3506,CUS-49465944,Subscription Problem,Critical,35,Closed,Chat
+TKT-9768,CUS-76845921,Payment Failure,High,42,Closed,Email
+TKT-1569,CUS-17094206,Bug Report,Critical,42,Closed,Email
+TKT-6174,CUS-66997294,Payment Failure,Low,17,Closed,Chat
+TKT-7210,CUS-44714881,Feature Request,Low,31,Closed,Email
+TKT-1322,CUS-37765535,Subscription Problem,Low,41,Closed,Email
+TKT-4197,CUS-56139662,Subscription Problem,Low,67,Closed,Chat
+TKT-7174,CUS-99324793,Login Issue,Medium,58,Closed,Chat
+TKT-1498,CUS-76664757,Subscription Problem,Low,44,Closed,Phone
+TKT-6282,CUS-24882168,Subscription Problem,Low,37,Closed,Phone
+TKT-8760,CUS-45245503,Login Issue,Medium,20,Pending,Email
+TKT-9126,CUS-72793438,Payment Failure,Low,34,Closed,Email
+TKT-3881,CUS-76603019,Bug Report,Critical,26,Pending,Email
+TKT-9435,CUS-65534855,Refund Request,Medium,19,Pending,Chat
+TKT-3277,CUS-29954748,Login Issue,Medium,17,Closed,Email
+TKT-1563,CUS-46110966,Login Issue,Low,42,Closed,Web Portal
+TKT-3612,CUS-62005831,Feature Request,High,64,Closed,Email
+TKT-3209,CUS-44126991,Payment Failure,Low,21,Closed,Chat
+TKT-2537,CUS-14553204,Subscription Problem,Medium,72,Open,Web Portal
+TKT-7191,CUS-67780193,Login Issue,High,62,Closed,Phone
+TKT-8354,CUS-73040682,Refund Request,Low,51,Closed,Chat
+TKT-8662,CUS-18614321,Bug Report,Medium,63,Open,Email
+TKT-4156,CUS-26135239,Login Issue,Medium,51,Closed,Email
+TKT-7648,CUS-22567117,Refund Request,Medium,12,Open,Email
+TKT-1350,CUS-96593714,Feature Request,Low,22,Closed,Email
+TKT-4590,CUS-36404700,Subscription Problem,High,64,Closed,Web Portal
+TKT-2934,CUS-60872927,Login Issue,Medium,59,Closed,Chat
+TKT-6368,CUS-68811668,Bug Report,Medium,61,Closed,Email
+TKT-3947,CUS-51531906,Subscription Problem,Low,22,Closed,Web Portal
+TKT-5865,CUS-89869099,Refund Request,Low,17,Closed,Phone
+TKT-6941,CUS-10354539,Payment Failure,Low,70,Open,Chat
+TKT-9320,CUS-18921125,Login Issue,Medium,2,Closed,Chat
+TKT-1641,CUS-17421725,Refund Request,Low,50,Closed,Email
+TKT-6056,CUS-14484736,Refund Request,Low,62,Closed,Email
+TKT-1272,CUS-55981896,Login Issue,Low,39,Closed,Email
+TKT-9027,CUS-52139061,Login Issue,Medium,21,Closed,Email
+TKT-4604,CUS-56017544,Login Issue,High,27,Closed,Web Portal
+TKT-6274,CUS-71999602,Bug Report,Low,18,Open,Email
+TKT-9657,CUS-17567562,Refund Request,Medium,32,Closed,Chat
+TKT-6568,CUS-51323089,Refund Request,Low,56,Closed,Phone
+TKT-2832,CUS-79092759,Bug Report,Low,22,Closed,Email
+TKT-1387,CUS-80134401,Refund Request,Low,24,Closed,Web Portal
+TKT-8009,CUS-11508889,Payment Failure,Medium,47,Closed,Email
+TKT-2760,CUS-98060758,Feature Request,Low,3,Open,Chat
+TKT-2440,CUS-34910398,Bug Report,Medium,23,Closed,Email
+TKT-2110,CUS-31994863,Subscription Problem,Low,9,Open,Chat
+TKT-6307,CUS-60768651,Login Issue,High,40,Pending,Chat
+TKT-3133,CUS-87632315,Subscription Problem,Low,16,Closed,Phone
+TKT-5406,CUS-94823206,Subscription Problem,Low,20,Closed,Email
+TKT-7395,CUS-77231245,Bug Report,Low,66,Pending,Email
+TKT-9966,CUS-68527055,Login Issue,Medium,50,Closed,Chat
+TKT-1312,CUS-37424595,Bug Report,Low,64,Pending,Phone
+TKT-4532,CUS-55225331,Payment Failure,Low,14,Closed,Phone
+TKT-2027,CUS-51202971,Bug Report,Low,32,Closed,Email
+TKT-7683,CUS-21454810,Feature Request,Medium,63,Closed,Email
+TKT-5213,CUS-26970953,Login Issue,Medium,15,Closed,Email
+TKT-6600,CUS-71037606,Payment Failure,Medium,70,Open,Email
+TKT-5940,CUS-88439537,Login Issue,Low,3,Open,Web Portal
+TKT-9364,CUS-90285896,Feature Request,Low,72,Closed,Web Portal
+TKT-3717,CUS-59424122,Bug Report,Medium,40,Open,Email
+TKT-8415,CUS-76807142,Payment Failure,Medium,35,Pending,Chat
+TKT-7580,CUS-73065042,Payment Failure,Medium,66,Open,Chat
+TKT-8273,CUS-37097414,Refund Request,Low,30,Closed,Email
+TKT-4614,CUS-73663907,Subscription Problem,Critical,67,Closed,Email
+TKT-4498,CUS-69586619,Payment Failure,Medium,1,Pending,Email
+TKT-9085,CUS-37560036,Refund Request,Low,64,Pending,Web Portal
+TKT-2534,CUS-42676532,Payment Failure,Low,60,Pending,Email
+TKT-5286,CUS-80820774,Subscription Problem,Low,66,Pending,Phone
+TKT-8612,CUS-87712948,Feature Request,Low,10,Closed,Phone
+TKT-3888,CUS-31950532,Payment Failure,High,20,Closed,Web Portal
+TKT-2085,CUS-37821449,Login Issue,Low,55,Pending,Web Portal
+TKT-3804,CUS-76630810,Subscription Problem,Low,31,Pending,Chat
+TKT-6080,CUS-86383059,Login Issue,High,12,Closed,Email
+TKT-6194,CUS-97244783,Subscription Problem,Low,72,Closed,Email
+TKT-3615,CUS-82633783,Refund Request,Low,36,Closed,Phone
+TKT-3294,CUS-83074113,Bug Report,Medium,25,Closed,Chat
+TKT-3113,CUS-86126075,Login Issue,Medium,17,Open,Chat
+TKT-5503,CUS-13025376,Payment Failure,High,31,Closed,Email
+TKT-9585,CUS-39962957,Payment Failure,High,16,Open,Email
+TKT-6427,CUS-90754528,Bug Report,Medium,68,Closed,Email
+TKT-5962,CUS-57355704,Subscription Problem,Medium,1,Closed,Phone
+TKT-7957,CUS-72617026,Payment Failure,Medium,18,Closed,Web Portal
+TKT-4510,CUS-28885517,Refund Request,Low,59,Closed,Chat
+TKT-5553,CUS-67539660,Login Issue,Low,20,Pending,Chat
+TKT-8162,CUS-24952782,Refund Request,High,51,Closed,Email
+TKT-6068,CUS-90754823,Payment Failure,High,45,Closed,Chat
+TKT-9855,CUS-80374636,Login Issue,High,53,Closed,Email
+TKT-8824,CUS-62053560,Login Issue,Critical,23,Open,Email
+TKT-4179,CUS-62043339,Bug Report,High,67,Pending,Phone
+TKT-6521,CUS-48891815,Subscription Problem,Low,70,Closed,Chat
+TKT-4120,CUS-43050795,Bug Report,Low,50,Closed,Email
+TKT-9158,CUS-96964404,Login Issue,Low,57,Closed,Web Portal
+TKT-8867,CUS-13159453,Login Issue,Low,1,Pending,Email
+TKT-6645,CUS-41673228,Subscription Problem,Low,52,Pending,Chat
+TKT-9330,CUS-94657635,Bug Report,Low,56,Closed,Email
+TKT-3160,CUS-54256880,Login Issue,Low,61,Closed,Email
+TKT-5576,CUS-78779484,Login Issue,High,44,Closed,Email
+TKT-7818,CUS-70757120,Refund Request,Medium,34,Closed,Email
+TKT-3459,CUS-90873769,Login Issue,Medium,15,Closed,Email
+TKT-2845,CUS-60815411,Payment Failure,Low,3,Closed,Email
+TKT-8958,CUS-68782430,Login Issue,Low,43,Closed,Email
+TKT-8578,CUS-64456327,Login Issue,Medium,62,Closed,Email
+TKT-2675,CUS-79778247,Payment Failure,Medium,14,Closed,Phone
+TKT-7730,CUS-77484741,Login Issue,Critical,70,Closed,Phone
+TKT-9731,CUS-47319333,Subscription Problem,Medium,1,Open,Chat
+TKT-6449,CUS-65178882,Subscription Problem,Low,20,Pending,Email
+TKT-3352,CUS-42517462,Login Issue,Low,65,Open,Web Portal
+TKT-2814,CUS-24874308,Login Issue,Medium,47,Closed,Web Portal
+TKT-9757,CUS-66017200,Payment Failure,Low,62,Closed,Email
+TKT-7546,CUS-21381112,Refund Request,Medium,21,Closed,Chat
+TKT-1712,CUS-96554776,Subscription Problem,Medium,34,Closed,Email
+TKT-3034,CUS-55955690,Subscription Problem,High,70,Pending,Chat
+TKT-1203,CUS-27418213,Payment Failure,Low,17,Closed,Chat
+TKT-2418,CUS-86022702,Payment Failure,Critical,62,Closed,Chat
+TKT-1467,CUS-64568722,Login Issue,Low,18,Open,Phone
+TKT-7166,CUS-80233762,Bug Report,High,39,Closed,Chat
+TKT-8662,CUS-26307653,Bug Report,High,39,Pending,Email
+TKT-5053,CUS-20808413,Refund Request,Medium,51,Closed,Phone
+TKT-4025,CUS-54271644,Subscription Problem,Medium,17,Closed,Email
+TKT-2030,CUS-35623779,Login Issue,Low,53,Closed,Chat
+TKT-3098,CUS-12166974,Login Issue,Low,27,Closed,Web Portal
+TKT-4292,CUS-96288039,Bug Report,Medium,68,Closed,Chat
+TKT-3189,CUS-10234759,Feature Request,Medium,57,Closed,Email
+TKT-8263,CUS-34756125,Bug Report,Medium,14,Pending,Web Portal
+TKT-6266,CUS-23840396,Subscription Problem,High,25,Closed,Web Portal
+TKT-3145,CUS-53082964,Bug Report,Medium,45,Closed,Chat
+TKT-5192,CUS-54815027,Feature Request,Low,70,Closed,Chat
+TKT-1575,CUS-24195294,Subscription Problem,High,28,Pending,Chat
+TKT-3497,CUS-62615377,Login Issue,Medium,24,Closed,Phone
+TKT-5391,CUS-82925741,Login Issue,High,32,Closed,Email
+TKT-5327,CUS-31437660,Refund Request,Low,67,Closed,Email
+TKT-9064,CUS-19210484,Login Issue,Medium,8,Closed,Phone
+TKT-1733,CUS-58337368,Bug Report,Medium,45,Closed,Web Portal
+TKT-8700,CUS-30702923,Payment Failure,Low,55,Closed,Email
+TKT-7462,CUS-74296965,Login Issue,Medium,59,Closed,Chat
+TKT-6087,CUS-41183680,Subscription Problem,Low,9,Closed,Chat
+TKT-4191,CUS-37367323,Feature Request,High,66,Closed,Chat
+TKT-8570,CUS-53519119,Refund Request,Medium,51,Closed,Phone
+TKT-4737,CUS-20968128,Bug Report,Medium,33,Closed,Chat
+TKT-9772,CUS-55644829,Payment Failure,Medium,9,Closed,Email
+TKT-9661,CUS-57028374,Login Issue,High,41,Pending,Chat
+TKT-7125,CUS-41698862,Subscription Problem,Low,58,Closed,Chat
+TKT-8399,CUS-16301148,Subscription Problem,Low,4,Closed,Chat
+TKT-3968,CUS-70472291,Login Issue,Medium,11,Closed,Phone
+TKT-8946,CUS-62713204,Login Issue,Medium,65,Closed,Email
+TKT-3433,CUS-39412741,Bug Report,Low,64,Closed,Chat
+TKT-7002,CUS-45772041,Payment Failure,Low,29,Closed,Chat
+TKT-1603,CUS-31434773,Login Issue,Low,71,Closed,Web Portal
+TKT-3757,CUS-73864290,Login Issue,High,61,Closed,Email
+TKT-4489,CUS-44099374,Login Issue,Medium,56,Closed,Chat
+TKT-3468,CUS-15088946,Subscription Problem,Medium,7,Closed,Web Portal
+TKT-7828,CUS-80104582,Payment Failure,Low,46,Closed,Email
+TKT-2150,CUS-28486691,Payment Failure,Low,50,Open,Web Portal
+TKT-1966,CUS-92524726,Payment Failure,Low,2,Closed,Chat
+TKT-3956,CUS-79047712,Subscription Problem,Low,29,Closed,Phone
+TKT-2253,CUS-54389572,Payment Failure,Low,1,Open,Email
+TKT-8908,CUS-42889878,Refund Request,Critical,67,Closed,Chat
+TKT-9389,CUS-22023222,Payment Failure,Medium,70,Open,Phone
+TKT-7416,CUS-97555747,Refund Request,Low,22,Closed,Phone
+TKT-4923,CUS-81286955,Payment Failure,High,34,Closed,Email
+TKT-7918,CUS-14383833,Login Issue,Low,46,Closed,Chat
+TKT-4213,CUS-49382970,Login Issue,Low,2,Closed,Email
+TKT-3064,CUS-33089421,Subscription Problem,Low,59,Open,Email
+TKT-6480,CUS-54706872,Feature Request,High,64,Closed,Email
+TKT-2244,CUS-63992791,Subscription Problem,Medium,51,Closed,Email
+TKT-5251,CUS-67860785,Subscription Problem,Medium,28,Closed,Web Portal
+TKT-2138,CUS-49160831,Subscription Problem,Low,42,Open,Chat
+TKT-3335,CUS-53517565,Bug Report,Low,11,Pending,Phone
+TKT-9487,CUS-76594060,Subscription Problem,High,39,Open,Email
+TKT-9131,CUS-97886088,Login Issue,Low,18,Closed,Email
+TKT-5206,CUS-44712178,Bug Report,Low,53,Closed,Chat
+TKT-2008,CUS-92448465,Login Issue,Low,53,Open,Email
+TKT-1980,CUS-23896645,Subscription Problem,High,19,Closed,Chat
+TKT-9318,CUS-33440424,Refund Request,Medium,58,Closed,Chat
+TKT-3643,CUS-70134454,Feature Request,High,31,Open,Email
+TKT-3253,CUS-57884792,Payment Failure,Low,40,Open,Email
+TKT-3649,CUS-44096666,Payment Failure,Low,10,Open,Chat
+TKT-8099,CUS-67730972,Bug Report,Medium,59,Open,Email
+TKT-2978,CUS-25961611,Login Issue,Medium,15,Closed,Chat
+TKT-7675,CUS-80347925,Bug Report,Medium,38,Closed,Chat
+TKT-7356,CUS-13876895,Subscription Problem,Low,36,Open,Email
+TKT-2500,CUS-78146888,Login Issue,Medium,32,Closed,Email
+TKT-8010,CUS-74551205,Login Issue,High,67,Closed,Phone
+TKT-7145,CUS-81444823,Feature Request,Medium,25,Closed,Email
+TKT-4159,CUS-15599269,Login Issue,High,9,Closed,Chat
+TKT-7377,CUS-82907753,Login Issue,Medium,27,Closed,Chat
+TKT-2722,CUS-18399123,Payment Failure,Low,59,Closed,Email
+TKT-6032,CUS-35522512,Bug Report,Low,38,Closed,Chat
+TKT-6766,CUS-28697879,Login Issue,Medium,38,Closed,Web Portal
+TKT-3681,CUS-66296250,Refund Request,Medium,55,Closed,Chat
+TKT-6513,CUS-84302202,Login Issue,Medium,30,Open,Web Portal
+TKT-1377,CUS-73773487,Bug Report,High,11,Closed,Phone
+TKT-9660,CUS-14545052,Payment Failure,High,66,Closed,Phone
+TKT-3370,CUS-82726512,Refund Request,Low,70,Closed,Chat
+TKT-6402,CUS-92386593,Refund Request,Low,48,Closed,Chat
+TKT-9732,CUS-27423738,Payment Failure,Low,7,Closed,Email
+TKT-3393,CUS-28296183,Feature Request,Medium,15,Open,Email
+TKT-6019,CUS-95320213,Bug Report,Low,61,Closed,Email
+TKT-1649,CUS-83859201,Login Issue,Medium,6,Closed,Email
+TKT-6007,CUS-93053676,Refund Request,Medium,42,Pending,Email
+TKT-4238,CUS-45461132,Feature Request,Medium,21,Open,Chat
+TKT-2191,CUS-17224362,Bug Report,Medium,63,Closed,Email
+TKT-1238,CUS-90351677,Login Issue,Medium,58,Closed,Chat
+TKT-1549,CUS-59368712,Feature Request,Medium,70,Closed,Email
+TKT-8180,CUS-95850111,Payment Failure,Low,13,Closed,Email
+TKT-8768,CUS-81812336,Bug Report,Medium,57,Pending,Email
+TKT-3526,CUS-88080662,Bug Report,High,55,Closed,Phone
+TKT-5762,CUS-57279491,Bug Report,Critical,35,Open,Phone
+TKT-3926,CUS-57714936,Refund Request,Medium,27,Closed,Phone
+TKT-5506,CUS-33063969,Subscription Problem,High,28,Open,Email
+TKT-2108,CUS-56495315,Refund Request,Low,13,Open,Chat
+TKT-7122,CUS-49802683,Payment Failure,High,44,Closed,Chat
+TKT-4177,CUS-61562830,Login Issue,Low,16,Closed,Phone
+TKT-8994,CUS-24007436,Payment Failure,Low,11,Closed,Chat
+TKT-1119,CUS-95184274,Payment Failure,Medium,20,Pending,Email
+TKT-4898,CUS-63837086,Payment Failure,Medium,25,Closed,Email
+TKT-3291,CUS-70232308,Login Issue,Medium,41,Closed,Email
+TKT-8537,CUS-39186618,Login Issue,Medium,26,Pending,Email
+TKT-4908,CUS-19518624,Login Issue,Low,59,Pending,Email
+TKT-5415,CUS-46787819,Payment Failure,Low,24,Closed,Email
+TKT-5471,CUS-92785174,Feature Request,Medium,1,Closed,Email
+TKT-7189,CUS-64879316,Payment Failure,Low,23,Pending,Chat
+TKT-3821,CUS-97079515,Subscription Problem,Low,32,Pending,Email
+TKT-3807,CUS-76236718,Bug Report,Low,4,Closed,Email
+TKT-8944,CUS-61882101,Subscription Problem,Low,47,Closed,Chat
+TKT-2004,CUS-47425406,Subscription Problem,High,24,Closed,Chat
+TKT-2086,CUS-14575371,Bug Report,Low,60,Closed,Email
+TKT-2455,CUS-34343598,Bug Report,Low,26,Open,Chat
+TKT-7913,CUS-84648698,Refund Request,Medium,15,Open,Email
+TKT-5200,CUS-66100949,Payment Failure,Low,20,Closed,Phone
+TKT-4630,CUS-80791080,Bug Report,Medium,64,Closed,Web Portal
+TKT-9103,CUS-61994058,Refund Request,Medium,53,Open,Chat
+TKT-5609,CUS-57247595,Login Issue,Medium,14,Pending,Phone
+TKT-9346,CUS-49535174,Payment Failure,High,12,Closed,Email
+TKT-2431,CUS-68960422,Payment Failure,Medium,21,Closed,Email
+TKT-6257,CUS-69510404,Feature Request,Medium,5,Closed,Chat
+TKT-7798,CUS-99095229,Refund Request,High,2,Closed,Email
+TKT-8271,CUS-24135234,Payment Failure,High,7,Open,Email
+TKT-9459,CUS-56636566,Login Issue,Low,59,Closed,Chat
+TKT-5695,CUS-46048313,Login Issue,Critical,36,Closed,Email
+TKT-7957,CUS-93978381,Bug Report,Medium,18,Closed,Email
+TKT-8416,CUS-69504309,Bug Report,Low,2,Closed,Web Portal
+TKT-8076,CUS-92239668,Bug Report,Low,49,Closed,Chat
+TKT-1416,CUS-15208470,Bug Report,Medium,22,Open,Chat
+TKT-7026,CUS-31910272,Subscription Problem,High,13,Closed,Chat
+TKT-9931,CUS-91224459,Login Issue,Medium,6,Closed,Email
+TKT-4939,CUS-63830135,Bug Report,Medium,30,Pending,Chat
+TKT-5898,CUS-71474735,Login Issue,Medium,22,Pending,Phone
+TKT-9169,CUS-94534518,Subscription Problem,Low,47,Pending,Email
+TKT-4555,CUS-27881563,Payment Failure,Low,34,Closed,Email
+TKT-6362,CUS-69213422,Payment Failure,Low,2,Closed,Email
+TKT-2641,CUS-96312143,Login Issue,Low,14,Closed,Chat
+TKT-1126,CUS-48500651,Subscription Problem,Low,35,Closed,Email
+TKT-1797,CUS-75922230,Payment Failure,Low,9,Closed,Email
+TKT-1485,CUS-48565042,Bug Report,Low,2,Open,Email
+TKT-4720,CUS-39881167,Bug Report,Medium,58,Closed,Email
+TKT-8211,CUS-43541968,Login Issue,Medium,48,Closed,Chat
+TKT-6508,CUS-17654644,Refund Request,Low,57,Pending,Web Portal
+TKT-3392,CUS-27214196,Login Issue,Medium,14,Closed,Email
+TKT-6652,CUS-93971130,Refund Request,Low,40,Closed,Email
+TKT-5045,CUS-45706139,Payment Failure,High,28,Closed,Email
+TKT-8501,CUS-10078115,Bug Report,Low,20,Closed,Phone
+TKT-2110,CUS-19235059,Bug Report,Low,11,Closed,Phone
+TKT-1079,CUS-65908774,Bug Report,Medium,12,Open,Email
+TKT-6493,CUS-11104574,Subscription Problem,Critical,4,Closed,Email
+TKT-8690,CUS-35615705,Refund Request,Critical,36,Open,Email
+TKT-6474,CUS-10377462,Payment Failure,Medium,31,Open,Chat
+TKT-4414,CUS-72769401,Feature Request,Medium,45,Open,Chat
+TKT-5209,CUS-85254291,Bug Report,Medium,40,Closed,Chat
+TKT-6011,CUS-20208563,Login Issue,Medium,49,Open,Chat
+TKT-2058,CUS-43027696,Bug Report,Low,39,Closed,Email
+TKT-3179,CUS-14219236,Subscription Problem,High,8,Closed,Email
+TKT-6133,CUS-50464165,Subscription Problem,Low,8,Closed,Email
+TKT-5576,CUS-72339644,Login Issue,Low,67,Pending,Email
+TKT-9778,CUS-57790837,Subscription Problem,Low,4,Closed,Email
+TKT-6437,CUS-57607836,Subscription Problem,Medium,68,Closed,Web Portal
+TKT-4435,CUS-28824416,Bug Report,Low,71,Open,Phone
+TKT-9100,CUS-71092499,Refund Request,Low,70,Closed,Chat
+TKT-8706,CUS-12254895,Feature Request,Medium,53,Closed,Email
+TKT-8174,CUS-25321139,Feature Request,Low,65,Closed,Email
+TKT-7537,CUS-84584342,Refund Request,Low,11,Closed,Email
+TKT-1937,CUS-15183894,Login Issue,Medium,27,Closed,Phone
+TKT-3809,CUS-35053387,Login Issue,Low,59,Open,Phone
+TKT-2470,CUS-22229376,Bug Report,Low,62,Closed,Phone
+TKT-6208,CUS-11354814,Refund Request,Medium,64,Closed,Email
+TKT-6223,CUS-50893984,Subscription Problem,Low,45,Closed,Email
+TKT-7817,CUS-49336060,Refund Request,Medium,59,Closed,Email
+TKT-2104,CUS-16284771,Bug Report,Low,20,Closed,Phone
+TKT-4563,CUS-57753748,Bug Report,Medium,24,Pending,Email
+TKT-9693,CUS-42462379,Payment Failure,Medium,30,Closed,Email
+TKT-2855,CUS-85290144,Refund Request,Medium,1,Open,Phone
+TKT-4304,CUS-21320138,Bug Report,Low,31,Open,Chat
+TKT-2314,CUS-48620121,Login Issue,Medium,64,Closed,Phone
+TKT-6483,CUS-54615875,Payment Failure,Low,3,Closed,Chat
+TKT-3157,CUS-94906420,Login Issue,Low,59,Closed,Email
+TKT-8242,CUS-79757519,Login Issue,Medium,14,Open,Email
+TKT-6019,CUS-66998488,Login Issue,Low,57,Open,Chat
+TKT-9396,CUS-85996992,Feature Request,Medium,22,Open,Email
+TKT-4004,CUS-15974335,Refund Request,Low,66,Closed,Phone
+TKT-9014,CUS-96816848,Subscription Problem,Medium,58,Closed,Email
+TKT-8977,CUS-15233143,Refund Request,Low,28,Closed,Email
+TKT-8796,CUS-46000799,Subscription Problem,Medium,31,Closed,Email
+TKT-7949,CUS-74865373,Login Issue,High,38,Closed,Email
+TKT-4530,CUS-24135736,Subscription Problem,Low,54,Closed,Chat
+TKT-8987,CUS-96940266,Feature Request,Medium,41,Closed,Web Portal
+TKT-2421,CUS-40169432,Subscription Problem,High,42,Closed,Web Portal
+TKT-6753,CUS-24881293,Payment Failure,Low,46,Closed,Chat
+TKT-4626,CUS-29816486,Payment Failure,Medium,37,Closed,Email
+TKT-6226,CUS-86271066,Payment Failure,Low,65,Closed,Phone
+TKT-2419,CUS-65259447,Login Issue,High,61,Closed,Chat
+TKT-5524,CUS-46907363,Login Issue,Low,59,Open,Email
+TKT-4681,CUS-11182420,Feature Request,Low,36,Pending,Email
+TKT-5234,CUS-24206368,Refund Request,Medium,72,Closed,Chat
+TKT-1120,CUS-26049773,Payment Failure,Medium,31,Closed,Email
+TKT-2537,CUS-60817879,Login Issue,High,56,Closed,Email
+TKT-6409,CUS-22168140,Login Issue,Medium,67,Pending,Email
+TKT-3078,CUS-24533472,Payment Failure,High,40,Open,Web Portal
+TKT-3713,CUS-34526590,Payment Failure,Low,42,Closed,Phone
+TKT-3769,CUS-61740244,Payment Failure,Low,10,Open,Email
+TKT-6348,CUS-54844521,Bug Report,Low,35,Open,Email
+TKT-5540,CUS-65660032,Payment Failure,High,28,Closed,Chat
+TKT-7664,CUS-61901065,Refund Request,Medium,12,Closed,Chat
+TKT-5660,CUS-95936408,Bug Report,Medium,68,Open,Chat
+TKT-4303,CUS-23808168,Bug Report,Medium,36,Closed,Phone
+TKT-3362,CUS-41172527,Feature Request,Low,15,Closed,Web Portal
+TKT-1083,CUS-80406011,Payment Failure,Low,47,Closed,Email
+TKT-4136,CUS-94142654,Login Issue,Medium,52,Closed,Web Portal
+TKT-7550,CUS-74837208,Bug Report,Low,26,Closed,Chat
+TKT-4931,CUS-57183261,Login Issue,Low,4,Closed,Phone
+TKT-7114,CUS-45385208,Payment Failure,Medium,42,Closed,Email
+TKT-4297,CUS-62334428,Bug Report,Medium,69,Closed,Email
+TKT-7168,CUS-43986636,Login Issue,Low,5,Closed,Phone
+TKT-2771,CUS-32642918,Bug Report,Medium,44,Closed,Email
+TKT-2014,CUS-14769621,Bug Report,Medium,28,Open,Phone
+TKT-2081,CUS-23796527,Refund Request,Medium,12,Closed,Email
+TKT-5346,CUS-70834235,Payment Failure,High,8,Closed,Email
+TKT-6284,CUS-80608002,Refund Request,Low,72,Open,Email
+TKT-2239,CUS-67190011,Bug Report,Low,21,Closed,Chat
+TKT-3759,CUS-82769998,Subscription Problem,Medium,37,Closed,Web Portal
+TKT-4548,CUS-73525530,Bug Report,Medium,48,Closed,Phone
+TKT-7726,CUS-23981436,Refund Request,Medium,2,Closed,Chat
+TKT-2877,CUS-33762076,Payment Failure,Medium,26,Closed,Email
+TKT-5865,CUS-11922236,Payment Failure,Medium,38,Open,Email
+TKT-3550,CUS-26905817,Bug Report,Medium,18,Closed,Email
+TKT-8935,CUS-44946268,Refund Request,Medium,45,Closed,Web Portal
+TKT-4700,CUS-68372952,Bug Report,Low,3,Closed,Chat
+TKT-5579,CUS-55741805,Subscription Problem,Low,8,Closed,Email
+TKT-6573,CUS-55104336,Login Issue,Medium,39,Closed,Email
+TKT-8583,CUS-70023519,Payment Failure,Low,14,Closed,Chat
+TKT-4618,CUS-37445576,Login Issue,Low,10,Closed,Chat
+TKT-9171,CUS-16196351,Bug Report,Low,72,Closed,Chat
+TKT-3245,CUS-95316454,Refund Request,Medium,3,Closed,Chat
+TKT-3650,CUS-86133927,Subscription Problem,Low,2,Closed,Chat
+TKT-8350,CUS-16038931,Bug Report,Low,26,Open,Chat
+TKT-3370,CUS-23904966,Payment Failure,Low,3,Pending,Chat
+TKT-2470,CUS-50010418,Login Issue,Medium,13,Closed,Email
+TKT-5225,CUS-11742966,Refund Request,Medium,22,Closed,Chat
+TKT-7504,CUS-37381799,Login Issue,High,6,Closed,Phone
+TKT-4196,CUS-65296754,Payment Failure,High,58,Closed,Email
+TKT-2640,CUS-34925333,Bug Report,High,54,Closed,Chat
+TKT-9798,CUS-10046979,Payment Failure,High,44,Closed,Email
+TKT-8880,CUS-77908440,Feature Request,Medium,51,Closed,Web Portal
+TKT-6245,CUS-10910164,Bug Report,Low,22,Closed,Web Portal
+TKT-8514,CUS-45949981,Bug Report,Medium,36,Open,Web Portal
+TKT-6162,CUS-29203261,Bug Report,Medium,61,Open,Email
+TKT-8225,CUS-61042492,Subscription Problem,Medium,14,Closed,Chat
+TKT-7782,CUS-77063937,Subscription Problem,Low,35,Closed,Phone
+TKT-7021,CUS-87613010,Login Issue,Low,52,Closed,Email
+TKT-1709,CUS-10761911,Login Issue,Low,10,Open,Chat
+TKT-3199,CUS-60345331,Bug Report,Low,52,Closed,Web Portal
+TKT-3823,CUS-77272973,Login Issue,Low,30,Closed,Web Portal
+TKT-4618,CUS-80604034,Subscription Problem,High,38,Open,Email
+TKT-2170,CUS-56350713,Payment Failure,Low,5,Closed,Email
+TKT-9699,CUS-28662434,Login Issue,Low,46,Open,Chat
+TKT-6164,CUS-76953515,Bug Report,Medium,28,Open,Phone
+TKT-7355,CUS-11199192,Bug Report,Low,42,Closed,Chat
+TKT-1384,CUS-97305989,Bug Report,Medium,38,Closed,Chat
+TKT-8654,CUS-21256431,Bug Report,Medium,26,Pending,Chat
+TKT-4786,CUS-27611891,Feature Request,Critical,15,Closed,Phone
+TKT-6786,CUS-18119785,Bug Report,Low,37,Closed,Email
+TKT-6529,CUS-23751834,Subscription Problem,Critical,72,Closed,Web Portal
+TKT-1624,CUS-67997776,Login Issue,Medium,51,Open,Phone
+TKT-3217,CUS-14030979,Refund Request,Low,15,Closed,Phone
+TKT-7406,CUS-37952744,Refund Request,Low,11,Closed,Email
+TKT-5322,CUS-48388196,Payment Failure,Medium,52,Closed,Chat
+TKT-1689,CUS-80099175,Login Issue,Low,35,Closed,Web Portal
+TKT-9683,CUS-97372410,Login Issue,Medium,70,Open,Email
+TKT-7314,CUS-79176627,Feature Request,Low,24,Pending,Chat
+TKT-6406,CUS-64841952,Subscription Problem,Medium,7,Open,Email
+TKT-2554,CUS-31426165,Subscription Problem,Low,59,Closed,Chat
+TKT-6504,CUS-39850859,Subscription Problem,Medium,1,Closed,Phone
+TKT-5208,CUS-15212514,Payment Failure,Low,69,Closed,Chat
+TKT-8149,CUS-44441041,Login Issue,Critical,24,Open,Email
+TKT-3993,CUS-89634765,Login Issue,Medium,62,Open,Email
+TKT-5544,CUS-29238426,Payment Failure,High,8,Open,Chat
+TKT-8512,CUS-30456680,Payment Failure,Low,61,Closed,Chat
+TKT-1882,CUS-51490590,Bug Report,Medium,5,Pending,Chat
+TKT-2725,CUS-60730280,Feature Request,Medium,28,Open,Email
+TKT-4576,CUS-95314682,Payment Failure,Medium,43,Closed,Chat
+TKT-2751,CUS-51211588,Login Issue,High,67,Closed,Chat
+TKT-1198,CUS-95380940,Subscription Problem,Medium,15,Closed,Phone
+TKT-8018,CUS-74494622,Subscription Problem,Critical,7,Closed,Web Portal
+TKT-2275,CUS-62406114,Payment Failure,Low,35,Closed,Email
+TKT-9590,CUS-42882328,Login Issue,Medium,8,Closed,Chat
+TKT-4562,CUS-51763717,Bug Report,Low,25,Open,Chat
+TKT-9828,CUS-62198012,Login Issue,High,45,Closed,Chat
+TKT-7455,CUS-70820591,Feature Request,High,45,Pending,Phone
+TKT-4232,CUS-26719415,Subscription Problem,Low,8,Closed,Chat
+TKT-6658,CUS-38421708,Bug Report,Low,63,Closed,Email
+TKT-9279,CUS-94345446,Refund Request,Medium,64,Closed,Email
+TKT-9756,CUS-12292821,Subscription Problem,Low,64,Closed,Chat
+TKT-9609,CUS-95585585,Login Issue,Low,45,Pending,Email
+TKT-1824,CUS-47143836,Login Issue,Low,39,Open,Phone
+TKT-1383,CUS-13561209,Refund Request,High,45,Closed,Chat
+TKT-8919,CUS-55196634,Subscription Problem,Low,5,Closed,Web Portal
+TKT-9515,CUS-55243297,Login Issue,High,59,Closed,Phone
+TKT-9339,CUS-94745491,Feature Request,Low,11,Closed,Web Portal
+TKT-4493,CUS-12096818,Bug Report,Medium,65,Closed,Web Portal
+TKT-3170,CUS-77806013,Subscription Problem,High,35,Closed,Email
+TKT-2696,CUS-80040052,Subscription Problem,High,8,Closed,Email
+TKT-4679,CUS-12013910,Subscription Problem,Low,25,Closed,Phone
+TKT-6934,CUS-11759156,Refund Request,Medium,68,Closed,Phone
+TKT-9840,CUS-83795847,Subscription Problem,Medium,16,Closed,Chat
+TKT-4630,CUS-28903899,Login Issue,Medium,66,Closed,Chat
+TKT-8048,CUS-71621032,Login Issue,High,30,Open,Email
+TKT-6983,CUS-15021922,Login Issue,Low,44,Closed,Chat
+TKT-2031,CUS-23527566,Bug Report,Medium,44,Closed,Chat
+TKT-2498,CUS-76224013,Payment Failure,Low,64,Open,Chat
+TKT-2729,CUS-75989174,Refund Request,Medium,27,Closed,Phone
+TKT-3489,CUS-68530430,Login Issue,Low,35,Closed,Chat
+TKT-7478,CUS-75058474,Subscription Problem,Medium,48,Open,Email
+TKT-1843,CUS-23686266,Payment Failure,Low,72,Closed,Email
+TKT-1859,CUS-28254851,Feature Request,Medium,33,Closed,Chat
+TKT-6417,CUS-97005055,Subscription Problem,Medium,16,Closed,Chat
+TKT-3022,CUS-17061383,Refund Request,Low,48,Closed,Email
+TKT-7072,CUS-47366192,Payment Failure,Low,41,Closed,Email
+TKT-7490,CUS-83573060,Bug Report,Medium,52,Open,Chat
+TKT-1335,CUS-77664759,Login Issue,Low,70,Closed,Email
+TKT-2346,CUS-33027268,Login Issue,Low,59,Closed,Email
+TKT-6711,CUS-34303813,Payment Failure,Low,55,Closed,Email
+TKT-9036,CUS-12715890,Subscription Problem,Low,35,Open,Chat
+TKT-9722,CUS-57771267,Feature Request,Medium,65,Closed,Chat
+TKT-9889,CUS-91649230,Feature Request,Critical,70,Closed,Chat
+TKT-1072,CUS-50343887,Login Issue,Medium,22,Closed,Chat
+TKT-1896,CUS-83684935,Subscription Problem,Medium,55,Closed,Email
+TKT-4438,CUS-99039291,Payment Failure,Critical,39,Pending,Chat
+TKT-4176,CUS-58927548,Subscription Problem,Medium,69,Closed,Chat
+TKT-3428,CUS-88048702,Subscription Problem,Low,13,Closed,Email
+TKT-4992,CUS-34281959,Subscription Problem,Low,15,Closed,Chat
+TKT-1576,CUS-19421005,Login Issue,Medium,19,Closed,Email
+TKT-3385,CUS-79184259,Feature Request,Low,52,Closed,Web Portal
+TKT-5185,CUS-30183474,Payment Failure,Medium,23,Closed,Email
+TKT-8631,CUS-72522337,Login Issue,Low,72,Closed,Email
+TKT-2572,CUS-87921845,Login Issue,Medium,65,Closed,Email
+TKT-8695,CUS-30393807,Login Issue,Low,21,Closed,Chat
+TKT-7211,CUS-27341090,Subscription Problem,Low,52,Closed,Email
+TKT-8489,CUS-16053803,Login Issue,Medium,13,Closed,Email
+TKT-7322,CUS-91022064,Payment Failure,Low,22,Closed,Chat
+TKT-2730,CUS-25401446,Subscription Problem,High,43,Closed,Chat
+TKT-5544,CUS-27021871,Bug Report,Medium,6,Closed,Email
+TKT-9476,CUS-82719922,Bug Report,Medium,17,Closed,Phone
+TKT-1937,CUS-64970644,Login Issue,Medium,45,Closed,Email
+TKT-8380,CUS-22141051,Login Issue,High,31,Closed,Chat
+TKT-5165,CUS-35203579,Refund Request,Low,9,Open,Chat
+TKT-3760,CUS-33347306,Refund Request,High,54,Open,Chat
+TKT-8358,CUS-70882339,Subscription Problem,Low,29,Closed,Chat
+TKT-7109,CUS-94052374,Payment Failure,Low,47,Closed,Phone
+TKT-3412,CUS-41481762,Login Issue,Low,67,Closed,Email
+TKT-2312,CUS-97531992,Subscription Problem,Low,47,Closed,Email
+TKT-4513,CUS-63295835,Login Issue,Medium,14,Open,Email
+TKT-9129,CUS-18954026,Bug Report,Low,31,Closed,Email
+TKT-3678,CUS-15558933,Subscription Problem,Medium,19,Open,Web Portal
+TKT-9243,CUS-22344034,Login Issue,Medium,42,Closed,Email
+TKT-8945,CUS-53809004,Subscription Problem,High,11,Closed,Email
+TKT-1958,CUS-84086872,Payment Failure,High,15,Closed,Email
+TKT-8750,CUS-16761669,Login Issue,Low,27,Closed,Chat
+TKT-1593,CUS-17742837,Subscription Problem,Medium,23,Closed,Phone
+TKT-1770,CUS-11454479,Login Issue,Medium,20,Open,Email
+TKT-4379,CUS-26433727,Login Issue,Medium,45,Open,Email
+TKT-7514,CUS-72485812,Refund Request,Low,16,Closed,Web Portal
+TKT-3747,CUS-98814898,Bug Report,High,30,Closed,Web Portal
+TKT-7129,CUS-15952605,Login Issue,Low,30,Closed,Chat
+TKT-9111,CUS-58763833,Bug Report,High,26,Open,Chat
+TKT-3081,CUS-22584521,Login Issue,Critical,17,Closed,Chat
+TKT-5533,CUS-52354372,Refund Request,Low,57,Closed,Email
+TKT-4438,CUS-57749801,Payment Failure,Medium,48,Closed,Email
+TKT-8335,CUS-92898197,Subscription Problem,High,25,Pending,Email
+TKT-7959,CUS-96318842,Refund Request,Medium,6,Open,Phone
+TKT-4278,CUS-70585470,Refund Request,Medium,56,Closed,Web Portal
+TKT-4051,CUS-62679877,Subscription Problem,Low,37,Open,Chat
+TKT-2429,CUS-39626564,Bug Report,Low,68,Pending,Web Portal
+TKT-5495,CUS-44555081,Bug Report,Medium,56,Closed,Chat
+TKT-6456,CUS-17080971,Subscription Problem,Low,43,Closed,Phone
+TKT-1467,CUS-53980020,Payment Failure,Medium,60,Closed,Chat
+TKT-2682,CUS-20360903,Subscription Problem,Medium,56,Closed,Email
+TKT-7490,CUS-53500331,Refund Request,Low,40,Closed,Email
+TKT-7844,CUS-64093654,Login Issue,Low,22,Closed,Email
+TKT-8597,CUS-63321973,Login Issue,Low,44,Closed,Chat
+TKT-8853,CUS-32539175,Subscription Problem,High,68,Closed,Email
+TKT-6468,CUS-69960397,Login Issue,Medium,42,Closed,Chat
+TKT-6528,CUS-65024008,Payment Failure,High,36,Closed,Web Portal
+TKT-2379,CUS-75144174,Payment Failure,Low,47,Closed,Phone
+TKT-6401,CUS-10804874,Login Issue,Low,25,Pending,Phone
+TKT-4713,CUS-15187165,Subscription Problem,Low,12,Closed,Chat
+TKT-4353,CUS-33648307,Login Issue,Low,19,Pending,Chat
+TKT-1587,CUS-56668767,Subscription Problem,High,9,Closed,Email
+TKT-6979,CUS-97628138,Subscription Problem,Low,30,Closed,Chat
+TKT-7856,CUS-99724266,Login Issue,Low,30,Pending,Email
+TKT-8269,CUS-88541754,Login Issue,Medium,66,Closed,Phone
+TKT-7828,CUS-93434861,Login Issue,Medium,39,Pending,Chat
+TKT-4050,CUS-88121709,Payment Failure,Medium,18,Pending,Web Portal
+TKT-6219,CUS-16636089,Payment Failure,Medium,19,Open,Phone
+TKT-9648,CUS-41388788,Feature Request,Low,54,Closed,Email
+TKT-6994,CUS-51476165,Payment Failure,High,33,Pending,Chat
+TKT-5265,CUS-41730776,Feature Request,High,63,Closed,Chat
+TKT-7603,CUS-76301220,Refund Request,Low,64,Open,Chat
+TKT-6432,CUS-78574348,Payment Failure,High,40,Closed,Email
+TKT-2245,CUS-98130999,Bug Report,Low,39,Closed,Phone
+TKT-8475,CUS-54247004,Subscription Problem,High,11,Pending,Email
+TKT-6979,CUS-54453305,Login Issue,Medium,3,Closed,Email
+TKT-6757,CUS-68540001,Subscription Problem,Medium,69,Closed,Chat
+TKT-6642,CUS-54748350,Login Issue,Medium,68,Closed,Email
+TKT-2185,CUS-79928641,Bug Report,Medium,58,Closed,Chat
+TKT-6400,CUS-71617324,Bug Report,Low,60,Closed,Email
+TKT-6788,CUS-32210198,Refund Request,Low,54,Closed,Chat
+TKT-6311,CUS-30280966,Bug Report,High,44,Closed,Email
+TKT-6772,CUS-64646827,Subscription Problem,Medium,15,Pending,Email
+TKT-4426,CUS-58847877,Payment Failure,Medium,46,Pending,Email
+TKT-8269,CUS-44365988,Login Issue,Medium,72,Pending,Email
+TKT-5263,CUS-31817289,Bug Report,Low,71,Closed,Web Portal
+TKT-9426,CUS-19035254,Login Issue,Medium,21,Closed,Chat
+TKT-8621,CUS-27295744,Login Issue,Medium,34,Open,Email
+TKT-9863,CUS-28571455,Login Issue,Medium,45,Closed,Chat
+TKT-7148,CUS-52020124,Payment Failure,Medium,11,Closed,Web Portal
+TKT-9750,CUS-90035144,Refund Request,Low,14,Closed,Email
+TKT-3898,CUS-48447741,Login Issue,Medium,28,Closed,Email
+TKT-2435,CUS-58685571,Login Issue,Medium,43,Closed,Chat
+TKT-9945,CUS-33216871,Bug Report,High,50,Open,Email
+TKT-7819,CUS-19053022,Payment Failure,Medium,27,Closed,Chat
+TKT-8944,CUS-20565179,Refund Request,Medium,69,Closed,Phone
+TKT-3049,CUS-54994532,Login Issue,Low,10,Open,Email
+TKT-1990,CUS-80718107,Login Issue,Medium,36,Closed,Email
+TKT-8544,CUS-91110974,Login Issue,Medium,35,Closed,Chat
+TKT-2133,CUS-15210308,Login Issue,High,3,Open,Web Portal
+TKT-4399,CUS-41063650,Subscription Problem,Medium,61,Pending,Phone
+TKT-2048,CUS-52461574,Subscription Problem,High,68,Open,Chat
+TKT-1813,CUS-16954539,Login Issue,Low,23,Open,Email
+TKT-8587,CUS-49396790,Bug Report,Low,28,Closed,Phone
+TKT-8608,CUS-42240748,Bug Report,Medium,1,Closed,Chat
+TKT-9082,CUS-28078636,Payment Failure,Low,70,Closed,Email
+TKT-2269,CUS-32456967,Bug Report,Medium,45,Closed,Chat
+TKT-1676,CUS-69864302,Subscription Problem,High,48,Closed,Chat
+TKT-4356,CUS-98472893,Login Issue,Medium,10,Closed,Email
+TKT-7911,CUS-36008251,Bug Report,Low,46,Closed,Chat
+TKT-3710,CUS-33562478,Login Issue,Medium,14,Closed,Email
+TKT-1416,CUS-35475575,Bug Report,Low,57,Closed,Email
+TKT-2183,CUS-23160953,Bug Report,High,23,Open,Phone
+TKT-8637,CUS-88722825,Bug Report,High,45,Open,Chat
+TKT-9537,CUS-84917577,Bug Report,Low,43,Open,Chat
+TKT-7293,CUS-80838837,Bug Report,High,12,Pending,Chat
+TKT-7991,CUS-18036727,Login Issue,Low,35,Closed,Chat
+TKT-3795,CUS-65107091,Bug Report,Medium,30,Open,Email
+TKT-9519,CUS-69488082,Login Issue,Critical,6,Closed,Chat
+TKT-6269,CUS-55415089,Subscription Problem,Low,17,Closed,Email
+TKT-4214,CUS-61029693,Feature Request,Low,17,Closed,Email
+TKT-6010,CUS-29366955,Payment Failure,High,18,Open,Web Portal
+TKT-2902,CUS-19872435,Subscription Problem,Low,70,Closed,Chat
+TKT-1040,CUS-99781272,Payment Failure,Low,63,Pending,Email
+TKT-3370,CUS-10679436,Login Issue,Low,1,Closed,Chat
+TKT-5527,CUS-26018733,Login Issue,Medium,2,Closed,Chat
+TKT-5178,CUS-85183381,Refund Request,Low,66,Pending,Chat
+TKT-5119,CUS-63862849,Feature Request,High,54,Closed,Chat
+TKT-5315,CUS-64574433,Refund Request,Medium,2,Closed,Email
+TKT-7917,CUS-63586607,Refund Request,Low,11,Closed,Email
+TKT-8047,CUS-66446688,Login Issue,Medium,63,Closed,Email
+TKT-8982,CUS-97429841,Payment Failure,Medium,52,Closed,Email
+TKT-7192,CUS-33597457,Payment Failure,Low,48,Closed,Email
+TKT-9409,CUS-98164583,Refund Request,Low,58,Closed,Chat
+TKT-6701,CUS-25620969,Refund Request,Low,8,Open,Email
+TKT-5272,CUS-62159130,Login Issue,Low,52,Closed,Chat
+TKT-6950,CUS-77257067,Refund Request,High,44,Pending,Web Portal
+TKT-7782,CUS-26619171,Payment Failure,Medium,53,Closed,Email
+TKT-7059,CUS-51069414,Bug Report,Low,33,Closed,Chat
+TKT-4562,CUS-41360696,Feature Request,High,68,Closed,Chat
+TKT-3646,CUS-30558586,Login Issue,Critical,21,Open,Web Portal
+TKT-4822,CUS-52006659,Payment Failure,Low,8,Closed,Web Portal
+TKT-7429,CUS-32944090,Login Issue,High,71,Closed,Chat
+TKT-8576,CUS-44213427,Payment Failure,Low,21,Closed,Chat
+TKT-4161,CUS-76262325,Payment Failure,High,56,Open,Email
+TKT-4363,CUS-57429949,Payment Failure,Low,72,Closed,Email
+TKT-1630,CUS-77527309,Login Issue,Low,62,Open,Web Portal
+TKT-3482,CUS-66635323,Payment Failure,Low,52,Closed,Chat
+TKT-7626,CUS-11369777,Payment Failure,High,9,Open,Chat
+TKT-6865,CUS-18816695,Bug Report,Low,60,Closed,Chat
+TKT-5316,CUS-14910966,Subscription Problem,Medium,24,Open,Chat
+TKT-4933,CUS-13565374,Payment Failure,Medium,27,Open,Email
+TKT-6554,CUS-91835181,Login Issue,Medium,61,Closed,Email
+TKT-4126,CUS-50084113,Payment Failure,Low,16,Open,Email
+TKT-6770,CUS-55338197,Refund Request,High,41,Closed,Phone
+TKT-1110,CUS-79769923,Login Issue,Low,56,Closed,Chat
+TKT-6167,CUS-42178499,Payment Failure,Medium,40,Closed,Email
+TKT-2596,CUS-76779543,Login Issue,Critical,24,Open,Web Portal
+TKT-3359,CUS-82988568,Bug Report,Medium,2,Closed,Chat
+TKT-4865,CUS-85151427,Bug Report,Medium,15,Closed,Email
+TKT-7028,CUS-70366180,Login Issue,High,64,Closed,Email
+TKT-9111,CUS-33073053,Login Issue,Low,8,Open,Web Portal
+TKT-2654,CUS-25340916,Login Issue,Low,35,Closed,Web Portal
+TKT-3736,CUS-86125217,Payment Failure,Low,65,Closed,Chat
+TKT-5071,CUS-23102101,Feature Request,Low,61,Pending,Email
+TKT-6778,CUS-36125639,Refund Request,High,45,Closed,Email
+TKT-9231,CUS-73866173,Login Issue,Medium,29,Closed,Email
+TKT-9829,CUS-28719683,Payment Failure,Medium,63,Closed,Web Portal
+TKT-2279,CUS-68561315,Subscription Problem,High,24,Closed,Email
+TKT-6317,CUS-28977092,Payment Failure,Low,64,Open,Chat
+TKT-6296,CUS-93669350,Subscription Problem,Low,68,Closed,Email
+TKT-1514,CUS-29404524,Login Issue,Low,45,Closed,Chat
+TKT-6297,CUS-94744935,Bug Report,Medium,49,Open,Chat
+TKT-5399,CUS-33697996,Bug Report,Medium,33,Open,Web Portal
+TKT-6649,CUS-88723285,Refund Request,Low,39,Open,Email
+TKT-3660,CUS-87405890,Bug Report,Low,33,Closed,Email
+TKT-5304,CUS-68571076,Subscription Problem,Medium,43,Closed,Web Portal
+TKT-4119,CUS-64903503,Payment Failure,Low,22,Closed,Phone
+TKT-9813,CUS-17800794,Refund Request,High,8,Closed,Email
+TKT-7314,CUS-67548555,Refund Request,Low,24,Pending,Chat
+TKT-3231,CUS-68812029,Feature Request,Medium,33,Open,Chat
+TKT-1655,CUS-88234650,Bug Report,Medium,23,Closed,Web Portal
+TKT-5992,CUS-54930790,Refund Request,Low,14,Open,Email
+TKT-9399,CUS-89089346,Payment Failure,Medium,55,Closed,Chat
+TKT-2429,CUS-82623646,Login Issue,Medium,10,Closed,Email
+TKT-2119,CUS-50312794,Bug Report,Low,12,Pending,Chat
+TKT-3374,CUS-78789899,Payment Failure,Medium,11,Closed,Web Portal
+TKT-5028,CUS-20502459,Refund Request,Low,60,Closed,Email
+TKT-1825,CUS-52003731,Subscription Problem,Medium,10,Closed,Phone
+TKT-3184,CUS-22430357,Subscription Problem,Medium,29,Open,Email
+TKT-6897,CUS-36335708,Subscription Problem,Medium,33,Closed,Phone
+TKT-2558,CUS-92792973,Payment Failure,Low,39,Open,Email
+TKT-3342,CUS-87834355,Payment Failure,Low,72,Pending,Web Portal
+TKT-9859,CUS-48223721,Bug Report,High,21,Closed,Phone
+TKT-7757,CUS-22980548,Refund Request,Medium,45,Closed,Email
+TKT-2326,CUS-28178095,Bug Report,Low,38,Closed,Chat
+TKT-6774,CUS-75286155,Login Issue,Low,4,Closed,Phone
+TKT-2814,CUS-71308733,Refund Request,Medium,26,Closed,Email
+TKT-3412,CUS-42840489,Payment Failure,Medium,53,Closed,Email
+TKT-2634,CUS-30320063,Refund Request,High,28,Closed,Phone
+TKT-2516,CUS-11408782,Payment Failure,Low,39,Open,Email
+TKT-5771,CUS-71466278,Feature Request,Low,21,Closed,Phone
+TKT-7375,CUS-56011188,Subscription Problem,Low,9,Closed,Web Portal
+TKT-3015,CUS-75618241,Subscription Problem,Medium,29,Closed,Phone
+TKT-7771,CUS-46620333,Login Issue,Medium,20,Closed,Chat
+TKT-9572,CUS-98268037,Payment Failure,Medium,60,Open,Email
+TKT-4660,CUS-31195554,Subscription Problem,Medium,40,Open,Chat
+TKT-6608,CUS-19874323,Bug Report,Low,12,Open,Web Portal
+TKT-6616,CUS-33783316,Bug Report,Low,35,Closed,Chat
+TKT-8525,CUS-63110316,Payment Failure,Low,14,Closed,Phone
+TKT-6719,CUS-74416396,Refund Request,Low,8,Open,Email
+TKT-2301,CUS-70032045,Refund Request,Low,63,Pending,Email
+TKT-5955,CUS-82613576,Login Issue,High,46,Closed,Email
+TKT-2435,CUS-10000106,Subscription Problem,High,59,Closed,Chat
+TKT-6023,CUS-44572761,Login Issue,Low,41,Open,Chat
+TKT-9325,CUS-97120711,Subscription Problem,High,42,Closed,Chat
+TKT-3126,CUS-29572950,Subscription Problem,Medium,33,Pending,Phone
+TKT-9526,CUS-51475404,Payment Failure,Low,12,Pending,Chat
+TKT-3455,CUS-65936158,Subscription Problem,Medium,61,Closed,Email
+TKT-1686,CUS-28195001,Login Issue,Low,65,Closed,Chat
+TKT-9186,CUS-93129607,Subscription Problem,Medium,36,Closed,Email
+TKT-3181,CUS-54762367,Bug Report,High,34,Closed,Web Portal
+TKT-1989,CUS-97998012,Bug Report,Medium,10,Closed,Email
+TKT-7196,CUS-28345030,Payment Failure,High,33,Closed,Email
+TKT-8085,CUS-51520967,Login Issue,High,22,Closed,Phone
+TKT-3641,CUS-79882085,Subscription Problem,Low,54,Open,Chat
+TKT-9926,CUS-41616144,Login Issue,Low,17,Pending,Email
+TKT-2682,CUS-46887233,Payment Failure,High,33,Closed,Email
+TKT-8979,CUS-52022754,Payment Failure,Medium,62,Closed,Chat
+TKT-7949,CUS-92688632,Payment Failure,High,28,Closed,Chat
+TKT-8844,CUS-32020572,Subscription Problem,Low,7,Closed,Chat
+TKT-4947,CUS-30171088,Login Issue,Low,71,Closed,Phone
+TKT-6266,CUS-55459360,Refund Request,Medium,44,Closed,Email
+TKT-6798,CUS-19315372,Refund Request,Medium,18,Open,Chat
+TKT-4005,CUS-71274740,Bug Report,Low,62,Closed,Web Portal
+TKT-1710,CUS-61399272,Payment Failure,Medium,24,Closed,Email
+TKT-4717,CUS-73659344,Bug Report,Critical,32,Closed,Email
+TKT-5974,CUS-70643428,Login Issue,Medium,65,Closed,Web Portal
+TKT-9946,CUS-92341371,Login Issue,Low,52,Closed,Phone
+TKT-2465,CUS-23588091,Payment Failure,Medium,40,Closed,Email
+TKT-5370,CUS-84819363,Subscription Problem,Low,49,Closed,Chat
+TKT-4779,CUS-47660416,Refund Request,High,7,Pending,Email
+TKT-4693,CUS-66741036,Payment Failure,High,40,Open,Email
+TKT-8061,CUS-97946431,Bug Report,High,11,Closed,Email
+TKT-9633,CUS-36354055,Refund Request,Medium,61,Open,Web Portal
+TKT-3339,CUS-49057669,Bug Report,Low,39,Closed,Chat
+TKT-2976,CUS-93875093,Payment Failure,Medium,45,Closed,Web Portal
+TKT-7379,CUS-57891048,Subscription Problem,Medium,43,Open,Email
+TKT-8544,CUS-36687889,Refund Request,High,63,Open,Email
+TKT-1340,CUS-54535051,Login Issue,Critical,21,Closed,Phone
+TKT-3975,CUS-88763810,Subscription Problem,High,35,Closed,Email
+TKT-4251,CUS-35626322,Bug Report,Low,72,Closed,Chat
+TKT-6816,CUS-21652756,Bug Report,High,42,Pending,Chat
+TKT-4935,CUS-78465830,Subscription Problem,Medium,37,Open,Phone
+TKT-8334,CUS-39222591,Payment Failure,High,37,Closed,Email
+TKT-1614,CUS-30452454,Subscription Problem,Low,39,Closed,Web Portal
+TKT-6610,CUS-84508971,Payment Failure,High,4,Closed,Chat
+TKT-5748,CUS-92040779,Refund Request,Medium,9,Closed,Email
+TKT-7720,CUS-67556013,Login Issue,Low,34,Closed,Email
+TKT-1171,CUS-82980826,Login Issue,Medium,65,Closed,Chat
+TKT-5549,CUS-18393821,Payment Failure,Medium,30,Closed,Email
+TKT-1665,CUS-36643830,Login Issue,Low,9,Closed,Web Portal
+TKT-4251,CUS-88078868,Login Issue,Medium,53,Closed,Phone
+TKT-2590,CUS-45503432,Bug Report,Medium,24,Closed,Phone
+TKT-3480,CUS-47883507,Bug Report,Low,6,Closed,Email
+TKT-2819,CUS-18006426,Bug Report,High,43,Closed,Email
+TKT-7642,CUS-62299900,Feature Request,Low,2,Closed,Email
+TKT-2747,CUS-92002367,Bug Report,High,44,Closed,Email
+TKT-3831,CUS-35378195,Bug Report,High,62,Closed,Chat
+TKT-6482,CUS-37723354,Subscription Problem,High,31,Closed,Email
+TKT-4837,CUS-70124965,Subscription Problem,Low,18,Closed,Chat
+TKT-6460,CUS-38040963,Subscription Problem,Medium,42,Open,Chat
+TKT-4385,CUS-76691739,Bug Report,Medium,64,Pending,Chat
+TKT-9823,CUS-66609992,Feature Request,Medium,72,Pending,Chat
+TKT-1967,CUS-39873314,Login Issue,Low,30,Closed,Web Portal
+TKT-9018,CUS-78396096,Subscription Problem,Medium,59,Closed,Email
+TKT-6021,CUS-47511462,Login Issue,Low,17,Closed,Chat
+TKT-6143,CUS-32750202,Refund Request,Low,41,Closed,Phone
+TKT-6012,CUS-91183038,Refund Request,Medium,72,Closed,Phone
+TKT-3509,CUS-70356652,Login Issue,Medium,15,Open,Chat
+TKT-9425,CUS-55894979,Refund Request,Low,39,Closed,Email
+TKT-2883,CUS-85456678,Refund Request,Low,12,Closed,Web Portal
+TKT-7824,CUS-67737201,Feature Request,Medium,24,Closed,Web Portal
+TKT-9264,CUS-18570961,Feature Request,Low,50,Closed,Phone
+TKT-1490,CUS-99914305,Login Issue,Critical,43,Closed,Phone
+TKT-7598,CUS-13411588,Login Issue,Low,18,Pending,Phone
+TKT-1862,CUS-55434689,Subscription Problem,Medium,12,Closed,Web Portal
+TKT-3247,CUS-90575009,Bug Report,Medium,36,Closed,Phone
+TKT-8669,CUS-69140206,Login Issue,Medium,58,Closed,Phone
+TKT-8256,CUS-35971582,Subscription Problem,High,60,Closed,Chat
+TKT-5975,CUS-87212253,Login Issue,High,31,Closed,Chat
+TKT-8445,CUS-51905816,Subscription Problem,Medium,23,Closed,Email
+TKT-1723,CUS-69059187,Login Issue,Medium,43,Open,Chat
+TKT-9150,CUS-47319333,Login Issue,Medium,4,Closed,Email
+TKT-1107,CUS-66017200,Subscription Problem,Low,23,Closed,Email
+TKT-5519,CUS-30702923,Bug Report,Low,67,Closed,Email
+TKT-8503,CUS-55644829,Payment Failure,Medium,5,Closed,Email
+TKT-4207,CUS-16301148,Bug Report,Low,41,Closed,Email
+TKT-7089,CUS-70472291,Login Issue,Low,36,Open,Chat
+TKT-4576,CUS-92524726,Subscription Problem,Low,57,Open,Email
+TKT-4683,CUS-80347925,Bug Report,High,56,Closed,Email
+TKT-7898,CUS-10377462,Refund Request,Medium,62,Closed,Web Portal
+TKT-3643,CUS-48620121,Login Issue,Medium,67,Pending,Email
+TKT-4508,CUS-54615875,Payment Failure,Medium,71,Pending,Chat
+TKT-6467,CUS-79757519,Login Issue,Critical,72,Closed,Chat
+TKT-2184,CUS-65259447,Payment Failure,Low,41,Closed,Email
+TKT-7272,CUS-82769998,Subscription Problem,Low,18,Closed,Phone
+TKT-6209,CUS-23981436,Login Issue,Low,8,Closed,Email
+TKT-7178,CUS-95316454,Refund Request,Low,27,Closed,Web Portal
+TKT-4323,CUS-74494622,Bug Report,Medium,35,Closed,Chat
+TKT-8491,CUS-62406114,Payment Failure,Medium,43,Closed,Phone
+TKT-5645,CUS-94745491,Bug Report,Medium,21,Closed,Email
+TKT-8850,CUS-76603019,Bug Report,High,20,Closed,Email
+TKT-9749,CUS-44126991,Login Issue,Medium,11,Closed,Web Portal
+TKT-6212,CUS-63830135,Subscription Problem,Medium,22,Open,Email
+TKT-5019,CUS-71474735,Login Issue,High,18,Open,Chat
+TKT-9496,CUS-43986636,Bug Report,High,15,Closed,Email
+TKT-4899,CUS-13561209,Login Issue,High,21,Closed,Chat
+TKT-6924,CUS-56281214,Login Issue,Low,20,Closed,Chat
+TKT-5387,CUS-74947997,Login Issue,Medium,36,Closed,Chat
+TKT-6577,CUS-49341306,Bug Report,Low,37,Closed,Email
+TKT-9397,CUS-34912997,Subscription Problem,Medium,5,Closed,Chat
+TKT-8196,CUS-90625891,Subscription Problem,Medium,47,Closed,Chat
+TKT-5648,CUS-27561642,Subscription Problem,Low,59,Closed,Chat
+TKT-8278,CUS-17069657,Payment Failure,Medium,60,Closed,Chat
+TKT-8673,CUS-27642115,Login Issue,Medium,54,Closed,Email
+TKT-7571,CUS-61807354,Login Issue,High,17,Open,Chat
+TKT-5013,CUS-20360344,Bug Report,Low,24,Closed,Phone
+TKT-3731,CUS-98870199,Bug Report,Low,46,Closed,Email
+TKT-9257,CUS-64774291,Login Issue,Medium,21,Pending,Chat
+TKT-4081,CUS-32792025,Subscription Problem,Medium,4,Pending,Phone
+TKT-4250,CUS-66155424,Subscription Problem,High,9,Closed,Web Portal
+TKT-8844,CUS-28946068,Bug Report,Medium,72,Closed,Chat
+TKT-6032,CUS-76603019,Payment Failure,Low,56,Closed,Phone
+TKT-3009,CUS-65534855,Feature Request,High,55,Pending,Email
+TKT-7565,CUS-29954748,Login Issue,Medium,36,Closed,Chat
+TKT-6831,CUS-46110966,Bug Report,Medium,61,Closed,Email
+TKT-9402,CUS-62005831,Bug Report,Medium,38,Closed,Chat
+TKT-6015,CUS-44126991,Payment Failure,Low,38,Closed,Web Portal
+TKT-2949,CUS-14553204,Bug Report,Medium,27,Closed,Phone
+TKT-9801,CUS-67780193,Login Issue,Medium,19,Closed,Chat
+TKT-2926,CUS-73040682,Refund Request,Medium,27,Closed,Web Portal
+TKT-6606,CUS-18614321,Bug Report,Low,24,Closed,Chat
+TKT-4458,CUS-26135239,Payment Failure,Low,39,Closed,Chat
+TKT-8628,CUS-22567117,Login Issue,Medium,63,Closed,Phone
+TKT-9470,CUS-96593714,Login Issue,Low,4,Closed,Web Portal
+TKT-8934,CUS-36404700,Login Issue,Medium,61,Closed,Chat
+TKT-8590,CUS-60872927,Payment Failure,Medium,18,Closed,Web Portal
+TKT-8929,CUS-68811668,Feature Request,High,65,Open,Chat
+TKT-5369,CUS-51531906,Payment Failure,High,71,Closed,Chat
+TKT-9426,CUS-89869099,Login Issue,High,2,Closed,Phone
+TKT-5699,CUS-10354539,Login Issue,High,62,Closed,Chat
+TKT-6219,CUS-18921125,Payment Failure,Low,20,Closed,Email
+TKT-3148,CUS-17421725,Login Issue,Low,33,Open,Chat
+TKT-4609,CUS-14484736,Subscription Problem,Low,22,Closed,Email
+TKT-5233,CUS-55981896,Subscription Problem,Low,66,Closed,Chat
+TKT-7798,CUS-52139061,Refund Request,Medium,28,Closed,Email
+TKT-3933,CUS-56017544,Login Issue,Critical,19,Closed,Chat
+TKT-8952,CUS-71999602,Payment Failure,Low,10,Pending,Email
+TKT-7410,CUS-17567562,Login Issue,Medium,27,Closed,Chat
+TKT-9413,CUS-51323089,Payment Failure,Low,58,Pending,Chat
+TKT-7681,CUS-79092759,Bug Report,Low,64,Open,Chat
+TKT-5728,CUS-80134401,Subscription Problem,Medium,27,Closed,Email
+TKT-6316,CUS-11508889,Login Issue,Low,54,Closed,Web Portal
+TKT-4068,CUS-98060758,Bug Report,Medium,68,Closed,Chat
+TKT-4886,CUS-34910398,Payment Failure,Low,45,Open,Email
+TKT-3225,CUS-31994863,Refund Request,Low,6,Closed,Phone
+TKT-9000,CUS-60768651,Payment Failure,Critical,32,Closed,Chat
+TKT-7213,CUS-87632315,Payment Failure,Low,28,Closed,Chat
+TKT-6026,CUS-94823206,Bug Report,Low,32,Open,Phone
+TKT-2735,CUS-77231245,Payment Failure,Low,55,Closed,Email
+TKT-8946,CUS-68527055,Login Issue,Low,59,Closed,Email
+TKT-6937,CUS-37424595,Bug Report,Medium,4,Closed,Web Portal
+TKT-2500,CUS-55225331,Login Issue,Low,34,Pending,Email
+TKT-6432,CUS-51202971,Bug Report,High,72,Pending,Email
+TKT-9521,CUS-21454810,Subscription Problem,Low,43,Closed,Web Portal
+TKT-6534,CUS-26970953,Payment Failure,Medium,53,Closed,Email
+TKT-2939,CUS-71037606,Payment Failure,High,64,Closed,Chat
+TKT-1170,CUS-88439537,Bug Report,Low,46,Closed,Chat
+TKT-7330,CUS-90285896,Bug Report,Low,9,Closed,Phone
+TKT-2716,CUS-59424122,Bug Report,Medium,72,Closed,Email
+TKT-2578,CUS-76807142,Login Issue,High,62,Closed,Email
+TKT-8511,CUS-73065042,Refund Request,Low,37,Pending,Chat
+TKT-2752,CUS-37097414,Subscription Problem,Low,16,Open,Chat
+TKT-8670,CUS-73663907,Subscription Problem,Low,59,Closed,Email
+TKT-6187,CUS-69586619,Refund Request,Medium,32,Closed,Web Portal
+TKT-8980,CUS-37560036,Login Issue,Low,30,Closed,Chat
+TKT-6140,CUS-42676532,Payment Failure,Medium,37,Closed,Chat
+TKT-6097,CUS-80820774,Subscription Problem,Low,28,Closed,Chat
+TKT-1900,CUS-87712948,Subscription Problem,Medium,11,Closed,Email
+TKT-3517,CUS-31950532,Bug Report,Medium,38,Open,Email
+TKT-7497,CUS-37821449,Bug Report,Critical,58,Open,Email
+TKT-2362,CUS-76630810,Payment Failure,Critical,39,Closed,Email
+TKT-8154,CUS-86383059,Login Issue,Low,46,Closed,Chat
+TKT-6772,CUS-97244783,Bug Report,Medium,63,Closed,Chat
+TKT-6484,CUS-82633783,Login Issue,Medium,47,Open,Email
+TKT-1726,CUS-83074113,Payment Failure,Low,29,Closed,Chat
+TKT-1087,CUS-86126075,Feature Request,Low,39,Closed,Email
+TKT-5680,CUS-13025376,Refund Request,Medium,9,Open,Chat
+TKT-5609,CUS-39962957,Login Issue,Low,67,Open,Email
+TKT-3451,CUS-90754528,Refund Request,Low,14,Open,Phone
+TKT-6456,CUS-57355704,Login Issue,High,11,Closed,Phone
+TKT-7632,CUS-72617026,Bug Report,Low,56,Closed,Email
+TKT-7785,CUS-28885517,Login Issue,Low,51,Closed,Email
+TKT-9090,CUS-67539660,Subscription Problem,Medium,16,Closed,Web Portal
+TKT-7927,CUS-24952782,Feature Request,Low,32,Open,Email
+TKT-7703,CUS-90754823,Login Issue,Medium,27,Closed,Email
+TKT-3593,CUS-80374636,Subscription Problem,High,46,Open,Phone
+TKT-8764,CUS-62053560,Bug Report,Low,26,Closed,Phone
+TKT-9468,CUS-62043339,Login Issue,Low,62,Closed,Web Portal
+TKT-5453,CUS-48891815,Feature Request,Low,61,Pending,Email
+TKT-7486,CUS-43050795,Subscription Problem,High,63,Closed,Email
+TKT-7151,CUS-96964404,Subscription Problem,Low,43,Closed,Chat
+TKT-5444,CUS-13159453,Payment Failure,Medium,67,Closed,Chat
+TKT-9533,CUS-41673228,Feature Request,Medium,32,Pending,Email
+TKT-8885,CUS-94657635,Payment Failure,Medium,29,Open,Phone
+TKT-2517,CUS-54256880,Subscription Problem,Medium,16,Closed,Email
+TKT-3610,CUS-78779484,Refund Request,High,32,Open,Chat
+TKT-1621,CUS-70757120,Bug Report,Medium,26,Closed,Web Portal
+TKT-4343,CUS-90873769,Feature Request,Low,53,Closed,Phone
+TKT-6413,CUS-60815411,Login Issue,Low,56,Closed,Email
+TKT-5912,CUS-68782430,Bug Report,Low,60,Closed,Email
+TKT-9334,CUS-64456327,Bug Report,Medium,41,Closed,Web Portal
+TKT-1959,CUS-79778247,Login Issue,Medium,38,Closed,Email
+TKT-6805,CUS-77484741,Bug Report,Medium,59,Pending,Chat
+TKT-3696,CUS-47319333,Subscription Problem,Medium,69,Closed,Chat
+TKT-2499,CUS-65178882,Payment Failure,Low,66,Closed,Email
+TKT-3446,CUS-42517462,Feature Request,Medium,52,Open,Email
+TKT-7565,CUS-24874308,Bug Report,Low,54,Pending,Chat
+TKT-8819,CUS-66017200,Bug Report,Low,48,Closed,Email
+TKT-6597,CUS-21381112,Subscription Problem,Medium,7,Closed,Phone
+TKT-5806,CUS-96554776,Feature Request,Low,8,Closed,Chat
+TKT-2560,CUS-55955690,Login Issue,Low,51,Closed,Phone
+TKT-1240,CUS-27418213,Payment Failure,Medium,25,Closed,Chat
+TKT-8053,CUS-86022702,Login Issue,Low,14,Closed,Phone
+TKT-3163,CUS-64568722,Payment Failure,Medium,24,Open,Phone
+TKT-4383,CUS-80233762,Subscription Problem,High,65,Closed,Chat
+TKT-9295,CUS-26307653,Bug Report,High,13,Open,Phone
+TKT-6579,CUS-20808413,Bug Report,Low,1,Closed,Email
+TKT-8825,CUS-54271644,Bug Report,Low,26,Closed,Chat
+TKT-5598,CUS-35623779,Subscription Problem,Low,42,Closed,Web Portal
+TKT-7804,CUS-12166974,Login Issue,Low,57,Closed,Chat
+TKT-8049,CUS-96288039,Subscription Problem,Medium,4,Closed,Email
+TKT-7695,CUS-10234759,Login Issue,High,23,Closed,Email
+TKT-5849,CUS-34756125,Login Issue,Critical,46,Open,Web Portal
+TKT-3951,CUS-23840396,Refund Request,Low,48,Closed,Email
+TKT-4140,CUS-53082964,Bug Report,Medium,1,Open,Email
+TKT-9624,CUS-54815027,Payment Failure,Critical,22,Pending,Chat
+TKT-7951,CUS-24195294,Bug Report,High,56,Closed,Chat
+TKT-5730,CUS-62615377,Subscription Problem,Medium,71,Closed,Chat
+TKT-8541,CUS-82925741,Payment Failure,Medium,56,Pending,Chat
+TKT-9710,CUS-31437660,Login Issue,High,23,Closed,Chat
+TKT-2103,CUS-19210484,Login Issue,Low,66,Open,Phone
+TKT-2198,CUS-58337368,Subscription Problem,Medium,55,Closed,Chat
+TKT-9389,CUS-30702923,Feature Request,Low,47,Closed,Email
+TKT-8331,CUS-74296965,Subscription Problem,Low,42,Closed,Chat
+TKT-5509,CUS-41183680,Payment Failure,Low,40,Closed,Chat
+TKT-7256,CUS-37367323,Bug Report,Medium,11,Closed,Phone
+TKT-4023,CUS-53519119,Bug Report,Low,44,Closed,Chat
+TKT-5640,CUS-20968128,Login Issue,Low,35,Closed,Email
+TKT-8614,CUS-55644829,Feature Request,Low,67,Closed,Email
+TKT-9662,CUS-57028374,Login Issue,Medium,46,Pending,Chat
+TKT-7630,CUS-41698862,Login Issue,High,25,Open,Chat
+TKT-2545,CUS-16301148,Login Issue,Medium,4,Closed,Chat
+TKT-5471,CUS-70472291,Login Issue,Medium,57,Open,Email
+TKT-9271,CUS-62713204,Bug Report,High,14,Closed,Web Portal
+TKT-4261,CUS-39412741,Payment Failure,Medium,53,Closed,Chat
+TKT-5219,CUS-45772041,Feature Request,Low,6,Closed,Chat
+TKT-8249,CUS-31434773,Payment Failure,Low,25,Closed,Web Portal
+TKT-1297,CUS-73864290,Payment Failure,Low,52,Closed,Chat
+TKT-2633,CUS-44099374,Login Issue,High,27,Closed,Phone
+TKT-8345,CUS-15088946,Payment Failure,High,44,Open,Chat
+TKT-1812,CUS-80104582,Login Issue,High,56,Closed,Email
+TKT-3268,CUS-28486691,Login Issue,Low,31,Closed,Chat
+TKT-1148,CUS-92524726,Bug Report,Medium,17,Closed,Web Portal
+TKT-9010,CUS-79047712,Bug Report,Medium,12,Closed,Web Portal
+TKT-9039,CUS-54389572,Subscription Problem,Medium,34,Open,Email
+TKT-3018,CUS-42889878,Subscription Problem,Medium,35,Closed,Phone
+TKT-3967,CUS-22023222,Bug Report,Low,10,Closed,Email
+TKT-2659,CUS-97555747,Login Issue,Low,11,Closed,Chat
+TKT-6165,CUS-81286955,Subscription Problem,High,51,Closed,Web Portal
+TKT-1142,CUS-14383833,Payment Failure,Low,64,Pending,Chat
+TKT-7115,CUS-49382970,Login Issue,High,68,Closed,Email
+TKT-8825,CUS-33089421,Payment Failure,Medium,4,Closed,Email
+TKT-1795,CUS-54706872,Refund Request,High,17,Closed,Web Portal
+TKT-6557,CUS-63992791,Login Issue,Medium,19,Closed,Chat
+TKT-8383,CUS-67860785,Bug Report,Medium,49,Open,Email
+TKT-5168,CUS-49160831,Payment Failure,Low,39,Open,Email
+TKT-4567,CUS-53517565,Bug Report,High,4,Closed,Chat
+TKT-7788,CUS-76594060,Login Issue,Low,51,Closed,Chat
+TKT-3254,CUS-97886088,Login Issue,High,34,Closed,Chat
+TKT-6775,CUS-44712178,Payment Failure,High,42,Closed,Email
+TKT-6925,CUS-92448465,Login Issue,Low,58,Closed,Web Portal
+TKT-9357,CUS-23896645,Login Issue,Critical,19,Closed,Chat
+TKT-6153,CUS-33440424,Login Issue,Low,64,Open,Chat
+TKT-5411,CUS-70134454,Subscription Problem,Low,42,Closed,Email
+TKT-1428,CUS-57884792,Payment Failure,Medium,38,Closed,Web Portal
+TKT-5403,CUS-44096666,Payment Failure,Medium,61,Closed,Chat
+TKT-8098,CUS-67730972,Login Issue,Medium,10,Closed,Email
+TKT-6026,CUS-25961611,Login Issue,Low,13,Closed,Email
+TKT-2330,CUS-80347925,Payment Failure,Low,72,Open,Email
+TKT-7243,CUS-13876895,Login Issue,Medium,53,Closed,Email
+TKT-3749,CUS-78146888,Refund Request,Low,39,Open,Email
+TKT-8720,CUS-74551205,Payment Failure,Low,24,Closed,Chat
+TKT-8246,CUS-81444823,Login Issue,Medium,7,Closed,Email
+TKT-1341,CUS-15599269,Bug Report,Medium,4,Open,Email
+TKT-8347,CUS-82907753,Bug Report,Low,48,Closed,Phone
+TKT-2941,CUS-18399123,Login Issue,Medium,71,Pending,Chat
+TKT-9505,CUS-35522512,Refund Request,Medium,54,Open,Chat
+TKT-3431,CUS-28697879,Payment Failure,Low,29,Closed,Email
+TKT-9264,CUS-66296250,Payment Failure,Low,2,Closed,Chat
+TKT-5218,CUS-84302202,Subscription Problem,Low,36,Closed,Chat
+TKT-3501,CUS-73773487,Refund Request,Medium,51,Closed,Chat
+TKT-1803,CUS-14545052,Login Issue,Low,61,Closed,Email
+TKT-3183,CUS-82726512,Payment Failure,Medium,7,Open,Email
+TKT-3348,CUS-92386593,Subscription Problem,High,18,Closed,Email
+TKT-8761,CUS-27423738,Payment Failure,Low,25,Closed,Email
+TKT-1828,CUS-28296183,Login Issue,Medium,48,Closed,Chat
+TKT-9251,CUS-95320213,Login Issue,Medium,40,Open,Chat
+TKT-9963,CUS-83859201,Bug Report,High,36,Closed,Chat
+TKT-6322,CUS-93053676,Bug Report,Medium,25,Closed,Phone
+TKT-2791,CUS-45461132,Bug Report,Low,42,Closed,Web Portal
+TKT-6046,CUS-17224362,Subscription Problem,Low,56,Closed,Phone
+TKT-1348,CUS-90351677,Bug Report,Low,15,Closed,Email
+TKT-8681,CUS-59368712,Feature Request,Medium,31,Open,Web Portal
+TKT-6907,CUS-95850111,Login Issue,Low,59,Closed,Email
+TKT-5252,CUS-81812336,Bug Report,Medium,12,Pending,Web Portal
+TKT-9748,CUS-88080662,Payment Failure,Medium,71,Closed,Chat
+TKT-9677,CUS-57279491,Refund Request,High,43,Open,Phone
+TKT-3130,CUS-57714936,Payment Failure,High,5,Open,Email
+TKT-3867,CUS-33063969,Bug Report,Low,47,Closed,Phone
+TKT-2952,CUS-56495315,Subscription Problem,Low,4,Closed,Phone
+TKT-5299,CUS-49802683,Login Issue,Low,8,Pending,Phone
+TKT-5357,CUS-61562830,Payment Failure,Low,44,Closed,Chat
+TKT-3465,CUS-24007436,Login Issue,Low,67,Closed,Phone
+TKT-8315,CUS-95184274,Bug Report,Medium,62,Closed,Phone
+TKT-4261,CUS-63837086,Subscription Problem,Low,35,Closed,Phone
+TKT-9036,CUS-70232308,Payment Failure,Medium,67,Pending,Chat
+TKT-7801,CUS-39186618,Subscription Problem,Low,71,Closed,Chat
+TKT-1158,CUS-19518624,Bug Report,Low,1,Pending,Chat
+TKT-6465,CUS-46787819,Login Issue,Low,52,Closed,Email
+TKT-3960,CUS-92785174,Bug Report,Low,66,Closed,Phone
+TKT-3438,CUS-64879316,Subscription Problem,Low,7,Closed,Chat
+TKT-6358,CUS-97079515,Subscription Problem,Low,52,Closed,Phone
+TKT-9478,CUS-76236718,Refund Request,Low,50,Closed,Chat
+TKT-1744,CUS-61882101,Refund Request,Medium,10,Closed,Chat
+TKT-9866,CUS-47425406,Payment Failure,Medium,52,Closed,Phone
+TKT-1063,CUS-14575371,Login Issue,Low,11,Closed,Phone
+TKT-4430,CUS-34343598,Subscription Problem,Medium,9,Closed,Email
+TKT-2196,CUS-84648698,Payment Failure,Medium,45,Closed,Email
+TKT-7699,CUS-66100949,Subscription Problem,Low,58,Closed,Email
+TKT-8747,CUS-80791080,Bug Report,High,63,Closed,Email
+TKT-3728,CUS-61994058,Subscription Problem,Low,23,Open,Chat
+TKT-6713,CUS-57247595,Payment Failure,High,23,Closed,Web Portal
+TKT-2998,CUS-49535174,Bug Report,High,50,Pending,Email
+TKT-8878,CUS-68960422,Subscription Problem,Medium,29,Closed,Chat
+TKT-6884,CUS-69510404,Bug Report,Low,70,Closed,Phone
+TKT-5507,CUS-99095229,Subscription Problem,Low,43,Open,Web Portal
+TKT-9128,CUS-24135234,Payment Failure,Low,24,Closed,Email
+TKT-5777,CUS-56636566,Payment Failure,Critical,32,Pending,Email
+TKT-3887,CUS-46048313,Bug Report,Low,66,Closed,Email
+TKT-5692,CUS-93978381,Bug Report,Medium,4,Closed,Phone
+TKT-9783,CUS-69504309,Refund Request,Low,69,Closed,Email
+TKT-5373,CUS-92239668,Refund Request,Low,69,Open,Chat
+TKT-5113,CUS-15208470,Subscription Problem,High,4,Closed,Email
+TKT-5211,CUS-31910272,Subscription Problem,Medium,24,Closed,Phone
+TKT-2130,CUS-91224459,Bug Report,Medium,71,Pending,Chat
+TKT-6523,CUS-63830135,Subscription Problem,Low,35,Closed,Phone
+TKT-5723,CUS-71474735,Refund Request,Medium,36,Pending,Email
+TKT-3996,CUS-94534518,Payment Failure,Low,16,Open,Chat
+TKT-7100,CUS-27881563,Login Issue,Medium,14,Closed,Web Portal
+TKT-7300,CUS-69213422,Refund Request,Low,16,Closed,Phone
+TKT-6788,CUS-96312143,Login Issue,Low,15,Closed,Email
+TKT-7824,CUS-48500651,Login Issue,Medium,55,Closed,Email
+TKT-3883,CUS-75922230,Payment Failure,High,1,Closed,Chat
+TKT-1869,CUS-48565042,Refund Request,Low,65,Closed,Phone
+TKT-9755,CUS-39881167,Refund Request,Medium,67,Closed,Phone
+TKT-8197,CUS-43541968,Payment Failure,Medium,70,Closed,Chat
+TKT-7304,CUS-17654644,Payment Failure,High,45,Closed,Email
+TKT-2913,CUS-27214196,Subscription Problem,Low,49,Closed,Email
+TKT-2126,CUS-93971130,Subscription Problem,Low,29,Pending,Chat
+TKT-2340,CUS-45706139,Refund Request,High,46,Closed,Email
+TKT-2144,CUS-10078115,Bug Report,Low,45,Closed,Phone
+TKT-4060,CUS-19235059,Payment Failure,High,45,Closed,Email
+TKT-8532,CUS-65908774,Refund Request,Low,55,Closed,Chat
+TKT-4894,CUS-11104574,Login Issue,Low,36,Closed,Chat
+TKT-4870,CUS-35615705,Subscription Problem,Low,38,Closed,Phone
+TKT-4662,CUS-10377462,Payment Failure,Medium,20,Closed,Email
+TKT-8816,CUS-72769401,Payment Failure,Low,49,Open,Email
+TKT-2472,CUS-85254291,Subscription Problem,Medium,25,Closed,Phone
+TKT-3033,CUS-20208563,Login Issue,Low,16,Closed,Chat
+TKT-7482,CUS-43027696,Bug Report,Medium,27,Closed,Phone
+TKT-8466,CUS-14219236,Login Issue,Low,67,Pending,Email
+TKT-5423,CUS-50464165,Subscription Problem,Low,37,Closed,Web Portal
+TKT-6721,CUS-72339644,Bug Report,Medium,63,Closed,Email
+TKT-9699,CUS-57790837,Bug Report,Medium,2,Closed,Chat
+TKT-1333,CUS-57607836,Login Issue,Low,14,Closed,Email
+TKT-8783,CUS-28824416,Login Issue,Medium,52,Closed,Chat
+TKT-5334,CUS-71092499,Subscription Problem,High,56,Closed,Phone
+TKT-5652,CUS-12254895,Login Issue,Low,18,Closed,Email
+TKT-8918,CUS-25321139,Bug Report,Medium,30,Closed,Web Portal
+TKT-3093,CUS-84584342,Payment Failure,Medium,39,Closed,Phone
+TKT-2647,CUS-15183894,Login Issue,Medium,6,Open,Phone
+TKT-6346,CUS-35053387,Subscription Problem,Medium,40,Closed,Web Portal
+TKT-7508,CUS-22229376,Payment Failure,Critical,64,Closed,Email
+TKT-3932,CUS-11354814,Feature Request,Low,10,Closed,Email
+TKT-6269,CUS-50893984,Login Issue,Medium,34,Pending,Email
+TKT-4798,CUS-49336060,Subscription Problem,Low,53,Closed,Phone
+TKT-4656,CUS-16284771,Bug Report,Low,62,Pending,Email
+TKT-1781,CUS-57753748,Bug Report,Low,10,Open,Chat
+TKT-9932,CUS-42462379,Bug Report,Low,10,Closed,Email
+TKT-1409,CUS-85290144,Subscription Problem,Medium,61,Closed,Email
+TKT-6232,CUS-21320138,Login Issue,High,39,Open,Email
+TKT-2210,CUS-48620121,Bug Report,Low,24,Closed,Phone
+TKT-3507,CUS-54615875,Feature Request,High,14,Closed,Phone
+TKT-4279,CUS-94906420,Bug Report,Low,7,Closed,Phone
+TKT-7797,CUS-79757519,Subscription Problem,Medium,11,Closed,Email
+TKT-5628,CUS-66998488,Bug Report,High,14,Pending,Email
+TKT-3176,CUS-85996992,Login Issue,Medium,36,Closed,Phone
+TKT-8639,CUS-15974335,Bug Report,Medium,27,Closed,Email
+TKT-2417,CUS-96816848,Payment Failure,Low,20,Open,Email
+TKT-5803,CUS-15233143,Refund Request,Medium,26,Closed,Chat
+TKT-5378,CUS-46000799,Login Issue,Low,7,Closed,Web Portal
+TKT-1811,CUS-74865373,Bug Report,High,22,Closed,Chat
+TKT-5925,CUS-24135736,Bug Report,Medium,67,Open,Web Portal
+TKT-5273,CUS-96940266,Refund Request,Low,46,Closed,Email
+TKT-8301,CUS-40169432,Subscription Problem,Low,49,Closed,Email
+TKT-1490,CUS-24881293,Payment Failure,Medium,1,Closed,Email
+TKT-9784,CUS-29816486,Feature Request,High,48,Open,Email
+TKT-1603,CUS-86271066,Login Issue,High,10,Open,Chat
+TKT-5557,CUS-65259447,Payment Failure,High,1,Closed,Chat
+TKT-2449,CUS-46907363,Login Issue,High,38,Closed,Web Portal
+TKT-4216,CUS-11182420,Payment Failure,High,46,Closed,Email
+TKT-4363,CUS-24206368,Payment Failure,Low,24,Closed,Email
+TKT-6589,CUS-26049773,Login Issue,Medium,46,Open,Email
+TKT-1006,CUS-60817879,Feature Request,Medium,67,Closed,Email
+TKT-5884,CUS-22168140,Payment Failure,Medium,11,Pending,Phone
+TKT-6863,CUS-24533472,Login Issue,Medium,66,Closed,Chat
+TKT-7388,CUS-34526590,Refund Request,Critical,21,Open,Email
+TKT-9247,CUS-61740244,Login Issue,High,36,Open,Email
+TKT-2327,CUS-54844521,Subscription Problem,High,48,Closed,Email
+TKT-4039,CUS-65660032,Bug Report,Low,48,Closed,Chat
+TKT-7306,CUS-61901065,Subscription Problem,Medium,59,Closed,Web Portal
+TKT-3040,CUS-95936408,Refund Request,Low,18,Open,Chat
+TKT-6069,CUS-23808168,Subscription Problem,Medium,14,Closed,Email
+TKT-6144,CUS-41172527,Bug Report,High,46,Closed,Email
+TKT-3345,CUS-80406011,Subscription Problem,High,3,Open,Chat
+TKT-4880,CUS-94142654,Subscription Problem,Medium,66,Closed,Chat
+TKT-3844,CUS-74837208,Payment Failure,Low,69,Closed,Chat
+TKT-8505,CUS-57183261,Bug Report,High,27,Closed,Phone
+TKT-8925,CUS-45385208,Subscription Problem,Medium,20,Closed,Chat
+TKT-1855,CUS-62334428,Login Issue,Low,58,Closed,Email
+TKT-2452,CUS-43986636,Bug Report,Medium,50,Closed,Email
+TKT-9080,CUS-32642918,Payment Failure,Low,65,Open,Email
+TKT-8555,CUS-14769621,Subscription Problem,High,70,Closed,Chat
+TKT-7125,CUS-23796527,Bug Report,Medium,2,Closed,Phone
+TKT-4146,CUS-70834235,Login Issue,High,12,Closed,Web Portal
+TKT-6873,CUS-80608002,Subscription Problem,High,31,Closed,Email
+TKT-6445,CUS-67190011,Bug Report,Medium,41,Closed,Email
+TKT-8759,CUS-82769998,Subscription Problem,Low,13,Closed,Web Portal
+TKT-3127,CUS-73525530,Subscription Problem,High,32,Closed,Chat
+TKT-9599,CUS-23981436,Subscription Problem,High,65,Closed,Chat
+TKT-3527,CUS-33762076,Subscription Problem,Medium,5,Open,Email
+TKT-6817,CUS-11922236,Subscription Problem,Low,69,Open,Email
+TKT-2210,CUS-26905817,Subscription Problem,Medium,45,Closed,Chat
+TKT-6521,CUS-44946268,Bug Report,Medium,36,Closed,Email
+TKT-6895,CUS-68372952,Refund Request,High,57,Closed,Chat
+TKT-8617,CUS-55741805,Bug Report,Low,29,Open,Email
+TKT-7213,CUS-55104336,Refund Request,Medium,11,Closed,Chat
+TKT-1416,CUS-70023519,Bug Report,Low,43,Closed,Email
+TKT-8496,CUS-37445576,Subscription Problem,Low,66,Open,Email
+TKT-6922,CUS-16196351,Subscription Problem,Low,13,Closed,Email
+TKT-7639,CUS-95316454,Payment Failure,Low,55,Closed,Email
+TKT-1368,CUS-86133927,Refund Request,Medium,42,Closed,Web Portal
+TKT-4281,CUS-16038931,Payment Failure,Low,61,Closed,Email
+TKT-6642,CUS-23904966,Login Issue,Low,59,Closed,Email
+TKT-9412,CUS-50010418,Bug Report,Low,45,Open,Phone
+TKT-8322,CUS-11742966,Refund Request,High,51,Open,Email
+TKT-4890,CUS-37381799,Feature Request,Low,37,Closed,Phone
+TKT-8321,CUS-65296754,Subscription Problem,Medium,37,Closed,Chat
+TKT-8196,CUS-34925333,Bug Report,Low,36,Pending,Chat
+TKT-1312,CUS-10046979,Refund Request,Low,22,Closed,Email
+TKT-6663,CUS-77908440,Bug Report,High,5,Closed,Phone
+TKT-5774,CUS-10910164,Login Issue,High,65,Closed,Web Portal
+TKT-5045,CUS-45949981,Payment Failure,High,51,Closed,Chat
+TKT-6320,CUS-29203261,Subscription Problem,Low,6,Open,Chat
+TKT-3778,CUS-61042492,Bug Report,High,67,Closed,Email
+TKT-2225,CUS-77063937,Payment Failure,Critical,64,Closed,Phone
+TKT-4419,CUS-87613010,Refund Request,Medium,45,Closed,Email
+TKT-8009,CUS-10761911,Login Issue,Medium,70,Open,Phone
+TKT-6736,CUS-60345331,Payment Failure,Low,16,Closed,Email
+TKT-7288,CUS-77272973,Bug Report,High,54,Pending,Chat
+TKT-2046,CUS-80604034,Refund Request,High,30,Closed,Chat
+TKT-9652,CUS-56350713,Subscription Problem,Low,71,Open,Chat
+TKT-2821,CUS-28662434,Bug Report,Critical,30,Pending,Chat
+TKT-3984,CUS-76953515,Subscription Problem,High,51,Closed,Chat
+TKT-2945,CUS-11199192,Refund Request,Low,64,Closed,Web Portal
+TKT-6722,CUS-97305989,Bug Report,High,67,Closed,Web Portal
+TKT-4188,CUS-21256431,Subscription Problem,Medium,16,Open,Email
+TKT-4741,CUS-27611891,Payment Failure,Medium,59,Closed,Phone
+TKT-1058,CUS-18119785,Login Issue,Critical,31,Closed,Email
+TKT-5035,CUS-23751834,Refund Request,Low,20,Pending,Email
+TKT-5872,CUS-67997776,Payment Failure,High,59,Closed,Chat
+TKT-3696,CUS-14030979,Payment Failure,Medium,44,Closed,Phone
+TKT-5471,CUS-37952744,Login Issue,Low,37,Closed,Email
+TKT-3347,CUS-48388196,Bug Report,Critical,20,Open,Email
+TKT-2176,CUS-80099175,Bug Report,Critical,19,Closed,Chat
+TKT-8374,CUS-97372410,Bug Report,Low,64,Closed,Chat
+TKT-3631,CUS-79176627,Login Issue,High,67,Closed,Chat
+TKT-7683,CUS-64841952,Login Issue,Low,57,Closed,Email
+TKT-4465,CUS-31426165,Login Issue,Low,70,Closed,Web Portal
+TKT-5806,CUS-39850859,Refund Request,Low,60,Closed,Chat
+TKT-2357,CUS-15212514,Refund Request,Low,37,Open,Phone
+TKT-1298,CUS-44441041,Login Issue,Medium,25,Closed,Chat
+TKT-8717,CUS-89634765,Payment Failure,High,70,Closed,Email
+TKT-1806,CUS-29238426,Login Issue,High,21,Open,Chat
+TKT-9715,CUS-30456680,Payment Failure,Medium,70,Open,Web Portal
+TKT-1227,CUS-51490590,Subscription Problem,Medium,14,Closed,Chat
+TKT-3594,CUS-60730280,Bug Report,High,45,Closed,Chat
+TKT-4225,CUS-95314682,Login Issue,Medium,38,Closed,Chat
+TKT-7707,CUS-51211588,Refund Request,Medium,10,Open,Email
+TKT-3789,CUS-95380940,Bug Report,Medium,51,Closed,Email
+TKT-7962,CUS-74494622,Payment Failure,High,70,Open,Web Portal
+TKT-2220,CUS-62406114,Subscription Problem,High,49,Closed,Chat
+TKT-8369,CUS-42882328,Refund Request,Low,50,Open,Email
+TKT-6033,CUS-51763717,Login Issue,Low,8,Open,Phone
+TKT-6318,CUS-62198012,Payment Failure,Low,25,Closed,Email
+TKT-8438,CUS-70820591,Login Issue,Low,26,Pending,Web Portal
+TKT-7311,CUS-26719415,Payment Failure,Medium,36,Closed,Web Portal
+TKT-9647,CUS-38421708,Feature Request,Low,53,Closed,Chat
+TKT-6368,CUS-94345446,Subscription Problem,Medium,8,Closed,Phone
+TKT-4381,CUS-12292821,Bug Report,High,62,Closed,Email
+TKT-3478,CUS-95585585,Bug Report,Medium,58,Closed,Phone
+TKT-4636,CUS-47143836,Login Issue,Medium,52,Closed,Web Portal
+TKT-8885,CUS-13561209,Login Issue,Medium,20,Pending,Email
+TKT-8305,CUS-55196634,Login Issue,Medium,72,Closed,Email
+TKT-2430,CUS-55243297,Bug Report,High,63,Pending,Chat
+TKT-2056,CUS-94745491,Feature Request,Medium,69,Pending,Email
+TKT-7841,CUS-12096818,Refund Request,Medium,3,Closed,Chat
+TKT-2221,CUS-77806013,Payment Failure,Low,16,Pending,Chat
+TKT-5131,CUS-80040052,Refund Request,Critical,68,Closed,Email
+TKT-5673,CUS-12013910,Bug Report,Medium,26,Closed,Chat
+TKT-7637,CUS-11759156,Login Issue,High,22,Closed,Chat
+TKT-5282,CUS-83795847,Login Issue,Low,66,Pending,Phone
+TKT-3382,CUS-28903899,Subscription Problem,Medium,52,Closed,Phone
+TKT-3849,CUS-71621032,Subscription Problem,Medium,68,Closed,Chat
+TKT-8382,CUS-15021922,Payment Failure,Low,59,Open,Phone
+TKT-2983,CUS-23527566,Refund Request,Medium,65,Closed,Phone
+TKT-7831,CUS-76224013,Feature Request,Medium,56,Closed,Email
+TKT-2978,CUS-75989174,Login Issue,Low,72,Closed,Chat
+TKT-6945,CUS-68530430,Payment Failure,Medium,17,Closed,Email
+TKT-6817,CUS-75058474,Login Issue,Medium,39,Closed,Chat
+TKT-8952,CUS-23686266,Login Issue,Medium,69,Closed,Email
+TKT-7708,CUS-28254851,Payment Failure,High,43,Closed,Chat
+TKT-8368,CUS-97005055,Payment Failure,High,60,Pending,Email
+TKT-2250,CUS-17061383,Payment Failure,Low,64,Closed,Email
+TKT-9648,CUS-47366192,Bug Report,Low,50,Closed,Email
+TKT-5135,CUS-83573060,Payment Failure,High,7,Closed,Email
+TKT-3625,CUS-77664759,Subscription Problem,Medium,24,Closed,Chat
+TKT-3589,CUS-33027268,Payment Failure,High,38,Closed,Web Portal
+TKT-7522,CUS-34303813,Subscription Problem,Medium,17,Closed,Email
+TKT-7620,CUS-12715890,Login Issue,Medium,12,Closed,Chat
+TKT-8153,CUS-57771267,Bug Report,Low,11,Closed,Chat
+TKT-7196,CUS-91649230,Login Issue,Medium,22,Pending,Email
+TKT-6995,CUS-50343887,Payment Failure,Medium,11,Open,Email
+TKT-4139,CUS-83684935,Payment Failure,Low,10,Closed,Chat
+TKT-5351,CUS-99039291,Bug Report,Low,22,Closed,Email
+TKT-7415,CUS-58927548,Login Issue,Medium,9,Closed,Email
+TKT-2362,CUS-88048702,Bug Report,Medium,7,Pending,Email
+TKT-7840,CUS-34281959,Refund Request,High,31,Closed,Email
+TKT-8908,CUS-19421005,Subscription Problem,Medium,31,Pending,Chat
+TKT-9513,CUS-79184259,Payment Failure,Low,6,Open,Chat
+TKT-2757,CUS-30183474,Refund Request,Low,22,Closed,Email
+TKT-3229,CUS-72522337,Refund Request,Low,63,Closed,Chat
+TKT-5712,CUS-87921845,Subscription Problem,Low,66,Closed,Phone
+TKT-1647,CUS-30393807,Payment Failure,High,64,Closed,Chat
+TKT-1138,CUS-27341090,Bug Report,Low,20,Closed,Phone
+TKT-2512,CUS-16053803,Bug Report,Low,42,Pending,Chat
+TKT-9355,CUS-91022064,Payment Failure,High,4,Open,Email
+TKT-2389,CUS-25401446,Subscription Problem,Low,44,Pending,Email
+TKT-4778,CUS-27021871,Login Issue,Medium,53,Closed,Chat
+TKT-4449,CUS-82719922,Login Issue,Critical,52,Closed,Chat
+TKT-7604,CUS-64970644,Subscription Problem,High,13,Closed,Phone
+TKT-9579,CUS-22141051,Payment Failure,Medium,66,Closed,Chat
+TKT-7950,CUS-35203579,Payment Failure,Critical,13,Closed,Email
+TKT-6229,CUS-33347306,Bug Report,Low,30,Closed,Chat
+TKT-5306,CUS-70882339,Feature Request,Medium,59,Closed,Phone
+TKT-5492,CUS-94052374,Login Issue,High,66,Open,Phone
+TKT-8337,CUS-41481762,Feature Request,High,44,Closed,Email
+TKT-2258,CUS-97531992,Refund Request,Medium,10,Closed,Chat
+TKT-9136,CUS-63295835,Bug Report,High,20,Closed,Email
+TKT-7332,CUS-18954026,Login Issue,Low,63,Closed,Chat
+TKT-7245,CUS-15558933,Subscription Problem,High,11,Closed,Email
+TKT-1656,CUS-22344034,Login Issue,High,33,Closed,Email
+TKT-9105,CUS-53809004,Subscription Problem,Low,71,Closed,Chat
+TKT-2482,CUS-84086872,Bug Report,Low,18,Closed,Email
+TKT-2752,CUS-16761669,Payment Failure,Low,4,Closed,Email
+TKT-9730,CUS-17742837,Login Issue,Critical,44,Closed,Phone
+TKT-1404,CUS-11454479,Refund Request,Medium,24,Open,Phone
+TKT-2683,CUS-26433727,Subscription Problem,High,20,Closed,Email
+TKT-5572,CUS-72485812,Subscription Problem,Medium,19,Open,Email
+TKT-8002,CUS-98814898,Login Issue,High,45,Open,Email
+TKT-1921,CUS-15952605,Payment Failure,Low,52,Open,Phone
+TKT-4717,CUS-58763833,Subscription Problem,Medium,30,Closed,Email
+TKT-9011,CUS-22584521,Login Issue,Critical,15,Closed,Email
+TKT-5134,CUS-52354372,Payment Failure,Low,2,Closed,Email
+TKT-4622,CUS-57749801,Subscription Problem,Low,10,Closed,Email
+TKT-1651,CUS-92898197,Login Issue,Medium,12,Pending,Email
+TKT-3796,CUS-96318842,Subscription Problem,Low,61,Closed,Web Portal
+TKT-8256,CUS-70585470,Subscription Problem,Low,62,Closed,Chat
+TKT-3730,CUS-62679877,Refund Request,High,38,Closed,Web Portal
+TKT-8127,CUS-39626564,Bug Report,Medium,46,Open,Chat
+TKT-5368,CUS-44555081,Subscription Problem,Medium,45,Closed,Chat
+TKT-1738,CUS-17080971,Payment Failure,Medium,2,Closed,Email
+TKT-5193,CUS-53980020,Login Issue,High,54,Closed,Chat
+TKT-8510,CUS-20360903,Bug Report,High,40,Closed,Chat
+TKT-8010,CUS-53500331,Login Issue,Low,50,Closed,Phone
+TKT-7401,CUS-64093654,Login Issue,High,44,Closed,Email
+TKT-1199,CUS-63321973,Subscription Problem,Low,5,Closed,Chat
+TKT-8829,CUS-32539175,Bug Report,Medium,29,Pending,Phone
+TKT-4791,CUS-69960397,Payment Failure,Low,36,Closed,Email
+TKT-1068,CUS-65024008,Payment Failure,Low,8,Closed,Phone
+TKT-6791,CUS-75144174,Login Issue,Low,17,Closed,Phone
+TKT-8553,CUS-10804874,Payment Failure,Low,42,Open,Email
+TKT-9889,CUS-15187165,Subscription Problem,High,3,Closed,Email
+TKT-1696,CUS-33648307,Subscription Problem,High,69,Closed,Phone
+TKT-7512,CUS-56668767,Bug Report,Low,8,Closed,Chat
+TKT-7380,CUS-97628138,Bug Report,High,51,Closed,Web Portal
+TKT-2903,CUS-99724266,Subscription Problem,Medium,12,Open,Chat
+TKT-9262,CUS-88541754,Refund Request,Low,10,Pending,Chat
+TKT-9219,CUS-93434861,Bug Report,High,58,Closed,Email
+TKT-3142,CUS-88121709,Subscription Problem,Low,23,Closed,Email
+TKT-4305,CUS-16636089,Login Issue,Critical,48,Closed,Phone
+TKT-9637,CUS-41388788,Login Issue,Low,63,Closed,Chat
+TKT-9530,CUS-51476165,Refund Request,Low,26,Closed,Chat
+TKT-6349,CUS-41730776,Subscription Problem,Low,15,Open,Chat
+TKT-8412,CUS-76301220,Bug Report,Low,65,Closed,Phone
+TKT-1376,CUS-78574348,Refund Request,Low,52,Open,Email
+TKT-5128,CUS-98130999,Subscription Problem,Low,52,Closed,Email
+TKT-7432,CUS-54247004,Payment Failure,Critical,65,Closed,Web Portal
+TKT-1565,CUS-54453305,Subscription Problem,Medium,22,Closed,Chat
+TKT-5577,CUS-68540001,Bug Report,Medium,72,Closed,Email
+TKT-2025,CUS-54748350,Bug Report,Medium,27,Closed,Email
+TKT-9518,CUS-79928641,Payment Failure,Critical,13,Closed,Email
+TKT-2263,CUS-71617324,Payment Failure,High,58,Closed,Chat
+TKT-6076,CUS-32210198,Bug Report,Medium,50,Open,Phone
+TKT-1941,CUS-30280966,Subscription Problem,Low,50,Closed,Phone
+TKT-1010,CUS-64646827,Subscription Problem,Low,13,Pending,Web Portal
+TKT-7226,CUS-58847877,Login Issue,Critical,41,Closed,Phone
+TKT-1106,CUS-44365988,Login Issue,High,59,Closed,Email
+TKT-1082,CUS-31817289,Login Issue,Low,59,Closed,Web Portal
+TKT-5648,CUS-19035254,Payment Failure,Low,41,Open,Chat
+TKT-9608,CUS-27295744,Login Issue,Medium,44,Closed,Web Portal
+TKT-4199,CUS-28571455,Subscription Problem,Low,18,Closed,Chat
+TKT-9954,CUS-52020124,Payment Failure,Low,4,Closed,Email
+TKT-6133,CUS-90035144,Login Issue,Medium,1,Closed,Chat
+TKT-1663,CUS-48447741,Refund Request,Low,15,Pending,Phone
+TKT-3310,CUS-58685571,Bug Report,Medium,21,Closed,Chat
+TKT-1794,CUS-33216871,Payment Failure,Medium,43,Closed,Chat
+TKT-6348,CUS-19053022,Login Issue,Low,21,Closed,Email
+TKT-3126,CUS-20565179,Login Issue,Low,17,Closed,Chat
+TKT-9313,CUS-54994532,Login Issue,Low,62,Closed,Email
+TKT-4510,CUS-80718107,Subscription Problem,Low,38,Closed,Web Portal
+TKT-8926,CUS-91110974,Feature Request,Medium,59,Closed,Email
+TKT-4389,CUS-15210308,Login Issue,High,4,Open,Web Portal
+TKT-4907,CUS-41063650,Login Issue,Low,54,Closed,Email
+TKT-8627,CUS-52461574,Payment Failure,Low,31,Closed,Phone
+TKT-7483,CUS-16954539,Payment Failure,High,42,Closed,Phone
+TKT-9991,CUS-49396790,Bug Report,High,72,Closed,Email
+TKT-8045,CUS-42240748,Login Issue,Medium,3,Closed,Chat
+TKT-4069,CUS-28078636,Refund Request,High,16,Pending,Email
+TKT-5832,CUS-32456967,Login Issue,Low,27,Pending,Email
+TKT-8206,CUS-69864302,Login Issue,Low,30,Closed,Email
+TKT-2821,CUS-98472893,Subscription Problem,Low,17,Closed,Chat
+TKT-7220,CUS-36008251,Payment Failure,Medium,24,Closed,Chat
+TKT-6716,CUS-33562478,Payment Failure,Low,66,Closed,Email
+TKT-1104,CUS-35475575,Bug Report,Low,24,Closed,Email
+TKT-7405,CUS-23160953,Payment Failure,Medium,36,Closed,Chat
+TKT-2390,CUS-88722825,Payment Failure,High,58,Open,Phone
+TKT-8335,CUS-84917577,Refund Request,Medium,10,Closed,Email
+TKT-2847,CUS-80838837,Payment Failure,Low,63,Closed,Phone
+TKT-1818,CUS-18036727,Bug Report,High,45,Closed,Email
+TKT-2921,CUS-65107091,Login Issue,Medium,25,Open,Chat
+TKT-7865,CUS-69488082,Bug Report,Low,38,Pending,Email
+TKT-3215,CUS-55415089,Payment Failure,Low,43,Closed,Email
+TKT-2814,CUS-61029693,Login Issue,Low,19,Closed,Email
+TKT-1613,CUS-29366955,Subscription Problem,High,62,Closed,Chat
+TKT-5367,CUS-19872435,Bug Report,Low,26,Pending,Email
+TKT-7244,CUS-99781272,Login Issue,High,30,Open,Phone
+TKT-7476,CUS-10679436,Login Issue,Critical,21,Closed,Email
+TKT-6390,CUS-26018733,Subscription Problem,Low,28,Closed,Email
+TKT-6414,CUS-85183381,Refund Request,Low,48,Closed,Email
+TKT-2982,CUS-63862849,Login Issue,Low,45,Closed,Chat
+TKT-3711,CUS-64574433,Bug Report,Low,43,Closed,Phone
+TKT-2844,CUS-63586607,Subscription Problem,Low,20,Pending,Chat
+TKT-2505,CUS-66446688,Login Issue,Critical,71,Closed,Web Portal
+TKT-1481,CUS-97429841,Bug Report,Medium,72,Closed,Email
+TKT-3113,CUS-33597457,Feature Request,Low,19,Closed,Phone
+TKT-4086,CUS-98164583,Login Issue,Medium,18,Closed,Email
+TKT-2175,CUS-25620969,Payment Failure,Medium,52,Closed,Email
+TKT-6331,CUS-62159130,Feature Request,Low,10,Closed,Chat
+TKT-8561,CUS-77257067,Subscription Problem,Medium,56,Closed,Web Portal
+TKT-3767,CUS-26619171,Login Issue,Medium,6,Open,Email
+TKT-1367,CUS-51069414,Login Issue,High,13,Closed,Email
+TKT-3890,CUS-41360696,Login Issue,Medium,34,Closed,Email
+TKT-2393,CUS-30558586,Payment Failure,Low,33,Open,Email
+TKT-2783,CUS-52006659,Bug Report,Medium,42,Closed,Phone
+TKT-9504,CUS-32944090,Subscription Problem,High,3,Closed,Phone
+TKT-5219,CUS-44213427,Payment Failure,Medium,41,Open,Email
+TKT-2155,CUS-76262325,Payment Failure,High,60,Closed,Email
+TKT-4718,CUS-57429949,Subscription Problem,Low,61,Closed,Chat
+TKT-8979,CUS-77527309,Subscription Problem,Medium,18,Closed,Chat
+TKT-2840,CUS-66635323,Bug Report,Low,71,Closed,Chat
+TKT-3688,CUS-11369777,Refund Request,High,1,Closed,Web Portal
+TKT-8983,CUS-18816695,Payment Failure,Low,44,Closed,Email
+TKT-3265,CUS-14910966,Payment Failure,Medium,29,Closed,Phone
+TKT-6161,CUS-13565374,Payment Failure,High,12,Closed,Chat
+TKT-1960,CUS-91835181,Login Issue,High,36,Closed,Chat
+TKT-4595,CUS-50084113,Payment Failure,Low,21,Closed,Chat
+TKT-7691,CUS-55338197,Bug Report,High,21,Closed,Email
+TKT-6647,CUS-79769923,Subscription Problem,Medium,40,Closed,Chat
+TKT-5595,CUS-42178499,Bug Report,Low,46,Closed,Chat
+TKT-8346,CUS-76779543,Login Issue,Medium,29,Open,Chat
+TKT-3980,CUS-82988568,Payment Failure,High,53,Closed,Phone
+TKT-7394,CUS-85151427,Bug Report,Low,40,Closed,Email
+TKT-1211,CUS-70366180,Subscription Problem,High,53,Closed,Chat
+TKT-2710,CUS-33073053,Subscription Problem,Medium,64,Closed,Chat
+TKT-6181,CUS-25340916,Feature Request,High,33,Closed,Email
+TKT-3469,CUS-86125217,Subscription Problem,Low,63,Closed,Phone
+TKT-5888,CUS-23102101,Subscription Problem,Low,62,Closed,Chat
+TKT-5949,CUS-36125639,Refund Request,Low,44,Pending,Phone
+TKT-4342,CUS-73866173,Subscription Problem,Low,54,Open,Email
+TKT-5013,CUS-28719683,Refund Request,Low,25,Pending,Email
+TKT-1265,CUS-68561315,Bug Report,Low,31,Closed,Chat
+TKT-3170,CUS-28977092,Feature Request,Critical,51,Closed,Chat
+TKT-5794,CUS-93669350,Subscription Problem,Low,63,Closed,Chat
+TKT-8628,CUS-29404524,Payment Failure,Medium,17,Open,Chat
+TKT-2760,CUS-94744935,Payment Failure,High,45,Open,Web Portal
+TKT-5025,CUS-33697996,Feature Request,Low,1,Closed,Web Portal
+TKT-9065,CUS-88723285,Refund Request,Medium,55,Pending,Phone
+TKT-8750,CUS-87405890,Bug Report,Low,10,Closed,Chat
+TKT-2174,CUS-68571076,Feature Request,Low,22,Open,Web Portal
+TKT-9084,CUS-64903503,Payment Failure,Critical,45,Closed,Email
+TKT-1302,CUS-17800794,Bug Report,Medium,39,Closed,Email
+TKT-7998,CUS-67548555,Feature Request,Low,28,Closed,Chat
+TKT-6865,CUS-68812029,Login Issue,High,70,Pending,Chat
+TKT-1080,CUS-88234650,Feature Request,Medium,63,Closed,Email
+TKT-9789,CUS-54930790,Refund Request,Medium,54,Closed,Chat
+TKT-9343,CUS-89089346,Bug Report,Low,40,Pending,Chat
+TKT-2693,CUS-82623646,Login Issue,Low,24,Closed,Phone
+TKT-7439,CUS-50312794,Payment Failure,Low,67,Pending,Email
+TKT-6665,CUS-78789899,Subscription Problem,Medium,43,Closed,Chat
+TKT-6901,CUS-20502459,Subscription Problem,Medium,6,Pending,Email
+TKT-9335,CUS-52003731,Payment Failure,Low,6,Closed,Phone
+TKT-4762,CUS-22430357,Subscription Problem,Medium,35,Closed,Email
+TKT-6361,CUS-36335708,Subscription Problem,High,36,Open,Phone
+TKT-2046,CUS-92792973,Subscription Problem,High,25,Closed,Email
+TKT-8307,CUS-87834355,Refund Request,High,5,Closed,Chat
+TKT-3366,CUS-48223721,Bug Report,Medium,11,Closed,Email
+TKT-7873,CUS-22980548,Payment Failure,Medium,42,Closed,Chat
+TKT-9916,CUS-28178095,Login Issue,Low,26,Closed,Chat
+TKT-3296,CUS-75286155,Bug Report,Low,33,Closed,Chat
+TKT-7835,CUS-71308733,Login Issue,Low,48,Open,Email
+TKT-4888,CUS-42840489,Refund Request,Medium,17,Closed,Chat
+TKT-1887,CUS-30320063,Payment Failure,Low,58,Closed,Email
+TKT-9386,CUS-11408782,Subscription Problem,Medium,52,Open,Email
+TKT-7874,CUS-71466278,Bug Report,Medium,53,Closed,Web Portal
+TKT-6382,CUS-56011188,Bug Report,Medium,41,Closed,Email
+TKT-1387,CUS-75618241,Feature Request,Low,24,Closed,Chat
+TKT-2002,CUS-46620333,Payment Failure,Low,66,Closed,Email
+TKT-2408,CUS-98268037,Refund Request,Critical,16,Closed,Email
+TKT-1617,CUS-31195554,Feature Request,Medium,53,Closed,Web Portal
+TKT-1460,CUS-19874323,Login Issue,Low,17,Closed,Web Portal
+TKT-3208,CUS-33783316,Subscription Problem,High,8,Closed,Chat
+TKT-9302,CUS-63110316,Login Issue,Low,14,Closed,Email
+TKT-4106,CUS-74416396,Login Issue,Low,16,Closed,Chat
+TKT-1166,CUS-70032045,Login Issue,Low,37,Closed,Phone
+TKT-9349,CUS-82613576,Feature Request,Low,28,Closed,Web Portal
+TKT-9030,CUS-10000106,Payment Failure,Medium,64,Closed,Chat
+TKT-5344,CUS-44572761,Refund Request,Medium,15,Closed,Email
+TKT-1857,CUS-97120711,Subscription Problem,Low,60,Closed,Web Portal
+TKT-6580,CUS-29572950,Login Issue,Low,58,Closed,Email
+TKT-7720,CUS-51475404,Bug Report,High,43,Closed,Phone
+TKT-2326,CUS-65936158,Subscription Problem,Low,48,Open,Email
+TKT-3306,CUS-28195001,Subscription Problem,Medium,4,Open,Chat
+TKT-5973,CUS-93129607,Login Issue,Critical,20,Open,Email
+TKT-5490,CUS-54762367,Bug Report,Medium,42,Open,Chat
+TKT-7309,CUS-97998012,Bug Report,Medium,40,Closed,Chat
+TKT-4357,CUS-28345030,Payment Failure,High,45,Closed,Email
+TKT-3303,CUS-51520967,Login Issue,Low,3,Closed,Chat
+TKT-1460,CUS-79882085,Bug Report,High,2,Closed,Phone
+TKT-1385,CUS-41616144,Bug Report,Low,16,Open,Chat
+TKT-5177,CUS-46887233,Payment Failure,Low,17,Closed,Chat
+TKT-8757,CUS-52022754,Subscription Problem,Low,65,Closed,Web Portal
+TKT-6601,CUS-92688632,Payment Failure,Low,30,Open,Phone
+TKT-7633,CUS-32020572,Subscription Problem,High,2,Open,Chat
+TKT-9932,CUS-30171088,Bug Report,Low,69,Closed,Phone
+TKT-8555,CUS-55459360,Payment Failure,High,19,Closed,Phone
+TKT-1386,CUS-19315372,Login Issue,Critical,2,Closed,Email
+TKT-7873,CUS-71274740,Refund Request,Low,26,Closed,Phone
+TKT-4353,CUS-61399272,Login Issue,Medium,7,Closed,Email
+TKT-4337,CUS-73659344,Login Issue,Medium,36,Pending,Phone
+TKT-2246,CUS-70643428,Refund Request,Critical,35,Closed,Chat
+TKT-6615,CUS-92341371,Payment Failure,Medium,63,Closed,Phone
+TKT-5144,CUS-23588091,Login Issue,High,61,Closed,Email
+TKT-6493,CUS-84819363,Refund Request,Medium,55,Closed,Email
+TKT-1347,CUS-47660416,Refund Request,High,18,Closed,Chat
+TKT-7206,CUS-66741036,Bug Report,Medium,45,Closed,Chat
+TKT-2050,CUS-97946431,Login Issue,Critical,7,Open,Chat
+TKT-5414,CUS-36354055,Subscription Problem,Critical,46,Closed,Phone
+TKT-2004,CUS-49057669,Bug Report,Low,36,Closed,Email
+TKT-2304,CUS-93875093,Bug Report,Medium,54,Closed,Chat
+TKT-6107,CUS-57891048,Bug Report,Medium,22,Pending,Chat
+TKT-9234,CUS-36687889,Subscription Problem,High,71,Open,Phone
+TKT-8327,CUS-54535051,Login Issue,Low,42,Closed,Chat
+TKT-9780,CUS-88763810,Refund Request,High,58,Pending,Web Portal
+TKT-3479,CUS-35626322,Bug Report,Low,14,Closed,Chat
+TKT-2016,CUS-21652756,Login Issue,Low,33,Closed,Web Portal
+TKT-2130,CUS-78465830,Subscription Problem,High,30,Closed,Chat
+TKT-6005,CUS-39222591,Login Issue,Medium,13,Closed,Phone
+TKT-5952,CUS-30452454,Bug Report,Low,24,Closed,Phone
+TKT-4017,CUS-84508971,Feature Request,Critical,46,Open,Email
+TKT-5551,CUS-92040779,Payment Failure,Medium,31,Closed,Web Portal
+TKT-6716,CUS-67556013,Payment Failure,Low,27,Closed,Email
+TKT-6612,CUS-82980826,Login Issue,Medium,47,Open,Web Portal
+TKT-9172,CUS-18393821,Refund Request,Medium,8,Closed,Email
+TKT-8390,CUS-36643830,Bug Report,Low,8,Closed,Web Portal
+TKT-7268,CUS-88078868,Login Issue,Low,12,Pending,Email
+TKT-8620,CUS-45503432,Subscription Problem,Low,55,Closed,Web Portal
+TKT-2699,CUS-47883507,Bug Report,Low,45,Closed,Email
+TKT-6199,CUS-18006426,Bug Report,Low,43,Pending,Web Portal
+TKT-7379,CUS-62299900,Payment Failure,Medium,10,Closed,Email
+TKT-6881,CUS-92002367,Payment Failure,Low,66,Closed,Chat
+TKT-2735,CUS-72715985,Bug Report,Low,3,Closed,Phone
+TKT-8697,CUS-85221058,Bug Report,Medium,72,Closed,Chat
+TKT-6235,CUS-89012748,Refund Request,Low,67,Closed,Phone
+TKT-1879,CUS-39779272,Bug Report,High,59,Open,Chat
+TKT-9919,CUS-42471719,Login Issue,Critical,38,Pending,Email
+TKT-8198,CUS-42576095,Bug Report,Medium,40,Open,Web Portal
+TKT-3702,CUS-69432769,Payment Failure,Low,26,Open,Web Portal
+TKT-1047,CUS-62252498,Refund Request,Low,61,Closed,Phone
+TKT-2816,CUS-50297329,Bug Report,Low,22,Closed,Email
+TKT-9283,CUS-87554110,Login Issue,High,32,Closed,Chat
+TKT-8280,CUS-60095200,Subscription Problem,Medium,24,Closed,Chat
+TKT-8551,CUS-87771883,Subscription Problem,Medium,55,Open,Web Portal
+TKT-8781,CUS-89692893,Login Issue,Medium,71,Closed,Chat
+TKT-8971,CUS-63395521,Bug Report,High,48,Closed,Chat
+TKT-4613,CUS-78611482,Payment Failure,Medium,70,Closed,Email
+TKT-2974,CUS-68991492,Payment Failure,High,4,Closed,Phone
+TKT-1068,CUS-24110490,Login Issue,Medium,14,Pending,Phone
+TKT-6757,CUS-54226589,Subscription Problem,Critical,25,Pending,Chat
+TKT-3215,CUS-13337750,Login Issue,High,65,Closed,Chat
+TKT-7293,CUS-21514567,Payment Failure,High,4,Open,Chat
+TKT-4236,CUS-31635996,Bug Report,Medium,66,Open,Email
+TKT-7932,CUS-56267470,Payment Failure,Medium,48,Open,Phone
+TKT-3451,CUS-50073646,Login Issue,Medium,8,Closed,Email
+TKT-1099,CUS-79408032,Login Issue,High,46,Closed,Chat
+TKT-8712,CUS-23553183,Login Issue,Medium,9,Open,Phone
+TKT-6073,CUS-55232775,Refund Request,High,61,Closed,Email
+TKT-4232,CUS-99111357,Payment Failure,Low,3,Closed,Chat
+TKT-5813,CUS-88374596,Payment Failure,Low,28,Open,Phone
+TKT-3457,CUS-45794923,Feature Request,Low,27,Open,Email
+TKT-5415,CUS-12816130,Login Issue,High,21,Open,Email
+TKT-2027,CUS-75702724,Payment Failure,High,18,Open,Web Portal
+TKT-3132,CUS-32502433,Subscription Problem,High,66,Closed,Email
+TKT-2397,CUS-91415581,Refund Request,Low,13,Closed,Chat
+TKT-2013,CUS-68238205,Payment Failure,Low,25,Open,Phone
+TKT-7614,CUS-24679917,Payment Failure,Medium,68,Open,Chat
+TKT-1399,CUS-11718897,Subscription Problem,Medium,66,Closed,Chat
+TKT-8868,CUS-30879002,Refund Request,Medium,69,Closed,Chat
+TKT-9686,CUS-56945829,Login Issue,Low,71,Open,Email
+TKT-7892,CUS-10827714,Subscription Problem,Medium,31,Closed,Chat
+TKT-9432,CUS-44640384,Subscription Problem,Low,34,Closed,Phone
+TKT-7935,CUS-59951131,Refund Request,Low,14,Pending,Email
+TKT-3703,CUS-89647184,Refund Request,Medium,60,Closed,Phone
+TKT-2328,CUS-43638846,Feature Request,High,9,Open,Email
+TKT-3577,CUS-83187536,Login Issue,Medium,24,Pending,Email
+TKT-1798,CUS-59649996,Feature Request,High,35,Closed,Chat
+TKT-7160,CUS-64048046,Bug Report,Medium,29,Open,Chat
+TKT-2147,CUS-70674823,Payment Failure,Medium,17,Closed,Chat
+TKT-4243,CUS-80764078,Payment Failure,High,51,Pending,Chat
+TKT-3916,CUS-74831357,Subscription Problem,Medium,70,Pending,Email
+TKT-2391,CUS-54488685,Feature Request,Medium,24,Closed,Chat
+TKT-7428,CUS-83479688,Bug Report,Medium,60,Closed,Chat
+TKT-5587,CUS-56281214,Payment Failure,Low,51,Open,Chat
+TKT-9073,CUS-51931845,Subscription Problem,Low,47,Pending,Email
+TKT-3626,CUS-84196926,Payment Failure,Critical,16,Closed,Chat
+TKT-6231,CUS-22572946,Refund Request,High,56,Closed,Phone
+TKT-7702,CUS-90837379,Login Issue,Medium,63,Pending,Chat
+TKT-6804,CUS-90984408,Subscription Problem,High,37,Closed,Email
+TKT-8522,CUS-55002806,Login Issue,Low,68,Closed,Email
+TKT-9908,CUS-47104067,Login Issue,Low,57,Closed,Chat
+TKT-4327,CUS-77420737,Feature Request,Low,65,Open,Email
+TKT-9572,CUS-81527636,Bug Report,High,58,Closed,Web Portal
+TKT-6803,CUS-44501545,Refund Request,Medium,63,Closed,Email
+TKT-3863,CUS-46608438,Bug Report,High,16,Closed,Email
+TKT-9461,CUS-14236609,Bug Report,Medium,3,Closed,Chat
+TKT-2114,CUS-77635348,Subscription Problem,Medium,11,Closed,Web Portal
+TKT-4158,CUS-13736102,Refund Request,Medium,20,Closed,Email
+TKT-5717,CUS-43082350,Subscription Problem,Low,15,Closed,Email
+TKT-7102,CUS-87985507,Login Issue,High,49,Open,Web Portal
+TKT-7004,CUS-50415914,Payment Failure,High,56,Closed,Email
+TKT-8004,CUS-28070317,Login Issue,Medium,25,Closed,Email
+TKT-7657,CUS-68229803,Bug Report,High,23,Closed,Phone
+TKT-9239,CUS-60407765,Login Issue,Medium,44,Closed,Web Portal
+TKT-5472,CUS-25887917,Login Issue,Low,43,Open,Web Portal
+TKT-7148,CUS-93526623,Subscription Problem,Low,4,Pending,Chat
+TKT-3256,CUS-64481744,Bug Report,Medium,48,Open,Chat
+TKT-1947,CUS-80703866,Payment Failure,Low,69,Closed,Phone
+TKT-3696,CUS-59185036,Refund Request,High,12,Closed,Chat
+TKT-4451,CUS-26686591,Subscription Problem,Medium,30,Closed,Phone
+TKT-2611,CUS-57870498,Login Issue,Medium,58,Pending,Email
+TKT-4305,CUS-61771803,Refund Request,Medium,11,Closed,Chat
+TKT-4320,CUS-75659034,Payment Failure,Medium,41,Closed,Phone
+TKT-2035,CUS-54624565,Login Issue,High,21,Closed,Chat
+TKT-8165,CUS-76697421,Refund Request,Low,69,Closed,Phone
+TKT-3842,CUS-68101504,Subscription Problem,Low,42,Closed,Email
+TKT-1148,CUS-19777550,Login Issue,Medium,30,Closed,Phone
+TKT-4786,CUS-47219294,Bug Report,Medium,7,Closed,Phone
+TKT-1146,CUS-92079851,Bug Report,High,40,Closed,Phone
+TKT-4798,CUS-87484097,Payment Failure,Low,4,Closed,Email
+TKT-1305,CUS-94143725,Login Issue,High,70,Closed,Chat
+TKT-5131,CUS-88203547,Bug Report,Low,71,Closed,Chat
+TKT-6533,CUS-62646038,Login Issue,Low,25,Open,Email
+TKT-7184,CUS-24480644,Subscription Problem,Medium,30,Closed,Email
+TKT-7345,CUS-23295134,Refund Request,Critical,47,Pending,Email
+TKT-1923,CUS-65195524,Bug Report,Medium,47,Closed,Chat
+TKT-1734,CUS-59738480,Login Issue,Low,38,Open,Phone
+TKT-6472,CUS-56933621,Login Issue,Low,21,Closed,Chat
+TKT-4433,CUS-16964874,Bug Report,Medium,4,Closed,Email
+TKT-5024,CUS-98924157,Login Issue,High,69,Closed,Chat
+TKT-1461,CUS-63267122,Login Issue,High,45,Closed,Email
+TKT-9267,CUS-25454211,Feature Request,High,15,Closed,Email
+TKT-7040,CUS-12215216,Login Issue,Low,35,Closed,Phone
+TKT-2163,CUS-81295420,Payment Failure,Low,56,Open,Chat
+TKT-4410,CUS-27100004,Subscription Problem,Low,46,Closed,Web Portal
+TKT-8827,CUS-17845110,Subscription Problem,Low,57,Open,Email
+TKT-7834,CUS-34846048,Subscription Problem,Low,23,Closed,Chat
+TKT-4715,CUS-49848974,Payment Failure,Medium,27,Closed,Chat
+TKT-6600,CUS-44384033,Payment Failure,High,60,Open,Email
+TKT-5668,CUS-56092973,Subscription Problem,High,19,Closed,Email
+TKT-7745,CUS-90524616,Payment Failure,High,11,Open,Email
+TKT-1300,CUS-87665612,Login Issue,Low,18,Pending,Chat
+TKT-7824,CUS-96455740,Bug Report,High,17,Closed,Web Portal
+TKT-3618,CUS-60258275,Login Issue,Low,19,Closed,Chat
+TKT-7380,CUS-39586113,Login Issue,Medium,24,Closed,Email
+TKT-5108,CUS-16637835,Subscription Problem,Medium,23,Closed,Email
+TKT-8827,CUS-49640745,Bug Report,High,19,Closed,Chat
+TKT-3299,CUS-46370038,Login Issue,Medium,22,Closed,Phone
+TKT-8583,CUS-52343698,Bug Report,Low,71,Closed,Email
+TKT-1146,CUS-49465944,Login Issue,Critical,19,Closed,Email
+TKT-9468,CUS-76845921,Subscription Problem,Low,33,Closed,Email
+TKT-2052,CUS-17094206,Feature Request,Low,64,Closed,Email
+TKT-1208,CUS-66997294,Subscription Problem,Low,42,Closed,Chat
+TKT-3039,CUS-44714881,Bug Report,Medium,51,Open,Email
+TKT-2893,CUS-37765535,Bug Report,Low,58,Closed,Email
+TKT-8665,CUS-56139662,Subscription Problem,Medium,4,Closed,Email
+TKT-9453,CUS-99324793,Feature Request,Low,29,Closed,Email
+TKT-7128,CUS-76664757,Bug Report,Medium,24,Closed,Phone
+TKT-1040,CUS-24882168,Payment Failure,High,40,Closed,Email
+TKT-8646,CUS-45245503,Login Issue,Low,17,Closed,Email
+TKT-8691,CUS-72793438,Bug Report,Low,24,Closed,Phone
+TKT-7887,CUS-95717714,Subscription Problem,Low,66,Closed,Chat
+TKT-7285,CUS-72117792,Login Issue,Low,26,Closed,Phone
+TKT-4341,CUS-16169393,Subscription Problem,Low,37,Closed,Email
+TKT-1880,CUS-21115670,Payment Failure,High,38,Closed,Email
+TKT-5988,CUS-17245986,Subscription Problem,High,26,Closed,Email
+TKT-3623,CUS-11356216,Login Issue,High,38,Open,Email
+TKT-6825,CUS-19158700,Subscription Problem,Low,31,Closed,Chat
+TKT-9031,CUS-30494544,Payment Failure,Medium,22,Open,Phone
+TKT-3712,CUS-65818068,Subscription Problem,Low,56,Closed,Chat
+TKT-1738,CUS-51291079,Login Issue,Low,49,Closed,Chat
+TKT-1375,CUS-92261836,Login Issue,Medium,9,Closed,Chat
+TKT-2763,CUS-76298543,Login Issue,Low,58,Pending,Phone
+TKT-4350,CUS-89539069,Login Issue,Medium,14,Closed,Email
+TKT-2863,CUS-46565077,Login Issue,Medium,45,Open,Email
+TKT-3809,CUS-31738231,Payment Failure,Low,48,Closed,Email
+TKT-7427,CUS-32311257,Refund Request,Medium,53,Closed,Email
+TKT-9480,CUS-65977135,Subscription Problem,Low,54,Closed,Chat
+TKT-8450,CUS-95753788,Login Issue,Critical,24,Closed,Phone
+TKT-6601,CUS-38680793,Subscription Problem,Medium,47,Pending,Chat
+TKT-5234,CUS-24472675,Subscription Problem,Low,64,Closed,Email
+TKT-5075,CUS-54198652,Login Issue,High,39,Open,Phone
+TKT-9762,CUS-70973237,Login Issue,Low,54,Closed,Email
+TKT-5934,CUS-37361272,Bug Report,Critical,41,Closed,Email
+TKT-8557,CUS-30569572,Login Issue,Medium,69,Pending,Web Portal
+TKT-7416,CUS-38624098,Login Issue,Low,70,Closed,Phone
+TKT-2746,CUS-77011308,Subscription Problem,Low,10,Closed,Email
+TKT-5820,CUS-50461038,Subscription Problem,Low,39,Closed,Email
+TKT-4839,CUS-89995144,Payment Failure,Medium,50,Closed,Web Portal
+TKT-5223,CUS-23295134,Login Issue,Medium,71,Closed,Web Portal
+TKT-1583,CUS-16964874,Bug Report,High,54,Closed,Email
+TKT-1501,CUS-63267122,Bug Report,Low,49,Closed,Phone
+TKT-9023,CUS-87665612,Bug Report,Low,28,Closed,Chat
+TKT-4775,CUS-60258275,Login Issue,Low,8,Closed,Chat
+TKT-1257,CUS-52343698,Login Issue,Medium,65,Open,Chat
+TKT-5551,CUS-49465944,Bug Report,Low,56,Closed,Email
+TKT-6338,CUS-44714881,Bug Report,Medium,64,Closed,Chat
+TKT-3842,CUS-37765535,Login Issue,High,17,Closed,Chat
+TKT-5156,CUS-72793438,Bug Report,Low,46,Closed,Chat
+TKT-6061,CUS-75208700,Login Issue,Medium,33,Closed,Phone
+TKT-4194,CUS-45450561,Feature Request,Low,13,Closed,Chat
+TKT-1920,CUS-71359310,Login Issue,High,37,Closed,Web Portal
+TKT-8470,CUS-28531900,Subscription Problem,High,57,Closed,Email
+TKT-6488,CUS-88255212,Subscription Problem,Low,39,Closed,Chat
+TKT-6923,CUS-28486248,Bug Report,Critical,63,Closed,Web Portal
+TKT-3919,CUS-85695461,Login Issue,Low,1,Open,Email
+TKT-9098,CUS-34898254,Bug Report,Medium,71,Closed,Email
+TKT-9481,CUS-12326566,Bug Report,Low,63,Open,Email
+TKT-8635,CUS-33027551,Refund Request,Medium,23,Closed,Email
+TKT-9781,CUS-52719422,Login Issue,High,36,Closed,Web Portal
+TKT-4975,CUS-90188546,Bug Report,Low,9,Closed,Chat
+TKT-6248,CUS-13318808,Bug Report,Low,47,Closed,Chat
+TKT-4699,CUS-25228746,Bug Report,High,60,Closed,Chat
+TKT-9892,CUS-71502697,Subscription Problem,Medium,68,Closed,Phone
+TKT-3664,CUS-35148110,Payment Failure,Low,71,Closed,Web Portal
+TKT-4647,CUS-77919866,Login Issue,Medium,19,Closed,Email
+TKT-5092,CUS-89211152,Bug Report,Medium,61,Open,Email
+TKT-2599,CUS-88983752,Subscription Problem,Medium,26,Closed,Chat
+TKT-6928,CUS-59526807,Login Issue,Medium,72,Pending,Chat
+TKT-2013,CUS-68027288,Login Issue,Critical,37,Open,Web Portal
+TKT-2986,CUS-63367179,Payment Failure,Low,12,Open,Chat
+TKT-9169,CUS-20910454,Login Issue,Low,17,Pending,Chat
+TKT-7721,CUS-18775630,Payment Failure,Medium,13,Closed,Email
+TKT-2298,CUS-92348270,Login Issue,Low,31,Closed,Phone
+TKT-9137,CUS-27072644,Payment Failure,Low,32,Closed,Email
+TKT-8069,CUS-55689911,Payment Failure,Medium,30,Closed,Chat
+TKT-8036,CUS-28962379,Login Issue,Low,34,Closed,Web Portal
+TKT-8550,CUS-12573077,Login Issue,Medium,56,Closed,Chat
+TKT-9651,CUS-52434850,Login Issue,Low,25,Closed,Web Portal
+TKT-6610,CUS-35378292,Subscription Problem,Low,51,Pending,Email
+TKT-9121,CUS-45422397,Subscription Problem,Low,62,Closed,Email
+TKT-4234,CUS-64778777,Login Issue,Low,2,Closed,Chat
+TKT-1149,CUS-64721385,Bug Report,Medium,4,Closed,Chat
+TKT-3648,CUS-35704792,Subscription Problem,Low,48,Closed,Chat
+TKT-6071,CUS-37780663,Payment Failure,Low,53,Closed,Email
+TKT-3221,CUS-49724775,Bug Report,Low,66,Closed,Chat
+TKT-7793,CUS-66114757,Login Issue,Low,26,Open,Email
+TKT-7662,CUS-45440177,Payment Failure,Medium,3,Closed,Chat
+TKT-9983,CUS-47683384,Subscription Problem,Critical,20,Pending,Email
+TKT-7261,CUS-66345240,Login Issue,Medium,49,Closed,Email
+TKT-7590,CUS-38720610,Payment Failure,Low,5,Closed,Chat
+TKT-1657,CUS-66974578,Subscription Problem,High,9,Closed,Email
+TKT-8863,CUS-70610618,Subscription Problem,Medium,71,Closed,Email
+TKT-6712,CUS-67203656,Bug Report,Medium,8,Closed,Web Portal
+TKT-7241,CUS-61590091,Bug Report,Medium,33,Closed,Phone
+TKT-7696,CUS-23557224,Feature Request,Critical,29,Closed,Email
+TKT-9161,CUS-44256243,Bug Report,Medium,37,Closed,Web Portal
+TKT-6521,CUS-91308659,Bug Report,Low,47,Pending,Chat
+TKT-4669,CUS-95320709,Login Issue,Low,68,Closed,Email
+TKT-8542,CUS-78469566,Login Issue,High,32,Open,Chat
+TKT-4436,CUS-66189604,Payment Failure,High,57,Open,Phone
+TKT-6788,CUS-20721276,Login Issue,Low,31,Closed,Email
+TKT-7533,CUS-73537297,Subscription Problem,Low,38,Open,Phone
+TKT-7065,CUS-97188402,Login Issue,Medium,21,Closed,Chat
+TKT-7813,CUS-81568421,Login Issue,Medium,32,Closed,Web Portal
+TKT-3480,CUS-68207637,Refund Request,Critical,60,Closed,Web Portal
+TKT-5655,CUS-10491121,Bug Report,Medium,44,Pending,Phone
+TKT-3504,CUS-53087546,Feature Request,Medium,8,Closed,Email
+TKT-7099,CUS-48253431,Subscription Problem,Low,71,Closed,Email
+TKT-4544,CUS-42795826,Login Issue,High,62,Closed,Chat
+TKT-7238,CUS-54298711,Login Issue,Low,36,Closed,Email
+TKT-4484,CUS-62139391,Bug Report,Critical,45,Closed,Email
+TKT-1005,CUS-86900623,Subscription Problem,High,64,Open,Email
+TKT-8688,CUS-59513689,Payment Failure,Low,49,Closed,Email
+TKT-9070,CUS-40606059,Payment Failure,Low,54,Closed,Chat
+TKT-6403,CUS-22791715,Subscription Problem,Medium,17,Closed,Phone
+TKT-9286,CUS-15320475,Login Issue,Low,30,Closed,Web Portal
+TKT-5448,CUS-41823349,Subscription Problem,Medium,24,Closed,Email
+TKT-6390,CUS-61881939,Refund Request,Medium,40,Closed,Chat
+TKT-9915,CUS-90369259,Login Issue,Low,44,Closed,Email
+TKT-7179,CUS-45519449,Subscription Problem,Medium,33,Open,Chat
+TKT-2267,CUS-44674693,Login Issue,High,34,Closed,Email
+TKT-8841,CUS-85766142,Login Issue,High,12,Closed,Email
+TKT-6464,CUS-35486815,Login Issue,Medium,9,Pending,Phone
+TKT-3988,CUS-27686987,Bug Report,Low,61,Closed,Chat
+TKT-4736,CUS-73460162,Refund Request,High,52,Closed,Phone
+TKT-2763,CUS-58563143,Subscription Problem,Low,63,Closed,Phone
+TKT-5292,CUS-18800277,Login Issue,Medium,59,Pending,Email
+TKT-5780,CUS-11752307,Subscription Problem,Low,28,Closed,Chat
+TKT-1937,CUS-87987499,Payment Failure,Medium,30,Closed,Email
+TKT-5520,CUS-67796085,Refund Request,High,54,Closed,Chat
+TKT-5728,CUS-77491321,Payment Failure,Low,29,Open,Email
+TKT-2178,CUS-23664882,Subscription Problem,Medium,15,Closed,Email
+TKT-7266,CUS-65611282,Bug Report,Low,31,Closed,Email
+TKT-1825,CUS-42138323,Login Issue,Medium,22,Open,Chat
+TKT-6337,CUS-98946313,Bug Report,Low,22,Closed,Chat
+TKT-8484,CUS-86166761,Payment Failure,Low,63,Pending,Phone
+TKT-6057,CUS-53773666,Payment Failure,Low,30,Pending,Chat
+TKT-4935,CUS-99382379,Login Issue,Medium,26,Pending,Email
+TKT-1053,CUS-62815527,Payment Failure,High,19,Open,Email
+TKT-2814,CUS-31917984,Payment Failure,Medium,12,Closed,Chat
+TKT-6012,CUS-22469442,Bug Report,High,72,Closed,Web Portal
+TKT-6960,CUS-15792991,Payment Failure,Critical,72,Closed,Phone
+TKT-5656,CUS-98748192,Payment Failure,Medium,68,Closed,Email
+TKT-1062,CUS-26087042,Bug Report,Low,1,Open,Phone
+TKT-5120,CUS-63710232,Refund Request,Medium,11,Open,Email
+TKT-3736,CUS-39396611,Login Issue,Low,50,Closed,Chat
+TKT-3707,CUS-49846364,Bug Report,Medium,42,Open,Email
+TKT-3017,CUS-10723539,Login Issue,Low,31,Closed,Chat
+TKT-6487,CUS-97246398,Payment Failure,High,47,Closed,Chat
+TKT-8331,CUS-30836182,Login Issue,Low,60,Open,Web Portal
+TKT-6289,CUS-27275546,Subscription Problem,Medium,14,Closed,Email
+TKT-4049,CUS-70900695,Refund Request,Low,60,Open,Chat
+TKT-6020,CUS-37801665,Subscription Problem,High,54,Closed,Chat
+TKT-3363,CUS-36724497,Subscription Problem,High,63,Closed,Phone
+TKT-9905,CUS-29920727,Bug Report,Medium,71,Open,Email
+TKT-1703,CUS-86841767,Subscription Problem,Low,60,Closed,Chat
+TKT-4227,CUS-21074671,Refund Request,Low,11,Closed,Email
+TKT-7813,CUS-59857041,Refund Request,Medium,46,Closed,Chat
+TKT-3678,CUS-39396384,Login Issue,Low,51,Open,Chat
+TKT-3487,CUS-74206709,Bug Report,Critical,45,Closed,Phone
+TKT-6842,CUS-94294562,Bug Report,Medium,23,Pending,Email
+TKT-2383,CUS-49478643,Login Issue,Low,30,Closed,Email
+TKT-5947,CUS-93597522,Login Issue,Low,37,Closed,Email
+TKT-8185,CUS-51753214,Payment Failure,Medium,29,Closed,Chat
+TKT-7120,CUS-36369374,Subscription Problem,Medium,18,Closed,Email
+TKT-5815,CUS-33648408,Login Issue,High,36,Closed,Chat
+TKT-3307,CUS-54753037,Subscription Problem,Medium,17,Open,Phone
+TKT-2678,CUS-43405485,Login Issue,Low,18,Open,Phone
+TKT-9610,CUS-59166961,Refund Request,Medium,64,Pending,Email
+TKT-1027,CUS-39989837,Payment Failure,Low,68,Closed,Chat
+TKT-1412,CUS-98320108,Feature Request,Low,25,Open,Chat
+TKT-6821,CUS-58026125,Bug Report,Medium,10,Closed,Chat
+TKT-6339,CUS-46953166,Login Issue,Medium,58,Closed,Email
+TKT-1324,CUS-72863327,Login Issue,Medium,15,Closed,Phone
+TKT-4808,CUS-89901248,Login Issue,Low,44,Closed,Web Portal
+TKT-1694,CUS-40560777,Login Issue,Low,5,Closed,Email
+TKT-6490,CUS-43133874,Payment Failure,High,6,Closed,Chat
+TKT-8626,CUS-43384420,Bug Report,High,46,Closed,Email
+TKT-7116,CUS-42096902,Subscription Problem,Low,17,Closed,Chat
+TKT-4366,CUS-65711866,Bug Report,High,63,Closed,Email
+TKT-9163,CUS-35685544,Bug Report,Medium,19,Closed,Email
+TKT-6925,CUS-52425409,Bug Report,Low,59,Closed,Web Portal
+TKT-5285,CUS-49906873,Login Issue,Medium,17,Pending,Email
+TKT-4918,CUS-24061108,Subscription Problem,Critical,13,Closed,Email
+TKT-2324,CUS-77301284,Bug Report,Critical,15,Pending,Chat
+TKT-3053,CUS-47252577,Login Issue,Low,24,Closed,Chat
+TKT-5261,CUS-69387339,Payment Failure,Low,36,Closed,Email
+TKT-2312,CUS-51066010,Refund Request,Medium,68,Closed,Web Portal
+TKT-2888,CUS-89201209,Subscription Problem,Medium,67,Closed,Email
+TKT-3676,CUS-38742387,Payment Failure,Low,52,Open,Chat
+TKT-5387,CUS-36876130,Login Issue,Low,5,Open,Chat
+TKT-8237,CUS-88753449,Refund Request,Medium,33,Closed,Email
+TKT-4643,CUS-92950080,Payment Failure,Medium,41,Closed,Email
+TKT-7889,CUS-12183450,Bug Report,Low,36,Closed,Chat
+TKT-1014,CUS-61074995,Bug Report,Low,35,Open,Chat
+TKT-1278,CUS-49242480,Refund Request,Critical,43,Closed,Email
+TKT-6921,CUS-31707470,Login Issue,Low,60,Closed,Web Portal
+TKT-8441,CUS-69550527,Subscription Problem,Low,39,Closed,Email
+TKT-5490,CUS-17655126,Payment Failure,High,12,Closed,Chat
+TKT-2644,CUS-53169975,Feature Request,Low,41,Pending,Phone
+TKT-8872,CUS-38685083,Refund Request,Low,9,Closed,Web Portal
+TKT-1369,CUS-20484832,Payment Failure,Low,44,Closed,Web Portal
+TKT-4628,CUS-76687756,Login Issue,Medium,22,Pending,Web Portal
+TKT-2727,CUS-81635948,Login Issue,Medium,29,Closed,Email
+TKT-2615,CUS-88197262,Login Issue,Medium,18,Open,Chat
+TKT-3483,CUS-29073335,Payment Failure,Medium,17,Closed,Chat
+TKT-2167,CUS-69227216,Feature Request,Low,4,Closed,Email
+TKT-2817,CUS-13441296,Bug Report,Critical,47,Closed,Phone
+TKT-3385,CUS-69485113,Payment Failure,Medium,35,Closed,Chat
+TKT-7494,CUS-37859804,Subscription Problem,Medium,22,Pending,Email
+TKT-7678,CUS-55475677,Bug Report,Medium,57,Open,Web Portal
+TKT-9069,CUS-18714283,Login Issue,High,22,Closed,Email
+TKT-4776,CUS-61357848,Login Issue,Low,41,Closed,Web Portal
+TKT-6221,CUS-16524162,Subscription Problem,Low,58,Closed,Email
+TKT-1891,CUS-87340668,Feature Request,Low,18,Closed,Phone
+TKT-8122,CUS-69379668,Login Issue,Low,31,Closed,Email
+TKT-7882,CUS-57605458,Payment Failure,Medium,33,Closed,Phone
+TKT-7867,CUS-20057159,Login Issue,Medium,22,Open,Email
+TKT-3964,CUS-39815468,Refund Request,Medium,22,Closed,Chat
+TKT-2804,CUS-95981825,Bug Report,Medium,52,Open,Email
+TKT-1401,CUS-85654324,Bug Report,Low,51,Closed,Chat
+TKT-4539,CUS-48569568,Payment Failure,Low,40,Closed,Chat
+TKT-6212,CUS-29041458,Feature Request,High,27,Closed,Chat
+TKT-6149,CUS-94097452,Bug Report,Low,31,Closed,Chat
+TKT-4556,CUS-84108652,Bug Report,Low,10,Open,Phone
+TKT-1286,CUS-76621781,Refund Request,Critical,11,Pending,Chat
+TKT-5777,CUS-32696078,Bug Report,Medium,51,Open,Chat
+TKT-5657,CUS-94041269,Login Issue,Low,53,Pending,Chat
+TKT-5968,CUS-49702737,Login Issue,Low,63,Closed,Email
+TKT-7319,CUS-75759625,Subscription Problem,Medium,46,Closed,Phone
+TKT-5244,CUS-94099353,Subscription Problem,Medium,30,Closed,Phone
+TKT-3334,CUS-34500349,Payment Failure,High,6,Closed,Chat
+TKT-8226,CUS-88995155,Refund Request,Low,8,Closed,Email
+TKT-5033,CUS-77899710,Subscription Problem,Low,12,Open,Email
+TKT-2284,CUS-19039900,Subscription Problem,Medium,46,Open,Chat
+TKT-4269,CUS-25946621,Login Issue,Medium,24,Closed,Chat
+TKT-8259,CUS-17931669,Subscription Problem,Low,69,Closed,Email
+TKT-2993,CUS-32742032,Payment Failure,Low,55,Pending,Chat
+TKT-9808,CUS-26417156,Payment Failure,Medium,32,Closed,Phone
+TKT-6596,CUS-68467545,Login Issue,High,20,Open,Email
+TKT-7892,CUS-88051091,Login Issue,Medium,47,Closed,Email
+TKT-5181,CUS-86226652,Payment Failure,Low,29,Closed,Phone
+TKT-2620,CUS-55993450,Subscription Problem,Low,71,Closed,Phone
+TKT-8303,CUS-31203516,Login Issue,Medium,26,Closed,Email
+TKT-9325,CUS-19680477,Bug Report,High,11,Open,Chat
+TKT-2305,CUS-70492528,Bug Report,Medium,58,Closed,Web Portal
+TKT-2554,CUS-29867378,Refund Request,Medium,14,Closed,Chat
+TKT-9040,CUS-63173232,Payment Failure,High,18,Closed,Chat
+TKT-7002,CUS-39784206,Login Issue,Medium,66,Closed,Chat
+TKT-3835,CUS-76788154,Login Issue,Low,53,Closed,Phone
+TKT-2205,CUS-42233997,Payment Failure,Critical,9,Closed,Chat
+TKT-8236,CUS-60190281,Subscription Problem,Low,5,Closed,Chat
+TKT-2854,CUS-15317641,Login Issue,Medium,7,Closed,Email
+TKT-8414,CUS-82072645,Subscription Problem,Medium,44,Open,Phone
+TKT-2729,CUS-78352651,Subscription Problem,High,1,Closed,Chat
+TKT-7529,CUS-19777290,Subscription Problem,Medium,22,Closed,Email
+TKT-7546,CUS-16671323,Payment Failure,Critical,72,Closed,Email
+TKT-7367,CUS-88511317,Bug Report,Low,38,Closed,Chat
+TKT-2090,CUS-53304022,Refund Request,Low,57,Closed,Email
+TKT-8972,CUS-66733787,Payment Failure,Medium,67,Closed,Phone
+TKT-7852,CUS-50791044,Feature Request,Low,34,Closed,Email
+TKT-6090,CUS-72320352,Payment Failure,Low,5,Closed,Email
+TKT-1397,CUS-30323775,Login Issue,Critical,61,Closed,Email
+TKT-5553,CUS-39209130,Bug Report,Low,18,Closed,Web Portal
+TKT-6941,CUS-39945409,Subscription Problem,Medium,54,Open,Email
+TKT-5360,CUS-60210774,Login Issue,Medium,43,Closed,Chat
+TKT-9834,CUS-96001456,Bug Report,High,68,Closed,Phone
+TKT-5328,CUS-47046319,Payment Failure,Low,51,Closed,Chat
+TKT-2129,CUS-10229689,Subscription Problem,Low,3,Closed,Phone
+TKT-9258,CUS-96671139,Subscription Problem,High,66,Pending,Chat
+TKT-9354,CUS-15739708,Login Issue,High,70,Open,Phone
+TKT-5408,CUS-78899407,Bug Report,High,48,Closed,Chat
+TKT-2948,CUS-24553464,Refund Request,High,67,Open,Web Portal
+TKT-5351,CUS-25128309,Payment Failure,Critical,37,Open,Phone
+TKT-1293,CUS-37915514,Subscription Problem,Medium,54,Closed,Chat
+TKT-6047,CUS-24810285,Subscription Problem,Medium,16,Closed,Chat
+TKT-7085,CUS-56691474,Bug Report,High,9,Closed,Email
+TKT-6674,CUS-72568927,Subscription Problem,Low,20,Closed,Email
+TKT-4200,CUS-46586343,Subscription Problem,Low,15,Closed,Email
+TKT-7838,CUS-89510267,Login Issue,Low,34,Closed,Phone
+TKT-2644,CUS-54896719,Login Issue,Low,33,Closed,Email
+TKT-2146,CUS-12843088,Bug Report,Medium,68,Closed,Phone
+TKT-8511,CUS-64309853,Bug Report,Critical,4,Pending,Chat
+TKT-9885,CUS-17357715,Login Issue,High,53,Closed,Chat
+TKT-2257,CUS-24017737,Subscription Problem,Low,72,Open,Phone
+TKT-2150,CUS-37588825,Bug Report,Medium,5,Closed,Web Portal
+TKT-7840,CUS-91717696,Login Issue,Low,6,Closed,Email
+TKT-8867,CUS-38765460,Refund Request,High,17,Pending,Chat
+TKT-6297,CUS-19710082,Login Issue,Low,28,Pending,Chat
+TKT-8900,CUS-45746071,Refund Request,Low,64,Open,Chat
+TKT-1968,CUS-27018259,Login Issue,Medium,29,Closed,Phone
+TKT-2664,CUS-36373269,Bug Report,Medium,35,Closed,Email
+TKT-9078,CUS-82562909,Login Issue,Low,27,Open,Phone
+TKT-2225,CUS-46937897,Bug Report,Medium,40,Closed,Phone
+TKT-9309,CUS-33248358,Payment Failure,High,62,Closed,Email
+TKT-4542,CUS-67642868,Login Issue,Medium,52,Closed,Chat
+TKT-7192,CUS-64727001,Bug Report,Medium,34,Pending,Web Portal
+TKT-2412,CUS-90916154,Payment Failure,Medium,8,Pending,Email
+TKT-8308,CUS-61956845,Bug Report,Low,38,Closed,Email
+TKT-5231,CUS-20865383,Subscription Problem,Medium,52,Closed,Email
+TKT-2047,CUS-79853989,Payment Failure,High,55,Closed,Chat
+TKT-7466,CUS-46360919,Bug Report,Medium,14,Closed,Email
+TKT-6435,CUS-66242991,Login Issue,Low,72,Closed,Chat
+TKT-9167,CUS-89968930,Subscription Problem,Low,2,Open,Phone
+TKT-5742,CUS-16650715,Subscription Problem,Low,30,Closed,Web Portal
+TKT-3571,CUS-11072682,Payment Failure,Medium,64,Closed,Phone
+TKT-1128,CUS-72775910,Login Issue,Medium,3,Closed,Chat
+TKT-8646,CUS-19357567,Login Issue,Medium,71,Closed,Chat
+TKT-1460,CUS-83192057,Payment Failure,High,7,Closed,Email
+TKT-7467,CUS-17200634,Login Issue,Low,5,Closed,Phone
+TKT-1695,CUS-22435739,Login Issue,Low,1,Open,Email
+TKT-9695,CUS-10869024,Refund Request,Medium,4,Closed,Email
+TKT-1705,CUS-25748991,Payment Failure,Low,38,Closed,Email
+TKT-4454,CUS-50052860,Subscription Problem,Low,28,Closed,Email
+TKT-3205,CUS-75817615,Login Issue,Low,35,Closed,Email
+TKT-6727,CUS-70161221,Refund Request,Medium,25,Pending,Email
+TKT-9930,CUS-60807741,Subscription Problem,Critical,35,Closed,Chat
+TKT-7261,CUS-21751606,Bug Report,Low,20,Closed,Email
+TKT-4862,CUS-12090148,Subscription Problem,Medium,58,Closed,Email
+TKT-2039,CUS-85285388,Bug Report,Medium,20,Closed,Phone
+TKT-4995,CUS-11474866,Subscription Problem,Medium,28,Open,Web Portal
+TKT-5364,CUS-92295972,Payment Failure,Low,29,Closed,Email
+TKT-4963,CUS-14400200,Login Issue,Low,41,Closed,Email
+TKT-2963,CUS-70515317,Login Issue,Low,20,Open,Email
+TKT-9001,CUS-32253727,Refund Request,Critical,42,Closed,Chat
+TKT-7065,CUS-42857767,Payment Failure,Low,45,Closed,Email
+TKT-7255,CUS-60832931,Login Issue,Critical,21,Closed,Chat
+TKT-8351,CUS-24032223,Bug Report,High,47,Closed,Email
+TKT-4597,CUS-41543046,Bug Report,Medium,25,Closed,Phone
+TKT-7837,CUS-98039798,Subscription Problem,Medium,62,Closed,Email
+TKT-6154,CUS-10885125,Bug Report,Low,20,Pending,Web Portal
+TKT-8133,CUS-10702895,Payment Failure,Low,42,Closed,Email
+TKT-1665,CUS-57693187,Refund Request,Medium,3,Closed,Phone
+TKT-3894,CUS-81878948,Feature Request,Low,57,Closed,Email
+TKT-9726,CUS-52136908,Payment Failure,Medium,47,Closed,Chat
+TKT-8539,CUS-16654423,Bug Report,Medium,26,Open,Chat
+TKT-7903,CUS-15337364,Subscription Problem,Medium,21,Closed,Email
+TKT-9917,CUS-93688277,Payment Failure,Low,2,Closed,Phone
+TKT-2041,CUS-51895365,Login Issue,Medium,31,Closed,Email
+TKT-1046,CUS-71504880,Subscription Problem,Critical,52,Closed,Email
+TKT-8196,CUS-76249534,Feature Request,Low,68,Closed,Email
+TKT-9018,CUS-65553808,Subscription Problem,Medium,58,Open,Chat
+TKT-6236,CUS-99812057,Bug Report,High,50,Closed,Email
+TKT-9847,CUS-40423368,Login Issue,Low,64,Closed,Email
+TKT-5345,CUS-17730460,Payment Failure,Critical,58,Closed,Email
+TKT-5015,CUS-69655330,Subscription Problem,Medium,37,Pending,Chat
+TKT-6188,CUS-39487056,Feature Request,High,49,Closed,Phone
+TKT-8629,CUS-54743906,Refund Request,Medium,4,Closed,Chat
+TKT-7221,CUS-46594947,Subscription Problem,High,45,Closed,Chat
+TKT-5245,CUS-82387744,Subscription Problem,Medium,12,Open,Chat
+TKT-9695,CUS-51180725,Login Issue,Medium,9,Closed,Email
+TKT-4109,CUS-45691345,Refund Request,High,55,Closed,Email
+TKT-8734,CUS-42443936,Payment Failure,Medium,52,Open,Email
+TKT-3804,CUS-25541640,Payment Failure,High,61,Closed,Email
+TKT-2520,CUS-46186912,Subscription Problem,Low,50,Closed,Email
+TKT-9015,CUS-31119634,Refund Request,Medium,32,Closed,Web Portal
+TKT-5743,CUS-71042721,Payment Failure,Critical,17,Closed,Email
+TKT-9212,CUS-62326960,Subscription Problem,High,66,Open,Phone
+TKT-5901,CUS-99606495,Login Issue,Medium,19,Closed,Phone
+TKT-6672,CUS-26582522,Login Issue,Medium,55,Open,Chat
+TKT-1233,CUS-88428165,Subscription Problem,High,43,Closed,Chat
+TKT-8292,CUS-32816820,Login Issue,High,44,Closed,Chat
+TKT-2743,CUS-72563046,Feature Request,Low,70,Closed,Email
+TKT-1482,CUS-90605745,Refund Request,Low,48,Closed,Email
+TKT-9111,CUS-16176480,Subscription Problem,Low,9,Open,Email
+TKT-8166,CUS-65645418,Bug Report,Low,23,Closed,Email
+TKT-1422,CUS-36024897,Login Issue,Medium,45,Open,Chat
+TKT-4165,CUS-77809350,Feature Request,Low,6,Pending,Chat
+TKT-2264,CUS-33936970,Bug Report,Low,4,Closed,Email
+TKT-4026,CUS-74338478,Refund Request,High,25,Closed,Web Portal
+TKT-9226,CUS-19432351,Payment Failure,Low,61,Closed,Chat
+TKT-6261,CUS-49611265,Login Issue,Medium,69,Pending,Email
+TKT-1903,CUS-69897356,Login Issue,Medium,26,Closed,Chat
+TKT-9095,CUS-92717091,Subscription Problem,Medium,38,Closed,Chat
+TKT-4991,CUS-94422427,Bug Report,Low,43,Pending,Phone
+TKT-9130,CUS-66758276,Subscription Problem,Medium,18,Closed,Chat
+TKT-3547,CUS-87677781,Payment Failure,Medium,32,Closed,Chat
+TKT-6759,CUS-48691013,Payment Failure,Low,71,Closed,Email
+TKT-2907,CUS-32102294,Bug Report,Medium,26,Closed,Email
+TKT-4840,CUS-18849410,Payment Failure,Low,56,Closed,Chat
+TKT-8061,CUS-13066103,Login Issue,High,21,Closed,Email
+TKT-4672,CUS-39343424,Login Issue,Low,33,Closed,Chat
+TKT-9243,CUS-12824538,Subscription Problem,High,32,Closed,Email
+TKT-4507,CUS-53407897,Payment Failure,Medium,22,Closed,Email
+TKT-6425,CUS-87280011,Login Issue,Low,2,Closed,Chat
+TKT-7487,CUS-18538076,Login Issue,High,54,Open,Chat
+TKT-1864,CUS-68755827,Bug Report,Low,26,Pending,Chat
+TKT-5767,CUS-37310757,Refund Request,High,15,Open,Email
+TKT-7728,CUS-27301600,Subscription Problem,Critical,1,Open,Chat
+TKT-2503,CUS-30846455,Login Issue,Medium,14,Closed,Email
+TKT-9139,CUS-55664969,Bug Report,Medium,19,Closed,Chat
+TKT-4110,CUS-44857425,Subscription Problem,Low,60,Closed,Chat
+TKT-2032,CUS-61926051,Payment Failure,Low,19,Closed,Chat
+TKT-1211,CUS-77558053,Feature Request,High,6,Open,Email
+TKT-4274,CUS-13395672,Login Issue,Low,71,Open,Chat
+TKT-2658,CUS-64507417,Login Issue,Low,4,Closed,Phone
+TKT-2869,CUS-20306346,Bug Report,Low,55,Closed,Web Portal
+TKT-4706,CUS-95150306,Subscription Problem,High,32,Closed,Chat
+TKT-8314,CUS-66652827,Login Issue,High,19,Closed,Email
+TKT-6830,CUS-26627529,Bug Report,Low,39,Closed,Email
+TKT-4059,CUS-97892916,Refund Request,Low,33,Closed,Chat
+TKT-4299,CUS-15758882,Bug Report,Medium,54,Closed,Email
+TKT-5179,CUS-61586718,Refund Request,Medium,22,Open,Chat
+TKT-6009,CUS-24199214,Payment Failure,Low,52,Closed,Email
+TKT-2214,CUS-26668391,Subscription Problem,Low,32,Closed,Phone
+TKT-7609,CUS-98850214,Bug Report,Low,66,Closed,Web Portal
+TKT-2417,CUS-77403163,Payment Failure,Medium,16,Closed,Email
+TKT-3067,CUS-16051055,Payment Failure,High,27,Closed,Email
+TKT-3992,CUS-76864005,Login Issue,High,32,Closed,Email
+TKT-9533,CUS-51878328,Login Issue,Low,33,Closed,Email
+TKT-4810,CUS-36496703,Payment Failure,Low,53,Closed,Web Portal
+TKT-9368,CUS-38415938,Payment Failure,High,8,Closed,Chat
+TKT-7119,CUS-92708207,Bug Report,Medium,5,Closed,Email
+TKT-7720,CUS-76930541,Payment Failure,Low,25,Closed,Email
+TKT-5562,CUS-73934165,Login Issue,Low,67,Closed,Email
+TKT-9071,CUS-84399352,Login Issue,Medium,46,Closed,Chat
+TKT-8728,CUS-95765189,Login Issue,Low,25,Closed,Chat
+TKT-8495,CUS-95019123,Login Issue,Medium,23,Closed,Chat
+TKT-2969,CUS-37197551,Payment Failure,Low,53,Closed,Email
+TKT-9315,CUS-20738867,Refund Request,Medium,36,Closed,Chat
+TKT-6098,CUS-83507136,Bug Report,Low,22,Closed,Email
+TKT-8086,CUS-11310822,Subscription Problem,High,43,Open,Web Portal
+TKT-1926,CUS-20936188,Refund Request,Medium,65,Pending,Email
+TKT-5382,CUS-34528104,Payment Failure,Medium,31,Open,Web Portal
+TKT-4966,CUS-59672872,Refund Request,High,3,Closed,Chat
+TKT-8894,CUS-35273073,Login Issue,Medium,60,Closed,Chat
+TKT-1085,CUS-18616024,Payment Failure,High,8,Closed,Email
+TKT-8040,CUS-98822745,Subscription Problem,Low,12,Closed,Chat
+TKT-7055,CUS-67436615,Subscription Problem,High,11,Closed,Chat
+TKT-4872,CUS-34681349,Login Issue,Low,20,Closed,Chat
+TKT-9318,CUS-86355495,Bug Report,Medium,17,Closed,Email
+TKT-8172,CUS-54205398,Login Issue,Low,25,Closed,Chat
+TKT-9405,CUS-93111984,Subscription Problem,Low,15,Closed,Phone
+TKT-8389,CUS-11025493,Login Issue,Low,43,Closed,Email
+TKT-5187,CUS-32212557,Login Issue,Low,18,Closed,Email
+TKT-9520,CUS-31345092,Payment Failure,High,6,Closed,Phone
+TKT-7794,CUS-28164129,Bug Report,Low,71,Open,Email
+TKT-1093,CUS-27927103,Refund Request,Low,12,Pending,Web Portal
+TKT-6798,CUS-89234551,Subscription Problem,Critical,48,Open,Chat
+TKT-6294,CUS-96735302,Login Issue,Medium,44,Closed,Chat
+TKT-6261,CUS-20275450,Refund Request,Medium,41,Closed,Email
+TKT-3901,CUS-42372014,Login Issue,Medium,15,Closed,Chat
+TKT-8542,CUS-22583493,Login Issue,Medium,14,Open,Email
+TKT-7191,CUS-58578700,Payment Failure,Low,43,Closed,Chat
+TKT-7220,CUS-46965318,Payment Failure,High,72,Closed,Web Portal
+TKT-1342,CUS-99460065,Subscription Problem,Low,23,Closed,Phone
+TKT-6361,CUS-67290348,Subscription Problem,Low,53,Pending,Email
+TKT-5172,CUS-92235774,Login Issue,High,18,Pending,Email
+TKT-6166,CUS-56037688,Payment Failure,High,7,Closed,Chat
+TKT-3508,CUS-73396247,Bug Report,Medium,11,Closed,Chat
+TKT-6202,CUS-77794792,Subscription Problem,Low,13,Closed,Web Portal
+TKT-7139,CUS-23519735,Login Issue,Medium,6,Closed,Phone
+TKT-9765,CUS-70518646,Bug Report,High,4,Closed,Chat
+TKT-5080,CUS-44069214,Subscription Problem,Low,61,Closed,Web Portal
+TKT-2395,CUS-96275598,Bug Report,Low,24,Closed,Email
+TKT-6423,CUS-71259752,Bug Report,High,18,Closed,Web Portal
+TKT-9576,CUS-80799820,Subscription Problem,High,33,Closed,Web Portal
+TKT-2609,CUS-15587563,Subscription Problem,Low,57,Open,Email
+TKT-5482,CUS-47153420,Payment Failure,Low,29,Closed,Phone
+TKT-6275,CUS-34127906,Bug Report,Medium,53,Closed,Web Portal
+TKT-2845,CUS-23031570,Login Issue,Medium,10,Closed,Chat
+TKT-8431,CUS-65671952,Payment Failure,High,11,Closed,Email
+TKT-4941,CUS-33456446,Subscription Problem,Low,34,Closed,Email
+TKT-6452,CUS-17808709,Subscription Problem,Medium,50,Closed,Chat
+TKT-5166,CUS-65023746,Login Issue,Medium,68,Closed,Email
+TKT-6401,CUS-31891460,Payment Failure,Medium,72,Open,Chat
+TKT-7814,CUS-70135208,Refund Request,Low,60,Closed,Email
+TKT-4842,CUS-72976686,Login Issue,Low,18,Open,Email
+TKT-8619,CUS-57067831,Refund Request,Medium,32,Closed,Email
+TKT-2349,CUS-99926536,Subscription Problem,Medium,13,Closed,Email
+TKT-8848,CUS-59018303,Feature Request,Medium,28,Closed,Email
+TKT-6708,CUS-18002326,Login Issue,High,35,Closed,Phone
+TKT-1907,CUS-92953433,Login Issue,Low,28,Open,Chat
+TKT-7581,CUS-48131355,Payment Failure,High,62,Closed,Chat
+TKT-7062,CUS-97709872,Bug Report,High,39,Closed,Chat
+TKT-3303,CUS-11127785,Subscription Problem,Medium,2,Closed,Email
+TKT-2540,CUS-49263577,Feature Request,Low,3,Closed,Email
+TKT-3676,CUS-83686696,Login Issue,Low,8,Pending,Web Portal
+TKT-7135,CUS-82876081,Payment Failure,High,30,Closed,Chat
+TKT-9718,CUS-76066020,Bug Report,Low,38,Closed,Email
+TKT-8218,CUS-10263515,Feature Request,Low,25,Pending,Chat
+TKT-6712,CUS-59760349,Login Issue,Medium,12,Closed,Email
+TKT-8842,CUS-64733097,Payment Failure,Medium,32,Pending,Chat
+TKT-6507,CUS-96233311,Bug Report,High,62,Closed,Email
+TKT-7738,CUS-86982823,Bug Report,Medium,21,Open,Chat
+TKT-7595,CUS-92719565,Bug Report,Low,27,Closed,Web Portal
+TKT-4802,CUS-34771980,Subscription Problem,Medium,46,Closed,Chat
+TKT-9343,CUS-91300763,Login Issue,Medium,5,Closed,Chat
+TKT-7018,CUS-85260905,Payment Failure,Low,5,Pending,Email
+TKT-4556,CUS-43422305,Bug Report,Medium,29,Closed,Email
+TKT-5264,CUS-41677974,Login Issue,Low,9,Closed,Chat
+TKT-6557,CUS-12528365,Payment Failure,High,32,Closed,Phone
+TKT-8376,CUS-64183698,Login Issue,Medium,2,Open,Phone
+TKT-2555,CUS-50139492,Login Issue,Medium,31,Open,Email
+TKT-5608,CUS-36032291,Bug Report,High,6,Closed,Chat
+TKT-5496,CUS-13810091,Login Issue,Low,68,Closed,Email
+TKT-8928,CUS-39563848,Subscription Problem,Low,43,Pending,Phone
+TKT-5765,CUS-63844300,Refund Request,Low,59,Open,Email
+TKT-2407,CUS-65038984,Bug Report,Medium,16,Closed,Phone
+TKT-2388,CUS-18124337,Bug Report,High,51,Open,Phone
+TKT-3064,CUS-64087734,Payment Failure,Low,16,Closed,Chat
+TKT-5037,CUS-92909484,Login Issue,Medium,69,Open,Web Portal
+TKT-1584,CUS-69702634,Login Issue,High,72,Closed,Chat
+TKT-3038,CUS-53636494,Login Issue,Medium,7,Closed,Phone
+TKT-9170,CUS-47540895,Subscription Problem,Medium,14,Open,Email
+TKT-2096,CUS-50584634,Login Issue,Low,68,Closed,Email
+TKT-4146,CUS-26976048,Payment Failure,Critical,21,Open,Email
+TKT-7304,CUS-15979597,Refund Request,Low,4,Open,Chat
+TKT-5544,CUS-87333722,Login Issue,Medium,7,Open,Phone
+TKT-8662,CUS-23993526,Login Issue,Low,65,Pending,Chat
+TKT-8017,CUS-59573144,Payment Failure,Low,16,Closed,Chat
+TKT-3033,CUS-60930648,Subscription Problem,Low,13,Pending,Phone
+TKT-4238,CUS-65037999,Subscription Problem,Medium,56,Closed,Phone
+TKT-3224,CUS-27156620,Bug Report,High,28,Closed,Web Portal
+TKT-8965,CUS-42972000,Bug Report,Medium,14,Closed,Chat
+TKT-1483,CUS-38766312,Login Issue,Low,29,Open,Web Portal
+TKT-3691,CUS-25999225,Bug Report,Low,32,Open,Web Portal
+TKT-9655,CUS-76585666,Login Issue,Low,54,Closed,Chat
+TKT-7942,CUS-69981220,Login Issue,Medium,58,Closed,Web Portal
+TKT-7806,CUS-94714452,Subscription Problem,Medium,21,Closed,Chat
+TKT-2176,CUS-72403639,Bug Report,Low,59,Closed,Email
+TKT-4490,CUS-33711873,Refund Request,Medium,46,Closed,Chat
+TKT-2601,CUS-39061724,Login Issue,High,30,Closed,Chat
+TKT-2320,CUS-36996781,Login Issue,Low,60,Closed,Chat
+TKT-2333,CUS-77402777,Login Issue,Low,56,Closed,Chat
+TKT-9230,CUS-52665760,Refund Request,Medium,39,Closed,Email
+TKT-2868,CUS-32718908,Login Issue,Medium,68,Closed,Phone
+TKT-2404,CUS-71228224,Refund Request,Low,8,Closed,Email
+TKT-3995,CUS-98189665,Payment Failure,Low,52,Pending,Web Portal
+TKT-6039,CUS-42667608,Subscription Problem,Medium,38,Closed,Web Portal
+TKT-9215,CUS-10003619,Payment Failure,Low,68,Open,Web Portal
+TKT-5865,CUS-24639148,Login Issue,Low,65,Closed,Email
+TKT-5668,CUS-15446777,Bug Report,Medium,2,Closed,Chat
+TKT-8727,CUS-15925998,Login Issue,Medium,7,Closed,Web Portal
+TKT-8576,CUS-43025627,Login Issue,High,57,Open,Email
+TKT-6153,CUS-46569348,Subscription Problem,Medium,19,Pending,Chat
+TKT-3569,CUS-89396177,Login Issue,Medium,35,Open,Email
+TKT-2410,CUS-38153214,Login Issue,High,52,Pending,Email
+TKT-6867,CUS-10283704,Subscription Problem,High,69,Closed,Chat
+TKT-8669,CUS-46923239,Subscription Problem,Medium,32,Closed,Email
+TKT-7683,CUS-20640556,Login Issue,Low,71,Open,Chat
+TKT-9541,CUS-40282378,Subscription Problem,High,28,Closed,Email
+TKT-9316,CUS-43174266,Login Issue,Low,58,Closed,Email
+TKT-5131,CUS-21561731,Refund Request,High,5,Closed,Chat
+TKT-2656,CUS-42967987,Login Issue,Medium,68,Open,Chat
