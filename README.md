@@ -187,10 +187,11 @@ The project uses:
 ## 📷 Dashboard Screenshots
 
 ### Executive Overview
+![Executive Overview](Images/executive_overview.png)
 
 
 ### Customer Value Segmentation
-
+![Customer Value Segmentation](Images/customer_segmentation.png)
 
 ---
 
